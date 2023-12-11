@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:CODECS="avc1.4d0029,mp4a.40.2",RESOLUTION=1920x1080,BANDWIDTH=5128000
+http://mains.services/live/wickeduk/asdfasdfasdf3/87c5bc26-8724-439a-a84f-7ccf15fcb994.m3u
