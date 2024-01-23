@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-STREAM-INF:BANDWIDTH=4500000
+https://unidfp-nlds159.global.ssl.fastly.net/nlds/univisionnow/galavision_west/as/live/galavision_west_hd_4500_pc.m3u8?t1=
+#EXT-X-STREAM-INF:BANDWIDTH=3000000
+https://unidfp-nlds159.global.ssl.fastly.net/nlds/univisionnow/galavision_west/as/live/galavision_west_hd_3000_pc.m3u8?t1=
+#EXT-X-STREAM-INF:BANDWIDTH=1600000
+https://unidfp-nlds159.global.ssl.fastly.net/nlds/univisionnow/galavision_west/as/live/galavision_west_hd_1600_pc.m3u8?t1=
+#EXT-X-STREAM-INF:BANDWIDTH=1200000
+https://unidfp-nlds159.global.ssl.fastly.net/nlds/univisionnow/galavision_west/as/live/galavision_west_hd_1200_pc.m3u8?t1=
+#EXT-X-STREAM-INF:BANDWIDTH=800000
+https://unidfp-nlds159.global.ssl.fastly.net/nlds/univisionnow/galavision_west/as/live/galavision_west_hd_800_pc.m3u8?t1=
+#EXT-X-STREAM-INF:BANDWIDTH=400000
+https://unidfp-nlds159.global.ssl.fastly.net/nlds/univisionnow/galavision_west/as/live/galavision_west_hd_400_pc.m3u8?t1=
