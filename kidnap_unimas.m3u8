@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:4
 #EXT-X-STREAM-INF:BANDWIDTH=800000
-https://unidfp-nlds164.global.ssl.fastly.net/nlds/univisionnow/unimas_east2/as/live/unimas_east2_hd_800_pc_20240302233000_020000.mp4.m3u8?hdnea=st=1709487360~exp=1709573760~acl=*~hmac=e361bff87100436849c455f84700987e6728b1718b407172fa8ebd128a6ba1af&fdvr=dvr
+https://unidfp-nlds164.global.ssl.fastly.net/nlds/univisionnow/unimas_east2/as/live/unimas_east2_hd_800_pc_20240302233000_020000.mp4.m3u8?t
 #EXT-X-STREAM-INF:BANDWIDTH=4500000
 https://unidfp-nlds164.global.ssl.fastly.net/nlds/univisionnow/unimas_east2/as/live/unimas_east2_hd_4500_pc_20240302233000_020000.mp4.m3u8?hdnea=st=1709487360~exp=1709573760~acl=*~hmac=e361bff87100436849c455f84700987e6728b1718b407172fa8ebd128a6ba1af&fdvr=dvr
 #EXT-X-STREAM-INF:BANDWIDTH=3000000
