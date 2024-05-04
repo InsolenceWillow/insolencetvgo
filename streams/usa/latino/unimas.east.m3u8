@@ -1,14 +1,13 @@
 #EXTM3U
-#EXT-X-VERSION:4
-#EXT-X-STREAM-INF:BANDWIDTH=4500000
+#EXTINF:-1 tvg-id="UniMas.us" tvg-name="UniMas" tvg-logo="https://static.epg.best/us/UniMas.us.png" group-title="720p",UniMas 720p
 https://unidfp-nlds164.global.ssl.fastly.net/nlds/univisionnow/unimas_east2/as/live/unimas_east2_hd_4500_pc.m3u8?t1=
-#EXT-X-STREAM-INF:BANDWIDTH=3000000
+#EXTINF:-1 tvg-id="UniMas.us" tvg-name="UniMas" tvg-logo="https://static.epg.best/us/UniMas.us.png" group-title="576p",UniMas 576p
 https://unidfp-nlds164.global.ssl.fastly.net/nlds/univisionnow/unimas_east2/as/live/unimas_east2_hd_3000_pc.m3u8?t1=
-#EXT-X-STREAM-INF:BANDWIDTH=1600000
+#EXTINF:-1 tvg-id="UniMas.us" tvg-name="UniMas" tvg-logo="https://static.epg.best/us/UniMas.us.png" group-title="480p",UniMas 480p
 https://unidfp-nlds164.global.ssl.fastly.net/nlds/univisionnow/unimas_east2/as/live/unimas_east2_hd_1600_pc.m3u8?t1=
-#EXT-X-STREAM-INF:BANDWIDTH=1200000
+#EXTINF:-1 tvg-id="UniMas.us" tvg-name="UniMas" tvg-logo="https://static.epg.best/us/UniMas.us.png" group-title="360p",UniMas 360p
 https://unidfp-nlds164.global.ssl.fastly.net/nlds/univisionnow/unimas_east2/as/live/unimas_east2_hd_1200_pc.m3u8?t1=
-#EXT-X-STREAM-INF:BANDWIDTH=800000
+#EXTINF:-1 tvg-id="UniMas.us" tvg-name="UniMas" tvg-logo="https://static.epg.best/us/UniMas.us.png" group-title="240p",UniMas 240p
 https://unidfp-nlds164.global.ssl.fastly.net/nlds/univisionnow/unimas_east2/as/live/unimas_east2_hd_800_pc.m3u8?t1=
-#EXT-X-STREAM-INF:BANDWIDTH=400000
+#EXTINF:-1 tvg-id="UniMas.us" tvg-name="UniMas" tvg-logo="https://static.epg.best/us/UniMas.us.png" group-title="144p",UniMas 144p
 https://unidfp-nlds164.global.ssl.fastly.net/nlds/univisionnow/unimas_east2/as/live/unimas_east2_hd_400_pc.m3u8?t1=
