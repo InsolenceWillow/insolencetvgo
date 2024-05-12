@@ -17,3 +17,9 @@ http://thevdm.xyz:25461/Jennifer/Year!/34461
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkPacific.us" tvg-name="Adult Swim West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/2560px-Adult_Swim_2003_logo.svg.png" group-title="Adult",Adult Swim West
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aswest/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 tvg-id="AandENetwork.us" tvg-name="A&E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logo_AE_Germany.svg/1200px-Logo_AE_Germany.svg.png" group-title="Crime",A&E HD
+http://thevdm.xyz:25461/Jennifer/Year!/39695
+#EXTINF:-1 tvg-id="AandENetwork.us" tvg-name="A&E FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logo_AE_Germany.svg/1200px-Logo_AE_Germany.svg.png" group-title="Crime",A&E FHD
+http://thevdm.xyz:25461/Jennifer/Year!/43987
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1200px-AMC_logo_2019.svg.png" group-title="Movies",AMC
+http://thevdm.xyz:25461/Jennifer/Year!/43989
