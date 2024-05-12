@@ -1,11 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="3ABNKids.us" tvg-name="3ABN Kids" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/a1/03/93/a103938e-888f-31ed-c85d-0ed2ab8d6d55/source/512x512bb.png" group-title="Kids",3ABN Kids
+#EXTINF:-1 tvg-id="0" tvg-name="3ABN Kids" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/a1/03/93/a103938e-888f-31ed-c85d-0ed2ab8d6d55/source/512x512bb.png" group-title="Kids",3ABN Kids
 https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
 #EXTINF:-1 tvg-id="5StarMax.us" tvg-name="5 Starmax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/5StarMax_Logo.svg/1280px-5StarMax_Logo.svg.png" group-title="Movies",5 Starmax
-http://thevdm.xyz:25461/live/Jennifer/Year!/34459.m3u8
-#EXTINF:-1 tvg-id="ABCWABC.us" tvg-name="ABC East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg" group-title="Locals",ABC East
-http://thevdm.xyz:25461/live/Jennifer/Year!/39696.m3u8
-#EXTINF:-1 tvg-id="ABCKABC.us" tvg-name="ABC West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg" group-title="Locals",ABC West
-http://thevdm.xyz:25461/live/Jennifer/Year!/39697.m3u8
-#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="ACC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/1024px-ACC_Network_ESPN_logo.svg.png" group-title="Locals",ABC West
-http://thevdm.xyz:25461/live/Jennifer/Year!/39697.m3u8
+http://thevdm.xyz:25461/Jennifer/Year!/34459
+#EXTINF:-1 tvg-id="ABCWABC.us" tvg-name="ABC East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg" group-title="Locals",ABC East (New York)
+http://thevdm.xyz:25461/Jennifer/Year!/39696
+#EXTINF:-1 tvg-id="ABCKABC.us" tvg-name="ABC West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg" group-title="Locals",ABC West (Los Angeles)
+http://thevdm.xyz:25461/Jennifer/Year!/39697
+#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="ACC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/1024px-ACC_Network_ESPN_logo.svg.png" group-title="Sports",ACC Network
+http://thevdm.xyz:25461/Jennifer/Year!/20037
+#EXTINF:-1 tvg-id="ActionMAX.us" tvg-name="ActionMAX East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/ActionMax_logo.svg/2560px-ActionMax_logo.svg.png" group-title="Movies",ActionMAX East
+http://thevdm.xyz:25461/Jennifer/Year!/34460
+#EXTINF:-1 tvg-id="ActionMAXPacific.us" tvg-name="ActionMAX West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/ActionMax_logo.svg/2560px-ActionMax_logo.svg.png" group-title="Movies",ActionMAX West
+http://thevdm.xyz:25461/Jennifer/Year!/34461
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Adult Swim East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/2560px-Adult_Swim_2003_logo.svg.png" group-title="Movies",Adult Swim East
+https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
