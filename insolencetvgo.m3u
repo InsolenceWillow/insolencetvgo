@@ -97,3 +97,13 @@ http://thevdm.xyz:25461/Jennifer/Year!/19848
 http://thevdm.xyz:25461/Jennifer/Year!/39713
 #EXTINF:-1 tvg-id="BETPacific.us" tvg-name="BET West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/BET-2021Logo.svg" group-title="Entertainment",BET West
 http://thevdm.xyz:25461/Jennifer/Year!/39714
+#EXTINF:-1 tvg-id="BETGospel.us" tvg-name="BET Gospel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/BET_Gospel_2022_%28Vertical%29.svg/revision/latest?cb=20230922065149" group-title="Music",BET Gospel
+http://supersonictv.live:8080/242306/210404/22056
+#EXTINF:-1 tvg-id="BETHer.us" tvg-name="BET Her" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/BET_Her_2021.png" group-title="Entertainment",BET Her
+http://thevdm.xyz:25461/Jennifer/Year!/44000
+#EXTINF:-1 tvg-id="BETJams.us" tvg-name="BET Jams" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/BET_Jams_2021_%28Vertical%29.svg/revision/latest/scale-to-width-down/250?cb=20230922123529" group-title="Music",BET Jams
+http://thevdm.xyz:25461/Jennifer/Year!/39716
+#EXTINF:-1 tvg-id="BETSOUL.us" tvg-name="BET Soul" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/BET_Soul_2021_%28Vertical%29.svg/revision/latest/scale-to-width-down/250?cb=20230923015343" group-title="Music",BET Soul
+http://thevdm.xyz:25461/Jennifer/Year!/39717
+#EXTINF:-1 tvg-id="BigTen.us" tvg-name="Big Ten Network SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/1200px-Big_Ten_Network_Logo.svg.png" group-title="Sports",Big Ten Network SD
+http://thevdm.xyz:25461/Jennifer/Year!/77783
