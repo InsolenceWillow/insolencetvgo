@@ -93,3 +93,7 @@ http://thevdm.xyz:25461/Jennifer/Year!/20038
 http://thevdm.xyz:25461/Jennifer/Year!/43997
 #EXTINF:-1 tvg-id="beINSportsEnEspanol.us" tvg-name="beIN Sports En Espanol" tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=06-02-2024?w=3840&q=75" group-title="Spanish",beIN Sports En Espanol
 http://thevdm.xyz:25461/Jennifer/Year!/19848
+#EXTINF:-1 tvg-id="BET.us" tvg-name="BET East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/BET-2021Logo.svg" group-title="Entertainment",BET East
+http://thevdm.xyz:25461/Jennifer/Year!/39713
+#EXTINF:-1 tvg-id="BETPacific.us" tvg-name="BET West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/BET-2021Logo.svg" group-title="Entertainment",BET West
+http://thevdm.xyz:25461/Jennifer/Year!/39714
