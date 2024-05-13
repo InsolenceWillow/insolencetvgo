@@ -13,9 +13,9 @@ http://thevdm.xyz:25461/Jennifer/Year!/20037
 http://thevdm.xyz:25461/Jennifer/Year!/34460
 #EXTINF:-1 tvg-id="ActionMAXPacific.us" tvg-name="ActionMAX West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/ActionMax_logo.svg/2560px-ActionMax_logo.svg.png" group-title="Movies",ActionMAX West
 http://thevdm.xyz:25461/Jennifer/Year!/34461
-#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Adult Swim East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/2560px-Adult_Swim_2003_logo.svg.png" group-title="Adult",Adult Swim East
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Adult Swim East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/2560px-Adult_Swim_2003_logo.svg.png" group-title="Entertainment",Adult Swim East
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkPacific.us" tvg-name="Adult Swim West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/2560px-Adult_Swim_2003_logo.svg.png" group-title="Adult",Adult Swim West
+#EXTINF:-1 tvg-id="CartoonNetworkPacific.us" tvg-name="Adult Swim West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/2560px-Adult_Swim_2003_logo.svg.png" group-title="Entertainment",Adult Swim West
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aswest/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-id="AandENetwork.us" tvg-name="A&E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logo_AE_Germany.svg/1200px-Logo_AE_Germany.svg.png" group-title="Crime",A&E HD
 http://thevdm.xyz:25461/Jennifer/Year!/39695
@@ -23,3 +23,73 @@ http://thevdm.xyz:25461/Jennifer/Year!/39695
 http://thevdm.xyz:25461/Jennifer/Year!/43987
 #EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1200px-AMC_logo_2019.svg.png" group-title="Movies",AMC
 http://thevdm.xyz:25461/Jennifer/Year!/43989
+#EXTINF:-1 tvg-id="AMCPlus.us" tvg-name="AMC Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/AMC%2B_logo.png" group-title="Movies",AMC Plus
+http://thevdm.xyz:25461/Jennifer/Year!/31382
+#EXTINF:-1 tvg-id="AmericanHeroesChannel.us" tvg-name="American Heroes Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/1200px-American_Heroes_Channel_logo.svg.png" group-title="Documentaries",American Heroes Channel
+http://thevdm.xyz:25461/Jennifer/Year!/39703
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet East HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" group-title="Documentaries",Animal Planet East HD
+http://thevdm.xyz:25461/Jennifer/Year!/39705
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet East FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" group-title="Documentaries",Animal Planet East FHD
+http://thevdm.xyz:25461/Jennifer/Year!/43991
+#EXTINF:-1 tvg-id="AnimalPlanetPacific.us" tvg-name="Animal Planet West SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" group-title="Documentaries",Animal Planet West SD
+http://thevdm.xyz:25461/Jennifer/Year!/43992
+#EXTINF:-1 tvg-id="AnimalPlanetPacific.us" tvg-name="Animal Planet West HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" group-title="Documentaries",Animal Planet West HD
+http://thevdm.xyz:25461/Jennifer/Year!/39706
+#EXTINF:-1 tvg-id="AXSTV.us" tvg-name="AXS TV" tvg-logo="https://markcubancompanies.com/wp-content/uploads/2020/06/axs-tv-logo.png" group-title="Music",AXS TV
+http://thevdm.xyz:25461/Jennifer/Year!/43993
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Logotipo_de_TV_Azteca.png" group-title="Spanish",Azteca 7
+http://thevdm.xyz:25461/Jennifer/Year!/19842
+#EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="Azteca Corazon" tvg-logo="https://www.telegratishd.com/imge/azcorazon.png" group-title="Spanish",Azteca Corazon
+http://thevdm.xyz:25461/Jennifer/Year!/19840
+#EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" tvg-logo="https://static.wikia.nocookie.net/babyfirsttv/images/5/56/BabyFirst_Logo_2019.png/revision/latest?cb=20240422182307" group-title="Kids",BabyFirst
+http://thevdm.xyz:25461/Jennifer/Year!/28109
+#EXTINF:-1 tvg-id="BallySportsDetroit.us" tvg-name="Bally Sports Detroit" tvg-logo="https://i.ibb.co/fxf61dL/bally-sports-us.png" group-title="Sports",Bally Sports Detroit
+http://thevdm.xyz:25461/Jennifer/Year!/20058
+#EXTINF:-1 tvg-id="BallySportsFlorida.us" tvg-name="Bally Sports Florida" tvg-logo="https://i.ibb.co/fxf61dL/bally-sports-us.png" group-title="Sports",Bally Sports Florida
+http://thevdm.xyz:25461/Jennifer/Year!/20059
+#EXTINF:-1 tvg-id="BallySportsGreatLakes.us" tvg-name="Bally Sports Great Lakes" tvg-logo="https://i.ibb.co/fxf61dL/bally-sports-us.png" group-title="Sports",Bally Sports Great Lakes
+http://thevdm.xyz:25461/Jennifer/Year!/20078
+#EXTINF:-1 tvg-id="BallySportsIndiana.us" tvg-name="Bally Sports Indiana" tvg-logo="https://i.ibb.co/fxf61dL/bally-sports-us.png" group-title="Sports",Bally Sports Indiana
+http://thevdm.xyz:25461/Jennifer/Year!/28847
+#EXTINF:-1 tvg-id="BallySportsKansasCity.us" tvg-name="Bally Sports Kansas City" tvg-logo="https://i.ibb.co/fxf61dL/bally-sports-us.png" group-title="Sports",Bally Sports Kansas City
+http://thevdm.xyz:25461/Jennifer/Year!/39958
+#EXTINF:-1 tvg-id="BallySportsMidwest.us" tvg-name="Bally Sports Midwest" tvg-logo="https://i.ibb.co/fxf61dL/bally-sports-us.png" group-title="Sports",Bally Sports Midwest
+http://thevdm.xyz:25461/Jennifer/Year!/20063
+#EXTINF:-1 tvg-id="BallySportsNewOrleans.us" tvg-name="Bally Sports New Orleans" tvg-logo="https://i.ibb.co/fxf61dL/bally-sports-us.png" group-title="Sports",Bally Sports New Orleans
+http://thevdm.xyz:25461/Jennifer/Year!/20064
+#EXTINF:-1 tvg-id="BallySportsNorth.us" tvg-name="Bally Sports North" tvg-logo="https://i.ibb.co/fxf61dL/bally-sports-us.png" group-title="Sports",Bally Sports North
+http://thevdm.xyz:25461/Jennifer/Year!/20066
+#EXTINF:-1 tvg-id="ballysportsohio.us" tvg-name="Bally Sports Ohio" tvg-logo="https://i.ibb.co/fxf61dL/bally-sports-us.png" group-title="Sports",Bally Sports Ohio
+http://thevdm.xyz:25461/Jennifer/Year!/20067
+#EXTINF:-1 tvg-id="BallySportsOklahoma.us" tvg-name="Bally Sports Oklahoma" tvg-logo="https://i.ibb.co/fxf61dL/bally-sports-us.png" group-title="Sports",Bally Sports Oklahoma
+http://thevdm.xyz:25461/Jennifer/Year!/20069
+#EXTINF:-1 tvg-id="BallySportsSanDiego.us" tvg-name="Bally Sports San Diego" tvg-logo="https://i.ibb.co/fxf61dL/bally-sports-us.png" group-title="Sports",Bally Sports San Diego
+http://thevdm.xyz:25461/Jennifer/Year!/20072
+#EXTINF:-1 tvg-id="BallySportsSoCal.us" tvg-name="Bally Sports SoCal" tvg-logo="https://i.ibb.co/fxf61dL/bally-sports-us.png" group-title="Sports",Bally Sports SoCal
+http://thevdm.xyz:25461/Jennifer/Year!/20070
+#EXTINF:-1 tvg-id="BallySportsSouth.us" tvg-name="Bally Sports South" tvg-logo="https://i.ibb.co/fxf61dL/bally-sports-us.png" group-title="Sports",Bally Sports South
+http://thevdm.xyz:25461/Jennifer/Year!/20073
+#EXTINF:-1 tvg-id="BallySportsSoutheast.us" tvg-name="Bally Sports Southeast" tvg-logo="https://i.ibb.co/fxf61dL/bally-sports-us.png" group-title="Sports",Bally Sports Southeast
+http://thevdm.xyz:25461/Jennifer/Year!/20074
+#EXTINF:-1 tvg-id="BallySportsSouthwest.us" tvg-name="Bally Sports Southwest" tvg-logo="https://i.ibb.co/fxf61dL/bally-sports-us.png" group-title="Sports",Bally Sports Southwest
+http://thevdm.xyz:25461/Jennifer/Year!/20075
+#EXTINF:-1 tvg-id="BallySportsSun.us" tvg-name="Bally Sports Sun" tvg-logo="https://i.ibb.co/fxf61dL/bally-sports-us.png" group-title="Sports",Bally Sports Sun
+http://thevdm.xyz:25461/Jennifer/Year!/20077
+#EXTINF:-1 tvg-id="BallySportsWest.us" tvg-name="Bally Sports West" tvg-logo="https://i.ibb.co/fxf61dL/bally-sports-us.png" group-title="Sports",Bally Sports West
+http://thevdm.xyz:25461/Jennifer/Year!/20079
+#EXTINF:-1 tvg-id="BallySportsWisconsin.us" tvg-name="Bally Sports Wisconsin" tvg-logo="https://i.ibb.co/fxf61dL/bally-sports-us.png" group-title="Sports",Bally Sports Wisconsin
+http://thevdm.xyz:25461/Jennifer/Year!/20080
+#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/BBC_America_logo_2021.svg" group-title="Entertainment",BBC America
+http://thevdm.xyz:25461/Jennifer/Year!/39711
+#EXTINF:-1 tvg-id="BBCWorldNews.us" tvg-name="BBC World News HD" tvg-logo="https://c.files.bbci.co.uk/16B26/production/_96566929_bbc_wn_rgb.png" group-title="News",BBC World News HD
+http://thevdm.xyz:25461/Jennifer/Year!/39712
+#EXTINF:-1 tvg-id="BBCWorldNews.us" tvg-name="BBC World News FHD" tvg-logo="https://c.files.bbci.co.uk/16B26/production/_96566929_bbc_wn_rgb.png" group-title="News",BBC World News FHD
+http://thevdm.xyz:25461/Jennifer/Year!/43996
+#EXTINF:-1 tvg-id="beinsportslaliga.us" tvg-name="beIN Sports La Liga" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/BeIn_Sports_LaLiga_1.png" group-title="Sports",beIN Sports La Liga
+http://thevdm.xyz:25461/Jennifer/Year!/19847
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="beIN Sports SD" tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=06-02-2024?w=3840&q=75" group-title="Sports",beIN Sports SD
+http://thevdm.xyz:25461/Jennifer/Year!/20038
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="beIN Sports HD" tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=06-02-2024?w=3840&q=75" group-title="Sports",beIN Sports HD
+http://thevdm.xyz:25461/Jennifer/Year!/43997
+#EXTINF:-1 tvg-id="beINSportsEnEspanol.us" tvg-name="beIN Sports En Espanol" tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=06-02-2024?w=3840&q=75" group-title="Spanish",beIN Sports HD
+http://thevdm.xyz:25461/Jennifer/Year!/19848
