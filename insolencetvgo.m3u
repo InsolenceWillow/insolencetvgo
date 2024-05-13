@@ -113,3 +113,25 @@ http://thevdm.xyz:25461/Jennifer/Year!/44003
 http://thevdm.xyz:25461/Jennifer/Year!/39718
 #EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="Bloomberg FHD" tvg-logo="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivUxvlPidC3M/v0/-1x-1.jpg" group-title="News",Bloomberg FHD
 http://thevdm.xyz:25461/Jennifer/Year!/44005
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="Kids",Boomerang
+http://thevdm.xyz:25461/Jennifer/Year!/44006
+#EXTINF:-1 tvg-id="BounceTV.us" tvg-name="Bounce" tvg-logo="https://storage.googleapis.com/btvwp-uploads/2018/02/5bfb1301-bounce_adjusted1.png" group-title="Entertainment",Bounce
+http://thevdm.xyz:25461/Jennifer/Year!/39719
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="Bravo East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/1200px-Bravo_2017_logo.svg.png" group-title="Entertainment",Bravo East
+http://thevdm.xyz:25461/Jennifer/Year!/44007
+#EXTINF:-1 tvg-id="BravoPacific.us" tvg-name="Bravo West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/1200px-Bravo_2017_logo.svg.png" group-title="Entertainment",Bravo West
+http://thevdm.xyz:25461/Jennifer/Year!/44008
+#EXTINF:-1 tvg-id="BUZZR.us" tvg-name="Buzzr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/800px-Buzzr_logo.svg.png" group-title="Entertainment",Buzzr
+https://buzzrota-web.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Caracol.mx" tvg-name="Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="Spanish",Caracol
+https://6oclock.xyz:8443/Tyrone43147/My3boys/27978
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network East
+http://thevdm.xyz:25461/Jennifer/Year!/44009
+#EXTINF:-1 tvg-id="CartoonNetworkPacific.us" tvg-name="Cartoon Network West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network West
+http://supersonictv.live:8080/242306/210404/21794
+#EXTINF:-1 tvg-id="CBSWCBS.us" tvg-name="CBS East" tvg-logo="https://cordcutting.com/wp-content/uploads/2022/03/CBS-Logo.png" group-title="Locals",CBS East
+http://thevdm.xyz:25461/Jennifer/Year!/39726
+#EXTINF:-1 tvg-id="CBSKCBS.us" tvg-name="CBS West" tvg-logo="https://cordcutting.com/wp-content/uploads/2022/03/CBS-Logo.png" group-title="Locals",CBS West
+http://thevdm.xyz:25461/Jennifer/Year!/39727
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="CBS Sports Network" tvg-logo="https://static.wikia.nocookie.net/viacom4633/images/7/73/ACCD68D0-9B23-449F-A783-E8CF43EE2BD4.png/revision/latest?cb=20191208013647" group-title="Sports",CBS Sports Network
+http://thevdm.xyz:25461/Jennifer/Year!/44012
