@@ -137,7 +137,7 @@ http://thevdm.xyz:25461/Jennifer/Year!/39727
 http://thevdm.xyz:25461/Jennifer/Year!/44012
 #EXTINF:-1 tvg-id="Charge!.us" tvg-name="Charge East" tvg-logo="https://d12lhx8qhim5rg.cloudfront.net/uploads/2021/07/Charge_Yellow-1.png" group-title="Entertainment",Charge East
 https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
-#EXTINF:-1 tvg-id="Charge!Pacific.us" tvg-name="Charge West" tvg-logo="https://d12lhx8qhim5rg.cloudfront.net/uploads/2021/07/Charge_Yellow-1.png" group-title="Entertainment",Charge West
+#EXTINF:-1 tvg-id="ChargePacific.us" tvg-name="Charge West" tvg-logo="https://d12lhx8qhim5rg.cloudfront.net/uploads/2021/07/Charge_Yellow-1.png" group-title="Entertainment",Charge West
 https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8?delay=10800
 #EXTINF:-1 tvg-id="CineMAX.us" tvg-name="Cinemax East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Cinemax_%282011%29_%28Alternative%29.svg/revision/latest?cb=20171227101540" group-title="Movies",Cinemax East
 http://thevdm.xyz:25461/Jennifer/Year!/34462
@@ -181,3 +181,19 @@ https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8?delay=10800
 #EXTINF:-1 tvg-id="CrimeandInvestigationNetwork.us" tvg-name="Crime & Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg" group-title="Crime",Crime & Investigation
 http://supersonictv.live:8080/242306/210404/22071
+#EXTINF:-1 tvg-id="CSPAN.us" tvg-name="C-SPAN" tvg-logo="https://cdn.cookielaw.org/logos/d22918b5-2a6a-4319-9b32-da9ae46d5aea/018de6d6-63c9-76c9-b943-a6dab502c30c/8606505d-18ba-4c6a-8619-883e3c2c5877/CSPAN_RGB_Navy_and_Cobalt.png" group-title="News",C-SPAN
+http://thevdm.xyz:25461/Jennifer/Year!/39723
+#EXTINF:-1 tvg-id="CSPAN2.us" tvg-name="C-SPAN 2" tvg-logo="https://cdn.worldvectorlogo.com/logos/c-span2.svg" group-title="News",C-SPAN 2
+http://thevdm.xyz:25461/Jennifer/Year!/39724
+#EXTINF:-1 tvg-id="CSPAN3.us" tvg-name="C-SPAN 3" tvg-logo="https://i0.wp.com/graphicpolicy.com/wp-content/uploads/2022/11/cspan3.png?fit=800%2C250&ssl=1" group-title="News",C-SPAN 3
+http://thevdm.xyz:25461/Jennifer/Year!/39725
+#EXTINF:-1 tvg-id="CWWPIX.us" tvg-name="CW (New York)" tvg-logo="https://cdn.cookielaw.org/logos/60ba8bee-28bd-45b9-bfaf-0bc25767ba53/8759a1c2-140a-4c40-9971-9507bd445f02/96f451bb-2555-4c61-a248-8b78334b4fbe/CW-logo-black.png" group-title="Locals",CW East (New York)
+http://thevdm.xyz:25461/Jennifer/Year!/85977
+#EXTINF:-1 tvg-id="CWKTLA.us" tvg-name="CW (New York)" tvg-logo="https://cdn.cookielaw.org/logos/60ba8bee-28bd-45b9-bfaf-0bc25767ba53/8759a1c2-140a-4c40-9971-9507bd445f02/96f451bb-2555-4c61-a248-8b78334b4fbe/CW-logo-black.png" group-title="Locals",CW West (Los Angeles)
+http://thevdm.xyz:25461/Jennifer/Year!/85970
+#EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="Destination America HD" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/Destination-America-White.png.webp" group-title="Documentaries",Destination America HD
+http://thevdm.xyz:25461/Jennifer/Year!/44025
+#EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="Destination America FHD" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/Destination-America-White.png.webp" group-title="Documentaries",Destination America FHD
+http://thevdm.xyz:25461/Jennifer/Year!/31401
+#EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="Destination America FHD" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/Destination-America-White.png.webp" group-title="Documentaries",Destination America FHD
+http://thevdm.xyz:25461/Jennifer/Year!/44026
