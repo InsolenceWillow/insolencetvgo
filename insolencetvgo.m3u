@@ -107,3 +107,9 @@ http://thevdm.xyz:25461/Jennifer/Year!/39716
 http://thevdm.xyz:25461/Jennifer/Year!/39717
 #EXTINF:-1 tvg-id="BigTen.us" tvg-name="Big Ten Network SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/1200px-Big_Ten_Network_Logo.svg.png" group-title="Sports",Big Ten Network SD
 http://thevdm.xyz:25461/Jennifer/Year!/77783
+#EXTINF:-1 tvg-id="BigTen.us" tvg-name="Big Ten Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/1200px-Big_Ten_Network_Logo.svg.png" group-title="Sports",Big Ten Network HD
+http://thevdm.xyz:25461/Jennifer/Year!/44003
+#EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="Bloomberg HD" tvg-logo="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivUxvlPidC3M/v0/-1x-1.jpg" group-title="News",Bloomberg HD
+http://thevdm.xyz:25461/Jennifer/Year!/39718
+#EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="Bloomberg FHD" tvg-logo="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivUxvlPidC3M/v0/-1x-1.jpg" group-title="News",Bloomberg FHD
+http://thevdm.xyz:25461/Jennifer/Year!/44005
