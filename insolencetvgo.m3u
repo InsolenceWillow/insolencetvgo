@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="0" tvg-name="3ABN Kids" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/a1/03/93/a103938e-888f-31ed-c85d-0ed2ab8d6d55/source/512x512bb.png" group-title="Kids",3ABN Kids
+#EXTINF:-1 tvg-id="3ABNkids.us" tvg-name="3ABN Kids" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/a1/03/93/a103938e-888f-31ed-c85d-0ed2ab8d6d55/source/512x512bb.png" group-title="Kids",3ABN Kids
 https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
 #EXTINF:-1 tvg-id="5StarMax.us" tvg-name="5 Starmax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/5StarMax_Logo.svg/1280px-5StarMax_Logo.svg.png" group-title="Movies",5 Starmax
 http://thevdm.xyz:25461/Jennifer/Year!/34459
@@ -319,3 +319,15 @@ http://thevdm.xyz:25461/Jennifer/Year!/39775
 http://thevdm.xyz:25461/Jennifer/Year!/39776
 #EXTINF:-1 tvg-id="HallmarkMoviesAndMysteries.us" tvg-name="Hallmark Movies & Mysteries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Hallmark_movies_mysteries.png" group-title="Movies",Hallmark Movies & Mysteries
 http://thevdm.xyz:25461/Jennifer/Year!/39777
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="Movies",HBO East
+http://thevdm.xyz:25461/Jennifer/Year!/34479
+#EXTINF:-1 tvg-id="HBOPacific.us" tvg-name="HBO West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="Movies",HBO West
+http://thevdm.xyz:25461/Jennifer/Year!/52175
+#EXTINF:-1 tvg-id="HBO2.us" tvg-name="HBO2 East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Movies",HBO2 East
+http://thevdm.xyz:25461/Jennifer/Year!/34475
+#EXTINF:-1 tvg-id="HBO2Pacific.us" tvg-name="HBO2 West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Movies",HBO2 West
+http://thevdm.xyz:25461/Jennifer/Year!/34476
+#EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="HBO Comedy East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/HBO_Comedy_2014_%28Stacked%29.svg/revision/latest/scale-to-width-down/250?cb=20210113003534" group-title="Movies",HBO Comedy East
+http://thevdm.xyz:25461/Jennifer/Year!/52178
+#EXTINF:-1 tvg-id="HBOComedyPacific.us" tvg-name="HBO Comedy West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/HBO_Comedy_2014_%28Stacked%29.svg/revision/latest/scale-to-width-down/250?cb=20210113003534" group-title="Movies",HBO Comedy West
+http://thevdm.xyz:25461/Jennifer/Year!/34478
