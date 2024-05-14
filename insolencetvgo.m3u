@@ -195,5 +195,9 @@ http://thevdm.xyz:25461/Jennifer/Year!/85970
 http://thevdm.xyz:25461/Jennifer/Year!/44025
 #EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="Destination America FHD" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/Destination-America-White.png.webp" group-title="Documentaries",Destination America FHD
 http://thevdm.xyz:25461/Jennifer/Year!/31401
-#EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="Destination America FHD" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/Destination-America-White.png.webp" group-title="Documentaries",Destination America FHD
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel East HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/2016_Discovery_logo.svg" group-title="Documentaries",Discovery Channel East HD
 http://thevdm.xyz:25461/Jennifer/Year!/44026
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel East FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/2016_Discovery_logo.svg" group-title="Documentaries",Discovery Channel East FHD
+http://thevdm.xyz:25461/Jennifer/Year!/31402
+#EXTINF:-1 tvg-id="DiscoveryChannelPacific.us" tvg-name="Discovery Channel West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/2016_Discovery_logo.svg" group-title="Documentaries",Discovery Channel West
+http://thevdm.xyz:25461/Jennifer/Year!/39747
