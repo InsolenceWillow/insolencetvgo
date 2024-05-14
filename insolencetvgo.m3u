@@ -255,3 +255,7 @@ http://thevdm.xyz:25461/Jennifer/Year!/31412
 http://thevdm.xyz:25461/Jennifer/Year!/20048
 #EXTINF:-1 tvg-id="FamilyEntertainmentTelevision.us" tvg-name="Family Entertainment Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Fetv_logo.png" group-title="Entertainment",Family Entertainment Television
 http://supersonictv.live:8080/242306/210404/86404
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="Food Network East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/640px-Food_Network_logo.svg.png" group-title="Entertainment",Food Network East
+http://thevdm.xyz:25461/Jennifer/Year!/39757
+#EXTINF:-1 tvg-id="FoodNetworkPacific.us" tvg-name="Food Network West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/640px-Food_Network_logo.svg.png" group-title="Entertainment",Food Network West
+http://thevdm.xyz:25461/Jennifer/Year!/39758
