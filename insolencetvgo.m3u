@@ -259,3 +259,33 @@ http://supersonictv.live:8080/242306/210404/86404
 http://thevdm.xyz:25461/Jennifer/Year!/39757
 #EXTINF:-1 tvg-id="FoodNetworkPacific.us" tvg-name="Food Network West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/640px-Food_Network_logo.svg.png" group-title="Entertainment",Food Network West
 http://thevdm.xyz:25461/Jennifer/Year!/39758
+#EXTINF:-1 tvg-id="FOXWNYW.us" tvg-name="FOX East (New York)" tvg-logo="https://static.wikia.nocookie.net/centralpark/images/5/55/FOX.png/revision/latest?cb=20200405065309" group-title="Locals",FOX East (New York)
+http://thevdm.xyz:25461/Jennifer/Year!/39759
+#EXTINF:-1 tvg-id="FOXKTTV.us" tvg-name="FOX West (Los Angeles)" tvg-logo="https://static.wikia.nocookie.net/centralpark/images/5/55/FOX.png/revision/latest?cb=20200405065309" group-title="Locals",FOX West (Los Angeles)
+http://thevdm.xyz:25461/Jennifer/Year!/39760
+#EXTINF:-1 tvg-id="FoxBusiness.us" tvg-name="FOX Business" tvg-logo="https://circlecareservices.com/wp-content/uploads/2024/04/Fox_Business.png" group-title="News",FOX Business
+http://thevdm.xyz:25461/Jennifer/Year!/39761
+#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-name="FOX Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/2560px-FOX_Deportes_logo.svg.png" group-title="Spanish",FOX Deportes
+http://thevdm.xyz:25461/Jennifer/Year!/19894
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="FOX News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News",FOX News Channel
+http://thevdm.xyz:25461/Jennifer/Year!/39762
+#EXTINF:-1 tvg-id="FoxSoccerPlus.us" tvg-name="FOX Soccer Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/1200px-Fox_Soccer_Plus_logo.svg.png" group-title="Sports",FOX Soccer Plus
+http://thevdm.xyz:25461/Jennifer/Year!/44048
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="FS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Sports",FS1
+http://thevdm.xyz:25461/Jennifer/Year!/20052
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="FS2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="Sports",FS2
+http://thevdm.xyz:25461/Jennifer/Year!/20053
+#EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="FOX Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/1200px-Fox_Weather_logo.svg.png" group-title="News",FOX Weather
+https://247wlive.foxweather.com/stream/index.m3u8
+#EXTINF:-1 tvg-id="Freeform.us" tvg-name="Freeform East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Freeform_2022.svg/2560px-Freeform_2022.svg.png" group-title="Movies",Freeform East
+http://thevdm.xyz:25461/Jennifer/Year!/39764
+#EXTINF:-1 tvg-id="FreeformPacific.us" tvg-name="Freeform West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Freeform_2022.svg/2560px-Freeform_2022.svg.png" group-title="Movies",Freeform West
+http://supersonictv.live:8080/242306/210404/21805
+#EXTINF:-1 tvg-id="Fuse.us" tvg-name="Fuse HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Fuse_logo15.png" group-title="Movies",Fuse HD
+http://thevdm.xyz:25461/Jennifer/Year!/39765
+#EXTINF:-1 tvg-id="Fuse.us" tvg-name="Fuse FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Fuse_logo15.png" group-title="Movies",Fuse FHD
+http://thevdm.xyz:25461/Jennifer/Year!/44052
+#EXTINF:-1 tvg-id="FX.us" tvg-name="FX East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="Movies",FX East
+http://thevdm.xyz:25461/Jennifer/Year!/39767
+#EXTINF:-1 tvg-id="FXPacific.us" tvg-name="FX West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="Movies",FX West
+http://supersonictv.live:8080/242306/210404/22092
