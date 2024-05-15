@@ -331,3 +331,15 @@ http://thevdm.xyz:25461/Jennifer/Year!/34476
 http://thevdm.xyz:25461/Jennifer/Year!/52178
 #EXTINF:-1 tvg-id="HBOComedyPacific.us" tvg-name="HBO Comedy West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/HBO_Comedy_2014_%28Stacked%29.svg/revision/latest/scale-to-width-down/250?cb=20210113003534" group-title="Movies",HBO Comedy West
 http://thevdm.xyz:25461/Jennifer/Year!/34478
+#EXTINF:-1 tvg-id="HBOFamily.us" tvg-name="HBO Family East" tvg-logo="https://static.wikia.nocookie.net/hbo-family/images/7/73/HBOFamily2014.png/revision/latest?cb=20210317034216" group-title="Movies",HBO Family East
+http://thevdm.xyz:25461/Jennifer/Year!/34480
+#EXTINF:-1 tvg-id="HBOFamilyPacific.us" tvg-name="HBO Family West" tvg-logo="https://static.wikia.nocookie.net/hbo-family/images/7/73/HBOFamily2014.png/revision/latest?cb=20210317034216" group-title="Movies",HBO Family West
+http://thevdm.xyz:25461/Jennifer/Year!/34481
+#EXTINF:-1 tvg-id="HBOLatino.us" tvg-name="HBO Latino East" tvg-logo="https://www.multivu.com/players/English/7307451-hbo-latino-programacion-original-de-alta-calidad-totalmente-nueva-otono-2014/gallery//image/fd052c4c-d1e1-4ac4-bf6d-7c1d4c29f3ac.png" group-title="Spanish",HBO Latino East
+http://thevdm.xyz:25461/Jennifer/Year!/34482
+#EXTINF:-1 tvg-id="HBOLatinoPacific.us" tvg-name="HBO Latino West" tvg-logo="https://www.multivu.com/players/English/7307451-hbo-latino-programacion-original-de-alta-calidad-totalmente-nueva-otono-2014/gallery//image/fd052c4c-d1e1-4ac4-bf6d-7c1d4c29f3ac.png" group-title="Spanish",HBO Latino West
+http://thevdm.xyz:25461/Jennifer/Year!/52183
+#EXTINF:-1 tvg-id="HBOLatino.us" tvg-name="HBO Latino East" tvg-logo="https://www.multivu.com/players/English/7307451-hbo-latino-programacion-original-de-alta-calidad-totalmente-nueva-otono-2014/gallery//image/fd052c4c-d1e1-4ac4-bf6d-7c1d4c29f3ac.png" group-title="Spanish",HBO Latino East
+http://thevdm.xyz:25461/Jennifer/Year!/34482
+#EXTINF:-1 tvg-id="HBOSignature.us" tvg-name="HBO Signature East HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/HBO_Signature_2014_%28Stacked%29.svg/revision/latest?cb=20210113151115&path-prefix=es" group-title="Spanish",HBO Signature East HD
+http://thevdm.xyz:25461/Jennifer/Year!/52184
