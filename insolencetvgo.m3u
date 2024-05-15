@@ -351,3 +351,19 @@ https://lnc-ion-plus.tubi.video/playlist.m3u8
 https://cdn.igocast.com/channel12_hls/channel12_master.m3u8
 #EXTINF:-1 tvg-id="Laff.us" tvg-name="Laff TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png" group-title="Entertainment",Laff TV
 http://thevdm.xyz:25461/Jennifer/Year!/39792
+#EXTINF:-1 tvg-id="Lifetime.us" tvg-name="Lifetime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg" group-title="Movies",Lifetime
+http://thevdm.xyz:25461/Jennifer/Year!/39794
+#EXTINF:-1 tvg-id="LifetimeMoviesNetwork.us" tvg-name="Lifetime Movies Network" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/Lifetime-Movies-White.png" group-title="Movies",Lifetime Movies Network
+http://thevdm.xyz:25461/Jennifer/Year!/39795
+#EXTINF:-1 tvg-id="LifetimeRealWomen.us" tvg-name="Lifetime Movies Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/LRW_logo_2012.png" group-title="Entertainment",Lifetime Real Women
+http://supersonictv.live:8080/242306/210404/47736
+#EXTINF:-1 tvg-id="Logo.us" tvg-name="Logo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/1200px-Logo_TV_2015.svg.png" group-title="Entertainment",Logo
+http://thevdm.xyz:25461/Jennifer/Year!/44082
+#EXTINF:-1 tvg-id="LonghornNetwork.us" tvg-name="Longhorn Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Longhorn_Network_logo.svg/1280px-Longhorn_Network_logo.svg.png" group-title="Sports",Longhorn Network
+http://thevdm.xyz:25461/Jennifer/Year!/20087
+#EXTINF:-1 tvg-id="MeTV.us" tvg-name="MeTV East" tvg-logo="https://www.metv.com/images/metv_logo.png" group-title="Entertainment",MeTV East
+http://thevdm.xyz:25461/Jennifer/Year!/39798
+#EXTINF:-1 tvg-id="MeTVPacific.us" tvg-name="MeTV West" tvg-logo="https://www.metv.com/images/metv_logo.png" group-title="Entertainment",MeTV West
+http://supersonictv.live:8080/242306/210404/83346
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="Sports",MLB Network
+http://thevdm.xyz:25461/live/Jennifer/Year!/37828.m3u8
