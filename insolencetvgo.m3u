@@ -366,4 +366,6 @@ http://thevdm.xyz:25461/Jennifer/Year!/39798
 #EXTINF:-1 tvg-id="MeTVPacific.us" tvg-name="MeTV West" tvg-logo="https://www.metv.com/images/metv_logo.png" group-title="Entertainment",MeTV West
 http://supersonictv.live:8080/242306/210404/83346
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="Sports",MLB Network
-http://thevdm.xyz:25461/live/Jennifer/Year!/37828.m3u8
+http://thevdm.xyz:25461/Jennifer/Year!/37828
+#EXTINF:-1 tvg-id="MLBStrikeZone.us" tvg-name="MLB Strike Zone" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/MLB_Network_Strike_Zone.png/revision/latest?cb=20221211002759" group-title="Sports",MLB Strike Zone
+http://thevdm.xyz:25461/Jennifer/Year!/30943
