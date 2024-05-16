@@ -31,9 +31,9 @@ http://thevdm.xyz:25461/Jennifer/Year!/43991
 http://thevdm.xyz:25461/Jennifer/Year!/39706
 #EXTINF:-1 tvg-id="AXSTV.us" tvg-name="AXS TV" tvg-logo="https://markcubancompanies.com/wp-content/uploads/2020/06/axs-tv-logo.png" group-title="Music",AXS TV
 http://thevdm.xyz:25461/Jennifer/Year!/43993
-#EXTINF:-1 tvg-id="Azteca7.us" tvg-name="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Logotipo_de_TV_Azteca.png" group-title="Spanish",Azteca 7
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Logotipo_de_TV_Azteca.png" group-title="Spanish",Azteca 7
 http://thevdm.xyz:25461/Jennifer/Year!/19842
-#EXTINF:-1 tvg-id="AzCorazon.us" tvg-name="Azteca Corazon" tvg-logo="https://www.telegratishd.com/imge/azcorazon.png" group-title="Spanish",Azteca Corazon
+#EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="Azteca Corazon" tvg-logo="https://www.telegratishd.com/imge/azcorazon.png" group-title="Spanish",Azteca Corazon
 http://thevdm.xyz:25461/Jennifer/Year!/19840
 #EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" tvg-logo="https://static.wikia.nocookie.net/babyfirsttv/images/5/56/BabyFirst_Logo_2019.png/revision/latest?cb=20240422182307" group-title="Kids",BabyFirst
 http://thevdm.xyz:25461/Jennifer/Year!/28109
@@ -407,3 +407,5 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fc31252d35decbc408
 http://supersonictv.live:8080/242306/210404/61318
 #EXTINF:-1 tvg-id="MYWSTR.us" tvg-name="MyNetworkTV (Cincinnati)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png" group-title="Locals",MyNetworkTV (Cincinnati)
 http://thevdm.xyz:25461/Jennifer/Year!/86010
+#EXTINF:-1 tvg-id="NASA.us" tvg-name="NASA TV (Cincinnati)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/NASA_logo.svg/revision/latest?cb=20210622024945" group-title="Documentaries",NASA TV
+http://thevdm.xyz:25461/Jennifer/Year!/39807
