@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:CODECS="avc1.4d0029,mp4a.40.2"
+http://172.111.36.190:6887/stream/comcast/tr3s/master.m3u8
+#EXT-X-STREAM-INF:CODECS="avc1.4d0029,mp4a.40.2"
+http://172.111.36.190:6887/stream/spectrum-east/tr3s/master.m3u8
+#EXT-X-STREAM-INF:CODECS="avc1.4d0029,mp4a.40.2"
+http://supersonictv.live:8080/live/242306/210404/61902.m3u8
