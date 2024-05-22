@@ -475,3 +475,5 @@ http://thevdm.xyz:25461/Jennifer/Year!/44120
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6452c814939a590008567a3b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="olympicchannel.us" tvg-name="Olympic Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Sports",Olympic Channel
 http://thevdm.xyz:25461/Jennifer/Year!/20113
+#EXTINF:-1 tvg-id="TeenNickPacific.us" tvg-name="TeenNick West" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/5/56/TeenNick_%282023%29.png/revision/latest/scale-to-width-down/1200?cb=20231203213041" group-title="Kids",TeenNick West
+http://172.111.36.190:6887/stream/spectrum-east/tnckphd-18307/master.m3u8
