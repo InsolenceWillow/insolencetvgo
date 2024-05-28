@@ -102,7 +102,7 @@ http://172.111.36.190:6887/stream/comcast/bloomberg-television/master.m3u8
 #EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="Live Channels",Boomerang
 http://thevdm.xyz:25461/Jennifer/Year!/44006
 #EXTINF:-1 tvg-id="BounceTV.us" tvg-name="Bounce" tvg-logo="https://storage.googleapis.com/btvwp-uploads/2018/02/5bfb1301-bounce_adjusted1.png" group-title="Live Channels",Bounce
-http://thevdm.xyz:25461/Jennifer/Year!/39719
+http://72.46.118.193/Bounce/index.m3u8
 #EXTINF:-1 tvg-id="Bravo.us" tvg-name="Bravo East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/1200px-Bravo_2017_logo.svg.png" group-title="Live Channels",Bravo East
 http://172.111.36.190:6887/stream/comcast/bravo/master.m3u8
 #EXTINF:-1 tvg-id="BravoPacific.us" tvg-name="Bravo West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/1200px-Bravo_2017_logo.svg.png" group-title="Live Channels",Bravo West
@@ -352,7 +352,7 @@ https://lnc-ion-plus.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="JewelryTV.us" tvg-name="Jewelry TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/Jewelry_television_logo.png" group-title="Live Channels",Jewelry TV
 https://cdn.igocast.com/channel12_hls/channel12_master.m3u8
 #EXTINF:-1 tvg-id="Laff.us" tvg-name="Laff TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png" group-title="Live Channels",Laff TV
-http://thevdm.xyz:25461/Jennifer/Year!/39792
+http://72.46.118.193/Laff/index.m3u8
 #EXTINF:-1 tvg-id="Lifetime.us" tvg-name="Lifetime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg" group-title="Live Channels",Lifetime
 http://172.111.36.190:6887/stream/comcast/lifetime/master.m3u8
 #EXTINF:-1 tvg-id="LifetimeMoviesNetwork.us" tvg-name="Lifetime Movies Network" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/Lifetime-Movies-White.png" group-title="Live Channels",Lifetime Movies Network
@@ -585,8 +585,12 @@ http://thevdm.xyz:25461/Jennifer/Year!/52206
 http://thevdm.xyz:25461/Jennifer/Year!/52207
 #EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="Starz Comedy East" tvg-logo="https://iili.io/bIfMDg.md.png" group-title="Live Channels",Starz Comedy East
 http://thevdm.xyz:25461/Jennifer/Year!/52208
-#EXTINF:-1 tvg-id="StarzComedyPacific.us" tvg-name="Starz Comedy East" tvg-logo="https://iili.io/bIfMDg.md.png" group-title="Live Channels",Starz Comedy West
+#EXTINF:-1 tvg-id="StarzComedyPacific.us" tvg-name="Starz Comedy West" tvg-logo="https://iili.io/bIfMDg.md.png" group-title="Live Channels",Starz Comedy West
 http://thevdm.xyz:25461/Jennifer/Year!/52209
+#EXTINF:-1 tvg-id="StarzEdge.us" tvg-name="Starz Edge East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Starz_Edge_Logo_2022.svg" group-title="Live Channels",Starz Edge East
+http://thevdm.xyz:25461/Jennifer/Year!/52210
+#EXTINF:-1 tvg-id="StarzEdgePacific.us" tvg-name="Starz Edge West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Starz_Edge_Logo_2022.svg" group-title="Live Channels",Starz Edge West
+http://thevdm.xyz:25461/Jennifer/Year!/52211
 #EXTINF:-1 tvg-id="0" tvg-name="A Bug's Life (1998)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNThmZGY4NzgtMTM4OC00NzNkLWEwNmEtMjdhMGY5YTc1NDE4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" group-title="Movies",A Bug's Life (1998) (DisneyXD) [G]
 https://archive.org/download/a-bugs-life-disney-xd/A%20Bug%27s%20Life%20%28DisneyXD%29.mp4
 #EXTINF:-1 tvg-id="0" tvg-name="Moana (2016)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI4MzU5NTExNF5BMl5BanBnXkFtZTgwNzY1MTEwMDI@._V1_FMjpg_UX1000_.jpg" group-title="Movies",Moana (2016) (DisneyJr) [PG]
