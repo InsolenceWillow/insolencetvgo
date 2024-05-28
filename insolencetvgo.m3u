@@ -495,7 +495,7 @@ http://thevdm.xyz:25461/Jennifer/Year!/19948
 https://khetdt.lls.pbs.org/out/v1/7ec7903413294b72bb64f83963d8ea9b/index.m3u8
 #EXTINF:-1 tvg-id="PBSWNED.us" tvg-name="PBS East (New York)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/1200px-PBS_logo.svg.png" group-title="Live Channels",PBS East (New York)
 http://thevdm.xyz:25461/Jennifer/Year!/39821
-#EXTINF:-1 tvg-id="PBSCreate.us" tvg-name="PBS Create" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Create_TV_2006.svg/revision/latest?cb=20240205233457" group-title="Live Channels",PBS Create
+#EXTINF:-1 tvg-id="PBSCreateMPT.us" tvg-name="PBS Create" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Create_TV_2006.svg/revision/latest?cb=20240205233457" group-title="Live Channels",PBS Create
 https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
 #EXTINF:-1 tvg-id="0" tvg-name="A Bug's Life (1998)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNThmZGY4NzgtMTM4OC00NzNkLWEwNmEtMjdhMGY5YTc1NDE4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" group-title="Movies",A Bug's Life (1998) (DisneyXD)
 https://archive.org/download/a-bugs-life-disney-xd/A%20Bug%27s%20Life%20%28DisneyXD%29.mp4
