@@ -556,9 +556,9 @@ http://thevdm.xyz:25461/Jennifer/Year!/52200
 #EXTINF:-1 tvg-id="ShowtimeShowcasePacific.us" tvg-name="Showtime Showcase West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Showtime_Showcase.svg/1280px-Showtime_Showcase.svg.png" group-title="Live Channels",Showtime Showcase West
 http://thevdm.xyz:25461/Jennifer/Year!/52201
 #EXTINF:-1 tvg-id="ShowtimeWomen.us" tvg-name="Showtime Women East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Showtime_Women_%282022-%29.svg/revision/latest/scale-to-width-down/300?cb=20230126015042" group-title="Live Channels",Showtime Women East
-http://thevdm.xyz:25461/Jennifer/Year!/52201
-#EXTINF:-1 tvg-id="ShowtimeWomenPacific.us" tvg-name="Showtime Women West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Showtime_Women_%282022-%29.svg/revision/latest/scale-to-width-down/300?cb=20230126015042" group-title="Live Channels",Showtime Women West
 http://thevdm.xyz:25461/Jennifer/Year!/52202
+#EXTINF:-1 tvg-id="ShowtimeWomenPacific.us" tvg-name="Showtime Women West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Showtime_Women_%282022-%29.svg/revision/latest/scale-to-width-down/300?cb=20230126015042" group-title="Live Channels",Showtime Women West
+http://thevdm.xyz:25461/Jennifer/Year!/52203
 #EXTINF:-1 tvg-id="SHOxBET.us" tvg-name="SHOxBET East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/SHO-BET-2023.svg/revision/latest/scale-to-width-down/300?cb=20230125211658" group-title="Live Channels",SHOxBET East
 http://thevdm.xyz:25461/Jennifer/Year!/52192
 #EXTINF:-1 tvg-id="SHOxBETPacific.us" tvg-name="SHOxBET West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/SHO-BET-2023.svg/revision/latest/scale-to-width-down/300?cb=20230125211658" group-title="Live Channels",SHOxBET West
