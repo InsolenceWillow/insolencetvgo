@@ -689,6 +689,30 @@ http://hdhd.tk/Ford/Ford/28926
 http://172.111.36.190:6887/stream/comcast/tennis-channel/master.m3u8
 #EXTINF:-1 tvg-id="TennisChannelPlus.us" tvg-name="Tennis Channel Plus" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/01/2000px-Tennis_Channel_logo.svg_.png" group-title="Live Channels",Tennis Channel Plus
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f.m3u8
+#EXTINF:-1 tvg-id="TLC.us" tvg-name="TLC East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="Live Channels",TLC (The Learning Channel) East
+http://172.111.36.190:6887/stream/comcast/tlc/master.m3u8
+#EXTINF:-1 tvg-id="TLCPacific.us" tvg-name="TLC West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="Live Channels",TLC (The Learning Channel) West
+http://212.102.58.155:1234/stream/spectrum-east/tlcphd/master.m3u8
+#EXTINF:-1 tvg-id="TMC.us" tvg-name="TMC East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/The_Movie_Channel_2006_stacked_blue.svg/revision/latest/scale-to-width-down/250?cb=20230104233230" group-title="Live Channels",TMC (The Movie Channel) East
+http://212.102.58.155:1234/stream/spectrum-east/tmchd-00226/master.m3u8
+#EXTINF:-1 tvg-id="TMCPacific.us" tvg-name="TMC West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/The_Movie_Channel_2006_stacked_blue.svg/revision/latest/scale-to-width-down/250?cb=20230104233230" group-title="Live Channels",TMC (The Movie Channel) West
+http://212.102.58.155:1234/stream/spectrum-east/tmchdp-00227/master.m3u8
+#EXTINF:-1 tvg-id="TMCXtra.us" tvg-name="TMC Xtra East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/The_Movie_Channel_Xtra_2006.svg/revision/latest?cb=20091124075200" group-title="Live Channels",TMC (The Movie Channel) Xtra East
+http://212.102.58.155:1234/stream/spectrum-east/tmcxhd-00228/master.m3u8
+#EXTINF:-1 tvg-id="TMCXtraPacific.us" tvg-name="TMC Xtra West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/The_Movie_Channel_Xtra_2006.svg/revision/latest?cb=20091124075200" group-title="Live Channels",TMC (The Movie Channel) Xtra West
+http://212.102.58.155:1234/stream/spectrum-east/tmcxphd-00229/master.m3u8
+#EXTINF:-1 tvg-id="ThrillerMAX.us" tvg-name="ThrillerMAX East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/ThrillerMax_Logo.svg/2560px-ThrillerMax_Logo.svg.png" group-title="Live Channels",ThrillerMAX East
+http://thevdm.xyz:25461/Jennifer/Year!/34468
+#EXTINF:-1 tvg-id="ThrillerMAXPacific.us" tvg-name="ThrillerMAX West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/ThrillerMax_Logo.svg/2560px-ThrillerMax_Logo.svg.png" group-title="Live Channels",ThrillerMAX West
+http://thevdm.xyz:25461/Jennifer/Year!/34469
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png" group-title="Live Channels",TNT East
+https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/TNTEast.us.m3u8
+#EXTINF:-1 tvg-id="TNTPacific.us" tvg-name="TNT West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png" group-title="Live Channels",TNT West
+https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/TNTWest.us.m3u8
+#EXTINF:-1 tvg-id="tr3s.us" tvg-name="tr3s" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/tr3s-White.png.webp" group-title="Live Channels",tr3s
+http://172.111.36.190:6887/stream/comcast/tr3s/master.m3u8
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="Trace Urban" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png" group-title="Live Channels",Trace Urban
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="0" tvg-name="A Bug's Life (1998)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNThmZGY4NzgtMTM4OC00NzNkLWEwNmEtMjdhMGY5YTc1NDE4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" group-title="Movies",A Bug's Life (1998) (DisneyXD) [G]
 https://archive.org/download/a-bugs-life-disney-xd/A%20Bug%27s%20Life%20%28DisneyXD%29.mp4
 #EXTINF:-1 tvg-id="0" tvg-name="Moana (2016)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI4MzU5NTExNF5BMl5BanBnXkFtZTgwNzY1MTEwMDI@._V1_FMjpg_UX1000_.jpg" group-title="Movies",Moana (2016) (DisneyJr) [PG]
