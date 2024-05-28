@@ -627,6 +627,28 @@ http://thevdm.xyz:25461/Jennifer/Year!/52211
 http://thevdm.xyz:25461/Jennifer/Year!/34526
 #EXTINF:-1 tvg-id="StarzEncorePacific.us" tvg-name="Starz Encore West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/2560px-Starz_Encore_Logo_2022.svg.png" group-title="Live Channels",Starz Encore West
 http://thevdm.xyz:25461/Jennifer/Year!/34533
+#EXTINF:-1 tvg-id="StarzEncoreAction.us" tvg-name="Starz Encore Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Starz_Encore_Action_Logo_2022.svg/2560px-Starz_Encore_Action_Logo_2022.svg.png" group-title="Live Channels",Starz Encore Action
+http://thevdm.xyz:25461/Jennifer/Year!/52218
+#EXTINF:-1 tvg-id="StarzEncoreBlack.us" tvg-name="Starz Encore Black" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Starz_Encore_Black_Logo_2022.svg/2560px-Starz_Encore_Black_Logo_2022.svg.png" group-title="Live Channels",Starz Encore Black
+http://thevdm.xyz:25461/Jennifer/Year!/52219
+#EXTINF:-1 tvg-id="StarzEncoreClassic.us" tvg-name="Starz Encore Classic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Starz_Encore_Classic_Logo_2022.svg/2560px-Starz_Encore_Classic_Logo_2022.svg.png" group-title="Live Channels",Starz Encore Classic
+http://thevdm.xyz:25461/Jennifer/Year!/52220
+#EXTINF:-1 tvg-id="StarzEncoreEspanol.us" tvg-name="Starz Encore Espanol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Starz_Encore_Espa%C3%B1ol_Logo_2022.svg/2560px-Starz_Encore_Espa%C3%B1ol_Logo_2022.svg.png" group-title="Live Channels",Starz Encore Espanol
+http://thevdm.xyz:25461/Jennifer/Year!/52221
+#EXTINF:-1 tvg-id="StarzEncoreFamily.us" tvg-name="Starz Encore Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Starz_Encore_Family_Logo_2022.svg/1200px-Starz_Encore_Family_Logo_2022.svg.png" group-title="Live Channels",Starz Encore Family
+http://thevdm.xyz:25461/Jennifer/Year!/52222
+#EXTINF:-1 tvg-id="StarzEncoreSuspense.us" tvg-name="Starz Encore Suspense" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Starz_Encore_Suspense_Logo_2022.svg/2560px-Starz_Encore_Suspense_Logo_2022.svg.png" group-title="Live Channels",Starz Encore Suspense
+http://thevdm.xyz:25461/Jennifer/Year!/52223
+#EXTINF:-1 tvg-id="StarzEncoreWesterns.us" tvg-name="Starz Encore Westerns" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Starz_Encore_Westerns_Logo_2022.svg/2560px-Starz_Encore_Westerns_Logo_2022.svg.png" group-title="Live Channels",Starz Encore Westerns
+http://thevdm.xyz:25461/Jennifer/Year!/52224
+#EXTINF:-1 tvg-id="StarzInBlack.us" tvg-name="Starz in Black East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Starz_in_Black_Logo_2022.svg/2560px-Starz_in_Black_Logo_2022.svg.png" group-title="Live Channels",Starz in Black East
+http://thevdm.xyz:25461/Jennifer/Year!/52212
+#EXTINF:-1 tvg-id="StarzInBlackPacific.us" tvg-name="Starz in Black West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Starz_in_Black_Logo_2022.svg/2560px-Starz_in_Black_Logo_2022.svg.png" group-title="Live Channels",Starz in Black West
+http://thevdm.xyz:25461/Jennifer/Year!/52213
+#EXTINF:-1 tvg-id="StarzKids.us" tvg-name="Starz Kids & Family East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Starz_Kids_%26_Family_Logo_2022.svg" group-title="Live Channels",Starz Kids & Family East
+http://thevdm.xyz:25461/Jennifer/Year!/52214
+#EXTINF:-1 tvg-id="StarzKidsPacific.us" tvg-name="Starz Kids & Family West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Starz_Kids_%26_Family_Logo_2022.svg" group-title="Live Channels",Starz Kids & Family West
+http://thevdm.xyz:25461/Jennifer/Year!/52215
 #EXTINF:-1 tvg-id="0" tvg-name="A Bug's Life (1998)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNThmZGY4NzgtMTM4OC00NzNkLWEwNmEtMjdhMGY5YTc1NDE4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" group-title="Movies",A Bug's Life (1998) (DisneyXD) [G]
 https://archive.org/download/a-bugs-life-disney-xd/A%20Bug%27s%20Life%20%28DisneyXD%29.mp4
 #EXTINF:-1 tvg-id="0" tvg-name="Moana (2016)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI4MzU5NTExNF5BMl5BanBnXkFtZTgwNzY1MTEwMDI@._V1_FMjpg_UX1000_.jpg" group-title="Movies",Moana (2016) (DisneyJr) [PG]
