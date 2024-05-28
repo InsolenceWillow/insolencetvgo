@@ -539,6 +539,14 @@ http://thevdm.xyz:25461/Jennifer/Year!/52189
 http://thevdm.xyz:25461/Jennifer/Year!/52190
 #EXTINF:-1 tvg-id="Showtime2Pacific.us" tvg-name="Showtime 2 West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Showtime_2.svg" group-title="Live Channels",Showtime 2 West
 http://thevdm.xyz:25461/Jennifer/Year!/52191
+#EXTINF:-1 tvg-id="ShowtimeExtreme.us" tvg-name="Showtime Extreme East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Showtime_Extreme_2001_%28Horizontal%29.svg/revision/latest?cb=20201220204707" group-title="Live Channels",Showtime Extreme East
+http://thevdm.xyz:25461/Jennifer/Year!/52194
+#EXTINF:-1 tvg-id="ShowtimeExtremePacific.us" tvg-name="Showtime Extreme West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Showtime_Extreme_2001_%28Horizontal%29.svg/revision/latest?cb=20201220204707" group-title="Live Channels",Showtime Extreme West
+http://thevdm.xyz:25461/Jennifer/Year!/52195
+#EXTINF:-1 tvg-id="ShowtimeFamilyZone.us" tvg-name="Showtime Family Zone East" tvg-logo="https://www.pngkey.com/png/full/0-1892_showtime-family-zone-logo.png" group-title="Live Channels",Showtime Family Zone East
+http://thevdm.xyz:25461/Jennifer/Year!/52196
+#EXTINF:-1 tvg-id="ShowtimeFamilyZonePacific.us" tvg-name="Showtime Family Zone West" tvg-logo="https://www.pngkey.com/png/full/0-1892_showtime-family-zone-logo.png" group-title="Live Channels",Showtime Family Zone West
+http://thevdm.xyz:25461/Jennifer/Year!/52197
 #EXTINF:-1 tvg-id="0" tvg-name="A Bug's Life (1998)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNThmZGY4NzgtMTM4OC00NzNkLWEwNmEtMjdhMGY5YTc1NDE4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" group-title="Movies",A Bug's Life (1998) (DisneyXD) [G]
 https://archive.org/download/a-bugs-life-disney-xd/A%20Bug%27s%20Life%20%28DisneyXD%29.mp4
 #EXTINF:-1 tvg-id="0" tvg-name="Moana (2016)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI4MzU5NTExNF5BMl5BanBnXkFtZTgwNzY1MTEwMDI@._V1_FMjpg_UX1000_.jpg" group-title="Movies",Moana (2016) (DisneyJr) [PG]
