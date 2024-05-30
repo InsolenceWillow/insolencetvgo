@@ -726,7 +726,17 @@ http://172.111.36.190:6887/stream/comcast/tv-land/master.m3u8
 #EXTINF:-1 tvg-id="TVLandPacific.us" tvg-name="TVLand West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TV_Land_2015_logo.svg" group-title="Live Channels",TVLand West
 http://thevdm.xyz:25461/Jennifer/Year!/39856
 #EXTINF:-1 tvg-id="0" tvg-name="A Bug's Life (1998)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNThmZGY4NzgtMTM4OC00NzNkLWEwNmEtMjdhMGY5YTc1NDE4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" group-title="Movies",A Bug's Life (1998) (DisneyXD) [TV-G]
-https://archive.org/download/a-bugs-life-disney-xd/A%20Bug%27s%20Life%20%28DisneyXD%29.mp4
+https://archive.org/download/my-money-is-on-the-cat/A%20Bug%27s%20Life%20%28DisneyXD%29.mp4
+#EXTINF:-1 tvg-id="0" tvg-name="A Loud House Christmas (2021)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/Loud_House_Christmas.jpg" group-title="Movies",A Loud House Christmas (2021) (NickToons) [TV-G]
+https://archive.org/download/my-money-is-on-the-cat/A%20Loud%20House%20Christmas%20%28NickToons%29.mp4
+#EXTINF:-1 tvg-id="0" tvg-name="A Loud House Christmas (2021)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/Loud_House_Christmas.jpg" group-title="Movies",A Loud House Christmas (2021) (TeenNick) [TV-G]
+https://archive.org/download/my-money-is-on-the-cat/A%20Loud%20House%20Christmas%20%28TeenNick%29.mp4
+#EXTINF:-1 tvg-id="0" tvg-name="Arctic Dogs (2019)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTY1OTQyM2YtM2ZjOC00OWQwLTkzM2YtZjAyOGZkYjlhNWFhXkEyXkFqcGdeQXVyMTk5MzE1MTY@._V1_.jpg" group-title="Movies",Arctic Dogs (2019) (Disney Channel) [TV-PG]
+https://archive.org/download/my-money-is-on-the-cat/Arctic%20Dogs%20%28Disney%20Channel%29.mp4
+#EXTINF:-1 tvg-id="0" tvg-name="Blade Runner 2049 (2017)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_.jpg" group-title="Movies",Blade Runner 2049 (2017) (Adult Swim) [TV-MA (LSV)]
+https://archive.org/download/my-money-is-on-the-cat/Blade%20Runner%202049%20%28Adult%20Swim%29.mp4
+#EXTINF:-1 tvg-id="0" tvg-name="Bolt (2008)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDQyNDE5NjQ1N15BMl5BanBnXkFtZTcwMDExMTAwMg@@._V1_FMjpg_UX1000_.jpg" group-title="Movies",Bolt (2008) (DisneyJr) [TV-PG]
+https://archive.org/download/my-money-is-on-the-cat/Bolt%20%28DisneyJr%29.mp4
 #EXTINF:-1 tvg-id="0" tvg-name="Moana (2016)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI4MzU5NTExNF5BMl5BanBnXkFtZTgwNzY1MTEwMDI@._V1_FMjpg_UX1000_.jpg" group-title="Movies",Moana (2016) (DisneyJr) [TV-PG]
 https://archive.org/download/moana-disney-jr/Moana%20%28DisneyJr%29.mp4
 #EXTINF:-1 tvg-id="0" tvg-name="Super Bowl LVIII (2/11/2024)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Super_Bowl_LVIII_logo.svg/1200px-Super_Bowl_LVIII_logo.svg.png" group-title="Past Events",Super Bowl LVIII (2/11/2024) (Nickelodeon)
