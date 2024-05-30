@@ -86,7 +86,7 @@ http://thevdm.xyz:25461/Jennifer/Year!/43997
 #EXTINF:-1 tvg-id="beINSportsEnEspanol.us" tvg-name="beIN Sports En Espanol" tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=06-02-2024?w=3840&q=75" group-title="Live Channels",beIN Sports En Espanol
 http://thevdm.xyz:25461/Jennifer/Year!/19848
 #EXTINF:-1 tvg-id="BET.us" tvg-name="BET East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/BET-2021Logo.svg" group-title="Live Channels",BET East
-http://172.111.36.190:6887/stream/comcast/bet/master.m3u8
+http://170.254.18.106/BET/index.m3u8
 #EXTINF:-1 tvg-id="BETPacific.us" tvg-name="BET West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/BET-2021Logo.svg" group-title="Live Channels",BET West
 http://thevdm.xyz:25461/Jennifer/Year!/39714
 #EXTINF:-1 tvg-id="BETGospel.us" tvg-name="BET Gospel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/BET_Gospel_2022_%28Vertical%29.svg/revision/latest?cb=20230922065149" group-title="Live Channels",BET Gospel
@@ -152,7 +152,7 @@ https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/st
 #EXTINF:-1 tvg-id="CNNEnEspanol.us" tvg-name="CNN en Espanol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg" group-title="Live Channels",CNN en Espanol
 http://thevdm.xyz:25461/Jennifer/Year!/19860
 #EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Comedy_Central_2018_%28Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20191213112155" group-title="Live Channels",Comedy Central East
-http://172.111.36.190:6887/stream/comcast/comedy-central/master.m3u8
+http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralPacific.us" tvg-name="Comedy Central West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Comedy_Central_2018_%28Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20191213112155" group-title="Live Channels",Comedy Central West
 http://thevdm.xyz:25461/Jennifer/Year!/39736
 #EXTINF:-1 tvg-id="Comet.us" tvg-name="Comet East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/1200px-Comet_logo.svg.png" group-title="Live Channels",Comet East
@@ -512,7 +512,7 @@ http://212.102.58.155:1234/stream/spectrum-east/oxygnhp-22038/master.m3u8
 #EXTINF:-1 tvg-id="Pac12Network.us" tvg-name="Pac-12 Network" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/Pac-12-Network-White.png" group-title="Live Channels",Pac-12 Network
 http://212.102.58.155:1234/stream/spectrum-east/pac12hd-00833/master.m3u8
 #EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="Live Channels",Paramount Network East
-http://172.111.36.190:6887/stream/comcast/paramount/master.m3u8
+http://170.254.18.106/PARAMOUNT/index.m3u8
 #EXTINF:-1 tvg-id="ParamountNetworkPacific.us" tvg-name="Paramount Network West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="Live Channels",Paramount Network West
 http://212.102.58.155:1234/stream/spectrum-east/parphd-407/master.m3u8
 #EXTINF:-1 tvg-id="Pasiones.us" tvg-name="Pasiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="Live Channels",Pasiones
@@ -687,14 +687,6 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 http://172.111.36.190:6887/stream/comcast/tlc/master.m3u8
 #EXTINF:-1 tvg-id="TLCPacific.us" tvg-name="TLC West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="Live Channels",TLC (The Learning Channel) West
 http://212.102.58.155:1234/stream/spectrum-east/tlcphd/master.m3u8
-#EXTINF:-1 tvg-id="TheMovieChannel.us" tvg-name="TMC East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/The_Movie_Channel_2006_stacked_blue.svg/revision/latest/scale-to-width-down/250?cb=20230104233230" group-title="Live Channels",TMC (The Movie Channel) East
-http://212.102.58.155:1234/stream/spectrum-east/tmchd-00226/master.m3u8
-#EXTINF:-1 tvg-id="TheMovieChannelPacific.us" tvg-name="TMC West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/The_Movie_Channel_2006_stacked_blue.svg/revision/latest/scale-to-width-down/250?cb=20230104233230" group-title="Live Channels",TMC (The Movie Channel) West
-http://212.102.58.155:1234/stream/spectrum-east/tmchdp-00227/master.m3u8
-#EXTINF:-1 tvg-id="TheMovieChannelXtra.us" tvg-name="TMC Xtra East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/The_Movie_Channel_Xtra_2006.svg/revision/latest?cb=20091124075200" group-title="Live Channels",TMC (The Movie Channel) Xtra East
-http://212.102.58.155:1234/stream/spectrum-east/tmcxhd-00228/master.m3u8
-#EXTINF:-1 tvg-id="TheMovieChannelXtraPacific.us" tvg-name="TMC Xtra West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/The_Movie_Channel_Xtra_2006.svg/revision/latest?cb=20091124075200" group-title="Live Channels",TMC (The Movie Channel) Xtra West
-http://212.102.58.155:1234/stream/spectrum-east/tmcxphd-00229/master.m3u8
 #EXTINF:-1 tvg-id="ThrillerMAX.us" tvg-name="ThrillerMAX East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/ThrillerMax_Logo.svg/2560px-ThrillerMax_Logo.svg.png" group-title="Live Channels",ThrillerMAX East
 http://thevdm.xyz:25461/Jennifer/Year!/34468
 #EXTINF:-1 tvg-id="ThrillerMAXPacific.us" tvg-name="ThrillerMAX West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/ThrillerMax_Logo.svg/2560px-ThrillerMax_Logo.svg.png" group-title="Live Channels",ThrillerMAX West
