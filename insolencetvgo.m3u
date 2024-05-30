@@ -371,10 +371,8 @@ http://72.46.118.193/Laff/index.m3u8
 http://172.111.36.190:6887/stream/comcast/lifetime/master.m3u8
 #EXTINF:-1 tvg-id="LifetimePacific.us" tvg-name="Lifetime West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg" group-title="Live Channels",Lifetime West
 http://ufospeeds.com:2095/73622931496/7122224796/188
-#EXTINF:-1 tvg-id="LifetimeMoviesNetwork.us" tvg-name="Lifetime Movies Network" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/Lifetime-Movies-White.png" group-title="Live Channels",Lifetime Movies Network East
+#EXTINF:-1 tvg-id="LifetimeMoviesNetwork.us" tvg-name="Lifetime Movies Network" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/Lifetime-Movies-White.png" group-title="Live Channels",Lifetime Movies Network
 http://172.111.36.190:6887/stream/comcast/lmn/master.m3u8
-#EXTINF:-1 tvg-id="LifetimeMoviesNetworkPacific.us" tvg-name="Lifetime Movies Network West" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/Lifetime-Movies-White.png" group-title="Live Channels",Lifetime Movies Network West
-http://ufospeeds.com:2095/73622931496/7122224796/110
 #EXTINF:-1 tvg-id="LifetimeRealWomen.us" tvg-name="Lifetime Real Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/LRW_logo_2012.png" group-title="Live Channels",Lifetime Real Women
 http://supersonictv.live:8080/242306/210404/47736
 #EXTINF:-1 tvg-id="Logo.us" tvg-name="Logo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/1200px-Logo_TV_2015.svg.png" group-title="Live Channels",Logo East
@@ -441,8 +439,8 @@ http://supersonictv.live:8080/242306/210404/22124
 http://thevdm.xyz:25461/Jennifer/Year!/44098
 #EXTINF:-1 tvg-id="NBAtv.us" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Live Channels",NBA TV
 http://thevdm.xyz:25461/Jennifer/Year!/44099
-#EXTINF:-1 tvg-id="NBCWNBC.us" tvg-name="NBC East (New York)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/NBC_logo_2022_%28vertical%29.svg" group-title="Live Channels",NBC East (New York)
-http://thevdm.xyz:25461/Jennifer/Year!/39810
+#EXTINF:-1 tvg-id="NBCWNBC.us" tvg-name="NBC East (Chicago)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/NBC_logo_2022_%28vertical%29.svg" group-title="Live Channels",NBC East (New York)
+http://143.244.60.30/NBC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="NBCKNBC.us" tvg-name="NBC West (Los Angeles)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/NBC_logo_2022_%28vertical%29.svg" group-title="Live Channels",NBC West (Los Angeles)
 http://thevdm.xyz:25461/Jennifer/Year!/39811
 #EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="NBC Golf" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/07/golf_render_-rgb.png" group-title="Live Channels",NBC Golf
@@ -479,7 +477,7 @@ http://thevdm.xyz:25461/Jennifer/Year!/44114
 http://143.244.60.30/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonPacific.us" tvg-name="Nickelodeon West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/NICK2023.png" group-title="Live Channels",Nickelodeon West
 http://212.102.58.155:1234/stream/spectrum-east/nikphd-00403/master.m3u8
-#EXTINF:-1 tvg-id="NickPlutoTV.us" tvg-name="Nickelodeon PlutoTV" tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png" group-title="Live Channels",Nickelodeon PlutoTV
+#EXTINF:-1 tvg-id="NickPlutoTV.us" tvg-name="Nickelodeon PlutoTV" tvg-logo="https://i.ibb.co/6Y94sMX/color-Logo-PNG-kindlephoto-195704078.png" group-title="Live Channels",Nickelodeon PlutoTV
 https://dai.google.com/linear/hls/event/0HWMZ7VTTAi8C7Y35fcbgQ/master.m3u8
 #EXTINF:-1 tvg-id="NickJr.us" tvg-name="NickJr East" tvg-logo="https://static.wikia.nocookie.net/bubbleguppies/images/2/2c/Nick_Jr_2023.webp/revision/latest?cb=20230826161102" group-title="Live Channels",NickJr East
 http://172.111.36.190:6887/stream/comcast/nick-jr/master.m3u8
@@ -673,10 +671,8 @@ https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/st
 http://172.111.36.190:6887/stream/comcast/teen-nick/master.m3u8
 #EXTINF:-1 tvg-id="TeenNickPacific.us" tvg-name="TeenNick West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/TeenNick_2023_splat.png/revision/latest/scale-to-width-down/1000?cb=20231121172422" group-title="Live Channels",TeenNick West
 http://212.102.58.155:1234/stream/spectrum-east/tnckphd-18307/master.m3u8
-#EXTINF:-1 tvg-id="TelemundoKAJA.us" tvg-name="Telemundo 47 Corpus Christi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="Live Channels",Telemundo 47 Corpus Christi
+#EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="Live Channels",Telemundo East (Corpus Christi)
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
-#EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="Live Channels",Telemundo East
-http://212.102.58.155:1234/stream/spectrum-east/telemundo-east/master.m3u8
 #EXTINF:-1 tvg-id="TelemundoKVEA.us" tvg-name="Telemundo West (Los Angeles)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="Live Channels",Telemundo West (Los Angeles)
 http://thevdm.xyz:25461/Jennifer/Year!/19956
 #EXTINF:-1 tvg-id="TelemundoWKAQ.pr" tvg-name="Telemundo Puerto Rico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="Live Channels",Telemundo Puerto Rico
