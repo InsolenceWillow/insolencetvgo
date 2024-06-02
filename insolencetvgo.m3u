@@ -713,8 +713,12 @@ https://unidfp-nlds135.global.ssl.fastly.net/nlds/univisionnow/udn/as/live/udn_h
 http://172.111.36.190:6887/stream/comcast/tv-land/master.m3u8
 #EXTINF:-1 tvg-id="TVLandPacific.us" tvg-name="TVLand West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TV_Land_2015_logo.svg" group-title="Live Channels",TVLand West
 http://thevdm.xyz:25461/Jennifer/Year!/39856
-#EXTINF:-1 tvg-id="TVLandPacific.us" tvg-name="TVLand West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TV_Land_2015_logo.svg" group-title="Live Channels",TVLand West
-
+#EXTINF:-1 tvg-id="TVOne.us" tvg-name="TVOne" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV-One-logo-2016.png/640px-TV-One-logo-2016.png" group-title="Live Channels",TVOne
+http://thevdm.xyz:25461/Jennifer/Year!/39857
+#EXTINF:-1 tvg-id="UniMas.us" tvg-name="UniMas East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/200px-Logo_UniM%C3%A1s.svg.png" group-title="Live Channels",UniMas East
+https://unidfp-nlds164.global.ssl.fastly.net/nlds/univisionnow/unimas_east2/as/live/unimas_east2_hd_pc.m3u8?t1=
+#EXTINF:-1 tvg-id="UniMasKFTR.us" tvg-name="UniMas West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/200px-Logo_UniM%C3%A1s.svg.png" group-title="Live Channels",UniMas West
+http://thevdm.xyz:25461/Jennifer/Year!/69261
 #EXTINF:-1 tvg-id="0" tvg-name="A Bug's Life (1998)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNThmZGY4NzgtMTM4OC00NzNkLWEwNmEtMjdhMGY5YTc1NDE4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" group-title="Movies",A Bug's Life (1998) (DisneyXD) [TV-G]
 https://archive.org/download/my-money-is-on-the-cat/A%20Bug%27s%20Life%20%28DisneyXD%29.mp4
 #EXTINF:-1 tvg-id="0" tvg-name="A Loud House Christmas (2021)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/Loud_House_Christmas.jpg" group-title="Movies",A Loud House Christmas (2021) (NickToons) [TV-G]
