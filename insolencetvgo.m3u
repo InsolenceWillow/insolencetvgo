@@ -233,10 +233,6 @@ http://thevdm.xyz:25461/Jennifer/Year!/31412
 http://thevdm.xyz:25461/Jennifer/Year!/20048
 #EXTINF:-1 tvg-id="FamilyEntertainmentTelevision.us" tvg-name="Family Entertainment Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Fetv_logo.png" group-title="Live Channels",Family Entertainment Television
 http://supersonictv.live:8080/242306/210404/86404
-#EXTINF:-1 tvg-id="Flix.us" tvg-name="Flix East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Fetv_logo.png" group-title="Live Channels",Flix East
-http://ufospeeds.com:2095/73622931496/7122224796/173
-#EXTINF:-1 tvg-id="FlixPacific.us" tvg-name="Flix West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Fetv_logo.png" group-title="Live Channels",Flix West
-http://ufospeeds.com:2095/73622931496/7122224796/173
 #EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="Food Network East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/640px-Food_Network_logo.svg.png" group-title="Live Channels",Food Network East
 http://172.111.36.190:6887/stream/comcast/food-network/master.m3u8
 #EXTINF:-1 tvg-id="FoodNetworkPacific.us" tvg-name="Food Network West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/640px-Food_Network_logo.svg.png" group-title="Live Channels",Food Network West
@@ -733,6 +729,14 @@ https://unidfp-nlds145.global.ssl.fastly.net/nlds/univisionnow/univision_hou2/as
 https://unidfp-nlds154.global.ssl.fastly.net/nlds/univisionnow/univision_chi2/as/live/univision_chi2_hd_pc.m3u8?t1=
 #EXTINF:-1 tvg-id="UnivisionTlnovelas.us" tvg-name="Univision TlNovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Univision_tlnovelas_%282019%29.svg" group-title="Live Channels",Univision TlNovelas
 http://thevdm.xyz:25461/Jennifer/Year!/20033
+#EXTINF:-1 tvg-id="UP.us" tvg-name="UPtv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/UPtv_2018_logo.svg/revision/latest/scale-to-width-down/250?cb=20220921171605" group-title="Live Channels",UPtv
+http://thevdm.xyz:25461/Jennifer/Year!/39858
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg" group-title="Live Channels",USA Network East
+http://thevdm.xyz:25461/Jennifer/Year!/39859
+#EXTINF:-1 tvg-id="USANetworkPacific.us" tvg-name="USA Network West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg" group-title="Live Channels",USA Network West
+http://thevdm.xyz:25461/Jennifer/Year!/44205
+#EXTINF:-1 tvg-id="DiscoveryVelocity.us" tvg-name="Velocity" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/640px-Velocity_Channel.png/revision/latest?cb=20130906152441" group-title="Live Channels",Velocity
+http://thevdm.xyz:25461/Jennifer/Year!/44085
 #EXTINF:-1 tvg-id="0" tvg-name="A Bug's Life (1998)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNThmZGY4NzgtMTM4OC00NzNkLWEwNmEtMjdhMGY5YTc1NDE4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" group-title="Movies",A Bug's Life (1998) (DisneyXD) [TV-G]
 https://archive.org/download/my-money-is-on-the-cat/A%20Bug%27s%20Life%20%28DisneyXD%29.mp4
 #EXTINF:-1 tvg-id="0" tvg-name="A Loud House Christmas (2021)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/Loud_House_Christmas.jpg" group-title="Movies",A Loud House Christmas (2021) (NickToons) [TV-G]
