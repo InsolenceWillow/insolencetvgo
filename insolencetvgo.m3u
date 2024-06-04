@@ -739,6 +739,18 @@ http://thevdm.xyz:25461/Jennifer/Year!/44205
 http://170.254.18.106/VH1/index.m3u8
 #EXTINF:-1 tvg-id="VH1Pacific.us" tvg-name="VH1 West" tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/640px-VH1_logonew.svg.png&w=640&q=50" group-title="Live Channels",VH1 West
 http://thevdm.xyz:25461/Jennifer/Year!/39862
+#EXTINF:-1 tvg-id="Vice.us" tvg-name="Vice" tvg-logo="https://assets-global.website-files.com/6508f2cbcbf0a0248497feca/652f00047d9c66508fc2eaa1_5%20vice-logo-transparent.png" group-title="Live Channels",Vice
+http://thevdm.xyz:25461/Jennifer/Year!/44208
+#EXTINF:-1 tvg-id="TheWeatherChannel.us" tvg-name="Weather Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" group-title="Live Channels",Weather Channel
+http://thevdm.xyz:25461/Jennifer/Year!/44189
+#EXTINF:-1 tvg-id="WeTV.us" tvg-name="WeTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/WE_tvred.svg/revision/latest?cb=20210606211640" group-title="Live Channels",WeTV
+https://bcovlive-a.akamaihd.net/847d1aa780be4afcbf3b821ea322e74b/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE Network" tvg-logo="https://static.diceplatform.com/prod/AUTOx350/dce.wwe/settings/network_logo_new.png?ts=1552562839" group-title="Live Channels",WWE Network
+http://thevdm.xyz:25461/Jennifer/Year!/20161
+#EXTINF:-1 tvg-id="YESNetwork.us" tvg-name="YES Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/1200px-YES_Network_logo.svg.png" group-title="Live Channels",YES Network
+http://thevdm.xyz:25461/Jennifer/Year!/44212
+#EXTINF:-1 tvg-id="ZonaTUDN.us" tvg-name="Zona TUDN" tvg-logo="https://iili.io/J2wureR.md.png" group-title="Live Channels",Zona TUDN
+https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 #EXTINF:-1 tvg-id="0" tvg-name="A Bug's Life (1998)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNThmZGY4NzgtMTM4OC00NzNkLWEwNmEtMjdhMGY5YTc1NDE4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" group-title="Movies",A Bug's Life (1998) (DisneyXD) [TV-G]
 https://small.fileditchstuff.me/s11/DweCAMMKroheDtrOeZce.mp4
 #EXTINF:-1 tvg-id="0" tvg-name="A Loud House Christmas (2021)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/Loud_House_Christmas.jpg" group-title="Movies",A Loud House Christmas (2021) (NickToons) [TV-G]
