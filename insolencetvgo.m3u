@@ -642,7 +642,7 @@ http://thevdm.xyz:25461/Jennifer/Year!/52214
 #EXTINF:-1 tvg-id="StarzKidsPacific.us" tvg-name="Starz Kids & Family West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Starz_Kids_%26_Family_Logo_2022.svg" group-title="Live Channels",Starz Kids & Family West
 http://thevdm.xyz:25461/Jennifer/Year!/52215
 #EXTINF:-1 tvg-id="SundanceTV.us" tvg-name="SundanceTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/1200px-SundanceTV_2014.svg.png" group-title="Live Channels",SundanceTV
-http://thevdm.xyz:25461/Jennifer/Year!/39836
+https://bcovlive-a.akamaihd.net/8a4f317bd8d549ebabf2222a000f5701/us-west-2/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="Syfy.us" tvg-name="SYFY East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Syfy_2017_vertical_logo_2.svg/revision/latest?cb=20210104112713" group-title="Live Channels",SYFY East
 http://thevdm.xyz:25461/Jennifer/Year!/39837
 #EXTINF:-1 tvg-id="SyfyPacific.us" tvg-name="SYFY West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Syfy_2017_vertical_logo_2.svg/revision/latest?cb=20210104112713" group-title="Live Channels",SYFY West
@@ -742,7 +742,7 @@ http://thevdm.xyz:25461/Jennifer/Year!/44208
 #EXTINF:-1 tvg-id="TheWeatherChannel.us" tvg-name="Weather Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" group-title="Live Channels",Weather Channel
 http://thevdm.xyz:25461/Jennifer/Year!/44189
 #EXTINF:-1 tvg-id="WeTV.us" tvg-name="WeTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/WE_tvred.svg/revision/latest?cb=20210606211640" group-title="Live Channels",WeTV
-https://bcovlive-a.akamaihd.net/847d1aa780be4afcbf3b821ea322e74b/us-east-1/6240731308001/playlist.m3u8
+http://170.254.18.106/WE_TV/index.m3u8
 #EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE Network" tvg-logo="https://static.diceplatform.com/prod/AUTOx350/dce.wwe/settings/network_logo_new.png?ts=1552562839" group-title="Live Channels",WWE Network
 http://thevdm.xyz:25461/Jennifer/Year!/20161
 #EXTINF:-1 tvg-id="YESNetwork.us" tvg-name="YES Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/1200px-YES_Network_logo.svg.png" group-title="Live Channels",YES Network
