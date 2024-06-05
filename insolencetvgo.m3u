@@ -8,7 +8,7 @@ http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="ABCKABC.us" tvg-name="ABC West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg" group-title="Live Channels",ABC West (Los Angeles)
 http://thevdm.xyz:25461/Jennifer/Year!/39697
 #EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="ACC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/1024px-ACC_Network_ESPN_logo.svg.png" group-title="Live Channels",ACC Network
-http://thevdm.xyz:25461/Jennifer/Year!/20037
+http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="ActionMAX.us" tvg-name="ActionMAX East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/ActionMax_logo.svg/2560px-ActionMax_logo.svg.png" group-title="Live Channels",ActionMAX East
 http://thevdm.xyz:25461/Jennifer/Year!/34460
 #EXTINF:-1 tvg-id="ActionMAXPacific.us" tvg-name="ActionMAX West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/ActionMax_logo.svg/2560px-ActionMax_logo.svg.png" group-title="Live Channels",ActionMAX West
@@ -76,13 +76,13 @@ http://thevdm.xyz:25461/Jennifer/Year!/20079
 #EXTINF:-1 tvg-id="BallySportsWisconsin.us" tvg-name="Bally Sports Wisconsin" tvg-logo="https://i.ibb.co/fxf61dL/bally-sports-us.png" group-title="Live Channels",Bally Sports Wisconsin
 http://thevdm.xyz:25461/Jennifer/Year!/20080
 #EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/BBC_America_logo_2021.svg" group-title="Live Channels",BBC America
-https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8
+http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 #EXTINF:-1 tvg-id="BBCWorldNews.us" tvg-name="BBC World News FHD" tvg-logo="https://c.files.bbci.co.uk/16B26/production/_96566929_bbc_wn_rgb.png" group-title="Live Channels",BBC World News
-http://thevdm.xyz:25461/Jennifer/Year!/43996
+http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="beinsportslaliga.us" tvg-name="beIN Sports La Liga" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/BeIn_Sports_LaLiga_1.png" group-title="Live Channels",beIN Sports La Liga
 http://thevdm.xyz:25461/Jennifer/Year!/19847
 #EXTINF:-1 tvg-id="beINSports.us" tvg-name="beIN Sports HD" tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=06-02-2024?w=3840&q=75" group-title="Live Channels",beIN Sports
-http://thevdm.xyz:25461/Jennifer/Year!/43997
+http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
 #EXTINF:-1 tvg-id="beINSportsEnEspanol.us" tvg-name="beIN Sports En Espanol" tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=06-02-2024?w=3840&q=75" group-title="Live Channels",beIN Sports En Espanol
 http://thevdm.xyz:25461/Jennifer/Year!/19848
 #EXTINF:-1 tvg-id="BET.us" tvg-name="BET East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/BET-2021Logo.svg" group-title="Live Channels",BET East
@@ -90,9 +90,9 @@ http://170.254.18.106/BET/index.m3u8
 #EXTINF:-1 tvg-id="BETPacific.us" tvg-name="BET West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/BET-2021Logo.svg" group-title="Live Channels",BET West
 http://thevdm.xyz:25461/Jennifer/Year!/39714
 #EXTINF:-1 tvg-id="BETGospel.us" tvg-name="BET Gospel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/BET_Gospel_2022_%28Vertical%29.svg/revision/latest?cb=20230922065149" group-title="Live Channels",BET Gospel
-http://supersonictv.live:8080/242306/210404/22056
+http://fl2.moveonjoy.com/BET_GOSPEL/index.m3u8
 #EXTINF:-1 tvg-id="BETHer.us" tvg-name="BET Her" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/BET_Her_2021.png" group-title="Live Channels",BET Her East
-http://thevdm.xyz:25461/Jennifer/Year!/44000
+http://fl2.moveonjoy.com/BET_HER/index.m3u8
 #EXTINF:-1 tvg-id="BETHerPacific.us" tvg-name="BET Her West" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/BET_Her_2021.png" group-title="Live Channels",BET Her West
 http://ufospeeds.com:2095/73622931496/7122224796/146
 #EXTINF:-1 tvg-id="BETJams.us" tvg-name="BET Jams" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/BET_Jams_2021_%28Vertical%29.svg/revision/latest/scale-to-width-down/250?cb=20230922123529" group-title="Live Channels",BET Jams
@@ -102,7 +102,7 @@ http://thevdm.xyz:25461/Jennifer/Year!/39717
 #EXTINF:-1 tvg-id="BigTen.us" tvg-name="Big Ten Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/1200px-Big_Ten_Network_Logo.svg.png" group-title="Live Channels",Big Ten Network
 http://thevdm.xyz:25461/Jennifer/Year!/44003
 #EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="Bloomberg FHD" tvg-logo="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivUxvlPidC3M/v0/-1x-1.jpg" group-title="Live Channels",Bloomberg
-http://thevdm.xyz:25461/Jennifer/Year!/39718
+http://fl2.moveonjoy.com/BLOOMBERG/index.m3u8
 #EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="Live Channels",Boomerang
 http://thevdm.xyz:25461/Jennifer/Year!/44006
 #EXTINF:-1 tvg-id="BounceTV.us" tvg-name="Bounce" tvg-logo="https://storage.googleapis.com/btvwp-uploads/2018/02/5bfb1301-bounce_adjusted1.png" group-title="Live Channels",Bounce
@@ -116,7 +116,7 @@ https://buzzrota-web.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Caracol.us" tvg-name="Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="Live Channels",Caracol
 https://6oclock.xyz:8443/Tyrone43147/My3boys/27978
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Live Channels",Cartoon Network East
-http://thevdm.xyz:25461/Jennifer/Year!/44009
+http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkPacific.us" tvg-name="Cartoon Network West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Live Channels",Cartoon Network West
 http://supersonictv.live:8080/242306/210404/21794
 #EXTINF:-1 tvg-id="CBSWCBS.us" tvg-name="CBS East" tvg-logo="https://cordcutting.com/wp-content/uploads/2022/03/CBS-Logo.png" group-title="Live Channels",CBS East (New York)
@@ -124,13 +124,13 @@ http://thevdm.xyz:25461/Jennifer/Year!/39726
 #EXTINF:-1 tvg-id="CBSKCBS.us" tvg-name="CBS West" tvg-logo="https://cordcutting.com/wp-content/uploads/2022/03/CBS-Logo.png" group-title="Live Channels",CBS West (Los Angeles)
 http://thevdm.xyz:25461/Jennifer/Year!/39727
 #EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="CBS Sports Network" tvg-logo="https://static.wikia.nocookie.net/viacom4633/images/7/73/ACCD68D0-9B23-449F-A783-E8CF43EE2BD4.png/revision/latest?cb=20191208013647" group-title="Live Channels",CBS Sports Network
-http://thevdm.xyz:25461/Jennifer/Year!/44012
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="Charge!.us" tvg-name="Charge East" tvg-logo="https://d12lhx8qhim5rg.cloudfront.net/uploads/2021/07/Charge_Yellow-1.png" group-title="Live Channels",Charge East
 https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 #EXTINF:-1 tvg-id="Charge!Pacific.us" tvg-name="Charge West" tvg-logo="https://d12lhx8qhim5rg.cloudfront.net/uploads/2021/07/Charge_Yellow-1.png" group-title="Live Channels",Charge West
 https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8?delay=10800
 #EXTINF:-1 tvg-id="CineMAX.us" tvg-name="Cinemax East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Cinemax_%282011%29_%28Alternative%29.svg/revision/latest?cb=20171227101540" group-title="Live Channels",Cinemax East
-http://thevdm.xyz:25461/Jennifer/Year!/34462
+http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="CineMAXPacific.us" tvg-name="Cinemax West FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Cinemax_%282011%29_%28Alternative%29.svg/revision/latest?cb=20171227101540" group-title="Live Channels",Cinemax West
 http://thevdm.xyz:25461/Jennifer/Year!/34470
 #EXTINF:-1 tvg-id="CineSony.us" tvg-name="Cine Sony" tvg-logo="https://www.cinesony.com/sites/cinesony/themes/custom/cinesony/logo.png" group-title="Live Channels",Cine Sony
@@ -148,7 +148,7 @@ http://thevdm.xyz:25461/Jennifer/Year!/39732
 #EXTINF:-1 tvg-id="CNBCWorld.us" tvg-name="CNBC World" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/CNBC_World.svg/1200px-CNBC_World.svg.png" group-title="Live Channels",CNBC World
 http://thevdm.xyz:25461/Jennifer/Year!/39733
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png" group-title="Live Channels",CNN
-https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/CNNUSA.us.m3u8
+http://fl2.moveonjoy.com/CNN/index.m3u8
 #EXTINF:-1 tvg-id="CNNEnEspanol.us" tvg-name="CNN en Espanol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg" group-title="Live Channels",CNN en Espanol
 http://thevdm.xyz:25461/Jennifer/Year!/19860
 #EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Comedy_Central_2018_%28Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20191213112155" group-title="Live Channels",Comedy Central East
@@ -188,19 +188,19 @@ http://supersonictv.live:8080/242306/210404/61934
 #EXTINF:-1 tvg-id="DiscoveryFamilia.us" tvg-name="Discovery Familia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Discovery_Familia_logo.svg/2560px-Discovery_Familia_logo.svg.png" group-title="Live Channels",Discovery Familia
 http://thevdm.xyz:25461/Jennifer/Year!/19868
 #EXTINF:-1 tvg-id="DiscoveryFamilyChannel.us" tvg-name="Discovery Family" tvg-logo="https://static.wikia.nocookie.net/warner-bros-entertainment/images/d/dd/Discovery_Family_logo.png/revision/latest?cb=20220703140718" group-title="Live Channels",Discovery Family
-http://thevdm.xyz:25461/Jennifer/Year!/44028
+http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryLifeChannel.us" tvg-name="Discovery Life" tvg-logo="https://adma.tmsimg.com/assets/s16125_ll_h15_ac.png?w=360&h=270" group-title="Live Channels",Discovery Life
-http://thevdm.xyz:25461/Jennifer/Year!/44029
+http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney Channel East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg" group-title="Live Channels",Disney Channel East
-http://thevdm.xyz:25461/Jennifer/Year!/31404
+http://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelPacific.us" tvg-name="Disney Channel West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg" group-title="Live Channels",Disney Channel West
 http://thevdm.xyz:25461/Jennifer/Year!/25180
 #EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior East" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="Live Channels",Disney Junior East
-http://thevdm.xyz:25461/Jennifer/Year!/25181
+http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJuniorPacific.us" tvg-name="Disney Junior West" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="Live Channels",Disney Junior West
 http://thevdm.xyz:25461/Jennifer/Year!/25182
 #EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney XD East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/800px-Disney_XD_-_2015.svg.png" group-title="Live Channels",Disney XD East
-http://thevdm.xyz:25461/Jennifer/Year!/44033
+http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-id="DisneyXDPacific.us" tvg-name="Disney XD West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/800px-Disney_XD_-_2015.svg.png" group-title="Live Channels",Disney XD West
 http://thevdm.xyz:25461/Jennifer/Year!/25184
 #EXTINF:-1 tvg-id="MagnoliaNetwork.us" tvg-name="DIY Network (Magnolia Network) HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/DIY_Network_logo.svg" group-title="Live Channels",DIY Network (Magnolia Network)
@@ -212,29 +212,29 @@ http://thevdm.xyz:25461/Jennifer/Year!/39754
 #EXTINF:-1 tvg-id="EEntertainmentTelevisionPacific.us" tvg-name="E! Entertainment Television West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/E%21_Logo_2012.svg" group-title="Live Channels",E! Entertainment Television West
 http://thevdm.xyz:25461/Jennifer/Year!/39755
 #EXTINF:-1 tvg-id="MGM+.us" tvg-name="Epix East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Epix_Logo_2009.svg/2560px-Epix_Logo_2009.svg.png" group-title="Live Channels",Epix East
-http://thevdm.xyz:25461/Jennifer/Year!/52169
+http://fl2.moveonjoy.com/EPIX/index.m3u8
 #EXTINF:-1 tvg-id="MGM+Pacific.us" tvg-name="Epix West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Epix_Logo_2009.svg/2560px-Epix_Logo_2009.svg.png" group-title="Live Channels",Epix West
 http://thevdm.xyz:25461/Jennifer/Year!/52170
 #EXTINF:-1 tvg-id="MGM+Hits.us" tvg-name="Epix 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Epix2_logo.svg" group-title="Live Channels",Epix 2
-http://thevdm.xyz:25461/Jennifer/Year!/34472
+http://fl2.moveonjoy.com/EPIX_2/index.m3u8
 #EXTINF:-1 tvg-id="MGM+DriveIn.us" tvg-name="Epix Drive-In" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/Epix_Drive-In_logo.svg" group-title="Live Channels",Epix Drive-In
 http://thevdm.xyz:25461/Jennifer/Year!/34473
 #EXTINF:-1 tvg-id="MGM+Marquee.us" tvg-name="Epix Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/Epix_Hits_logo.svg" group-title="Live Channels",Epix Hits 
-http://thevdm.xyz:25461/Jennifer/Year!/34474
+http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="Live Channels",ESPN
 http://fl1.moveonjoy.com/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN2" tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png/revision/latest?cb=20121007054435" group-title="Live Channels",ESPN2
-http://thevdm.xyz:25461/Jennifer/Year!/20046
+http://fl2.moveonjoy.com/ESPN_2/index.m3u8
 #EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="ESPN Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="Live Channels",ESPN Deportes
 http://thevdm.xyz:25461/Jennifer/Year!/19888
 #EXTINF:-1 tvg-id="ESPNEWS.us" tvg-name="ESPNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/2560px-ESPNews.svg.png" group-title="Live Channels",ESPNews
-http://thevdm.xyz:25461/Jennifer/Year!/31412
+http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN U" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1200px-ESPN_U_logo.svg.png" group-title="Live Channels",ESPN U
-http://thevdm.xyz:25461/Jennifer/Year!/20048
+http://fl2.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:-1 tvg-id="FamilyEntertainmentTelevision.us" tvg-name="Family Entertainment Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Fetv_logo.png" group-title="Live Channels",Family Entertainment Television
 http://supersonictv.live:8080/242306/210404/86404
 #EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="Food Network East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/640px-Food_Network_logo.svg.png" group-title="Live Channels",Food Network East
-http://thevdm.xyz:25461/Jennifer/Year!/39757
+http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="FoodNetworkPacific.us" tvg-name="Food Network West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/640px-Food_Network_logo.svg.png" group-title="Live Channels",Food Network West
 http://thevdm.xyz:25461/Jennifer/Year!/39758
 #EXTINF:-1 tvg-id="FOXWFXT.us" tvg-name="FOX East (Boston)" tvg-logo="https://static.wikia.nocookie.net/centralpark/images/5/55/FOX.png/revision/latest?cb=20200405065309" group-title="Live Channels",FOX East (Boston)
@@ -248,7 +248,7 @@ http://thevdm.xyz:25461/Jennifer/Year!/19894
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="FOX News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="Live Channels",FOX News Channel
 http://thevdm.xyz:25461/Jennifer/Year!/39762
 #EXTINF:-1 tvg-id="FoxSoccerPlus.us" tvg-name="FOX Soccer Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/1200px-Fox_Soccer_Plus_logo.svg.png" group-title="Live Channels",FOX Soccer Plus
-http://thevdm.xyz:25461/Jennifer/Year!/44048
+http://fl2.moveonjoy.com/FOX_SOCCER_PLUS/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="FS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Live Channels",FS1
 http://thevdm.xyz:25461/Jennifer/Year!/20052
 #EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="FS2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="Live Channels",FS2
@@ -260,7 +260,7 @@ http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
 #EXTINF:-1 tvg-id="FreeformPacific.us" tvg-name="Freeform West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Freeform_2022.svg/2560px-Freeform_2022.svg.png" group-title="Live Channels",Freeform West
 http://supersonictv.live:8080/242306/210404/21805
 #EXTINF:-1 tvg-id="Fuse.us" tvg-name="Fuse FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Fuse_logo15.png" group-title="Live Channels",Fuse FHD
-http://thevdm.xyz:25461/Jennifer/Year!/44052
+http://fl2.moveonjoy.com/FUSE/index.m3u8
 #EXTINF:-1 tvg-id="FX.us" tvg-name="FX East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="Live Channels",FX East
 http://fl2.moveonjoy.com/FX/index.m3u8
 #EXTINF:-1 tvg-id="FXPacific.us" tvg-name="FX West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="Live Channels",FX West
@@ -272,7 +272,7 @@ http://fl2.moveonjoy.com/FXX/index.m3u8
 #EXTINF:-1 tvg-id="FXXPacific.us" tvg-name="FXX West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/1200px-FXX_Logo.svg.png" group-title="Live Channels",FXX West
 http://supersonictv.live:8080/242306/210404/22095
 #EXTINF:-1 tvg-id="FYIChannel.us" tvg-name="FYI FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FYI%2C_logo.svg/1200px-FYI%2C_logo.svg.png" group-title="Live Channels",FYI East
-http://thevdm.xyz:25461/Jennifer/Year!/44056
+http://fl2.moveonjoy.com/FYI/index.m3u8
 #EXTINF:-1 tvg-id="FYIChannelPacific.us" tvg-name="FYI West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FYI%2C_logo.svg/1200px-FYI%2C_logo.svg.png" group-title="Live Channels",FYI West
 http://ufospeeds.com:2095/73622931496/7122224796/176
 #EXTINF:-1 tvg-id="Galavision.us" tvg-name="Galavision East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/640px-Galavision_Logo_2013.svg.png" group-title="Live Channels",Galavision East
@@ -282,35 +282,35 @@ https://unidfp-nlds159.global.ssl.fastly.net/nlds/univisionnow/galavision_west/a
 #EXTINF:-1 tvg-id="GameShowNetwork.us" tvg-name="Game Show Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/1200px-Game_Show_Network_2018.svg.png" group-title="Live Channels",Game Show Network
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="getTV.us" tvg-name="getTV" tvg-logo="https://busterhouse.com/wp-content/uploads/2018/04/gettv.png" group-title="Live Channels",getTV
-http://thevdm.xyz:25461/Jennifer/Year!/44058
+http://fl2.moveonjoy.com/GET_TV/index.m3u8
 #EXTINF:-1 tvg-id="GreatAmericanFamily.us" tvg-name="Great American Family FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Great_American_Family_logo.svg" group-title="Live Channels",Great American Family
 http://thevdm.xyz:25461/Jennifer/Year!/39774
 #EXTINF:-1 tvg-id="Grit.us" tvg-name="Grit" tvg-logo="https://cms.scrippsnetworks.com/wp-content/uploads/2022/01/snn_logo-GRIT.png" group-title="Live Channels",Grit
 http://thevdm.xyz:25461/Jennifer/Year!/39773
 #EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="Hallmark Channel" tvg-logo="https://roost.nbcuni.com/bin/viewasset.html/content/dam/Peacock/Landing-Pages/collections/hallmark/hallmark-channel-min.png/_jcr_content/renditions/original.PNG" group-title="Live Channels",Hallmark Channel East
-http://thevdm.xyz:25461/Jennifer/Year!/39775
+http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="HallmarkChannelPacific.us" tvg-name="Hallmark Channel West" tvg-logo="https://roost.nbcuni.com/bin/viewasset.html/content/dam/Peacock/Landing-Pages/collections/hallmark/hallmark-channel-min.png/_jcr_content/renditions/original.PNG" group-title="Live Channels",Hallmark Channel West
 http://ufospeeds.com:2095/73622931496/7122224796/178
 #EXTINF:-1 tvg-id="HallmarkDrama.us" tvg-name="Hallmark Drama" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Hallmark_Drama_%28Gold%29.svg/revision/latest?cb=20171130164502" group-title="Live Channels",Hallmark Drama
-http://thevdm.xyz:25461/Jennifer/Year!/39776
+http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
 #EXTINF:-1 tvg-id="HallmarkMoviesAndMysteries.us" tvg-name="Hallmark Movies & Mysteries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Hallmark_movies_mysteries.png" group-title="Live Channels",Hallmark Movies & Mysteries East
 http://thevdm.xyz:25461/Jennifer/Year!/39777
 #EXTINF:-1 tvg-id="HallmarkMoviesAndMysteriesPacific.us" tvg-name="Hallmark Movies & Mysteries West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Hallmark_movies_mysteries.png" group-title="Live Channels",Hallmark Movies & Mysteries West
 http://ufospeeds.com:2095/73622931496/7122224796/185
 #EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="Live Channels",HBO East
-http://41.205.93.154/HBO/index.m3u8
+http://fl2.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1 tvg-id="HBOPacific.us" tvg-name="HBO West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="Live Channels",HBO West
 http://thevdm.xyz:25461/Jennifer/Year!/34479
 #EXTINF:-1 tvg-id="HBO2.us" tvg-name="HBO2 East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Live Channels",HBO2 East
-http://thevdm.xyz:25461/Jennifer/Year!/34475
+http://fl2.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1 tvg-id="HBO2Pacific.us" tvg-name="HBO2 West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Live Channels",HBO2 West
 http://thevdm.xyz:25461/Jennifer/Year!/34476
 #EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="HBO Comedy East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/HBO_Comedy_2014_%28Stacked%29.svg/revision/latest/scale-to-width-down/250?cb=20210113003534" group-title="Live Channels",HBO Comedy East
-http://thevdm.xyz:25461/Jennifer/Year!/52178
+http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
 #EXTINF:-1 tvg-id="HBOComedyPacific.us" tvg-name="HBO Comedy West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/HBO_Comedy_2014_%28Stacked%29.svg/revision/latest/scale-to-width-down/250?cb=20210113003534" group-title="Live Channels",HBO Comedy West
 http://thevdm.xyz:25461/Jennifer/Year!/34478
 #EXTINF:-1 tvg-id="HBOFamily.us" tvg-name="HBO Family East" tvg-logo="https://static.wikia.nocookie.net/hbo-family/images/7/73/HBOFamily2014.png/revision/latest?cb=20210317034216" group-title="Live Channels",HBO Family East
-http://thevdm.xyz:25461/Jennifer/Year!/34480
+http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="HBOFamilyPacific.us" tvg-name="HBO Family West" tvg-logo="https://static.wikia.nocookie.net/hbo-family/images/7/73/HBOFamily2014.png/revision/latest?cb=20210317034216" group-title="Live Channels",HBO Family West
 http://thevdm.xyz:25461/Jennifer/Year!/34481
 #EXTINF:-1 tvg-id="HBOLatino.us" tvg-name="HBO Latino East" tvg-logo="https://www.multivu.com/players/English/7307451-hbo-latino-programacion-original-de-alta-calidad-totalmente-nueva-otono-2014/gallery//image/fd052c4c-d1e1-4ac4-bf6d-7c1d4c29f3ac.png" group-title="Live Channels",HBO Latino East
@@ -322,7 +322,7 @@ http://thevdm.xyz:25461/Jennifer/Year!/34484
 #EXTINF:-1 tvg-id="HBOSignaturePacific.us" tvg-name="HBO Signature West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/HBO_Signature_2014_%28Stacked%29.svg/revision/latest?cb=20210113151115&path-prefix=es" group-title="Live Channels",HBO Signature West
 http://thevdm.xyz:25461/Jennifer/Year!/52185
 #EXTINF:-1 tvg-id="HBOZone.us" tvg-name="HBO Zone East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/HBO_Zone_2014_%28Stacked%29.svg/revision/latest?cb=20210113150928&path-prefix=es" group-title="Live Channels",HBO Zone East
-http://thevdm.xyz:25461/Jennifer/Year!/34487
+http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
 #EXTINF:-1 tvg-id="HBOZonePacific.us" tvg-name="HBO Zone West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/HBO_Zone_2014_%28Stacked%29.svg/revision/latest?cb=20210113150928&path-prefix=es" group-title="Live Channels",HBO Zone West
 http://thevdm.xyz:25461/Jennifer/Year!/52187
 #EXTINF:-1 tvg-id="HDNetMovies.us" tvg-name="HDNet Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/HDNET_Movies_Logo.png" group-title="Live Channels",HDNet Movies
@@ -330,7 +330,7 @@ http://thevdm.xyz:25461/Jennifer/Year!/34489
 #EXTINF:-1 tvg-id="HeroesAndIconsNetwork.us" tvg-name="H&I" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Heroes_%26_Icons_logo.svg/1200px-Heroes_%26_Icons_logo.svg.png" group-title="Live Channels",H&I (Heroes & Icons)
 http://thevdm.xyz:25461/Jennifer/Year!/39778
 #EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV East FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/HGTV_2010.svg" group-title="Live Channels",HGTV East
-http://143.244.60.97/HGTV/index.m3u8
+http://fl2.moveonjoy.com/HGTV/index.m3u8
 #EXTINF:-1 tvg-id="HGTVPacific.us" tvg-name="HGTV West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/HGTV_2010.svg" group-title="Live Channels",HGTV West
 http://thevdm.xyz:25461/Jennifer/Year!/39780
 #EXTINF:-1 tvg-id="History.us" tvg-name="History Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1200px-History_%282021%29.svg.png" group-title="Live Channels",History Channel
@@ -338,7 +338,7 @@ http://thevdm.xyz:25461/Jennifer/Year!/31431
 #EXTINF:-1 tvg-id="HistoryEnEspanol.us" tvg-name="History Channel en Espanol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/History_en_Espa%C3%B1ol_Logo.svg/1200px-History_en_Espa%C3%B1ol_Logo.svg.png" group-title="Live Channels",History Channel en Espanol
 http://supersonictv.live:8080/242306/210404/61812
 #EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/HLNLogo2023.svg" group-title="Live Channels",HLN
-https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/HLN.us.m3u8
+http://fl2.moveonjoy.com/HLN/index.m3u8
 #EXTINF:-1 tvg-id="HSN.us" tvg-name="HSN East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1200px-HSN_logo.svg.png" group-title="Live Channels",HSN East
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
 #EXTINF:-1 tvg-id="HSNPacific.us" tvg-name="HSN West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1200px-HSN_logo.svg.png" group-title="Live Channels",HSN West
@@ -350,11 +350,11 @@ https://bcovlive-a.akamaihd.net/fd67e3f72ba8408c850c50af8e7a32bd/us-west-2/62407
 #EXTINF:-1 tvg-id="IndiePlex.us" tvg-name="Indieplex" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Indieplex_Stacked.svg/revision/latest?cb=20160512191618" group-title="Live Channels",Indieplex
 http://thevdm.xyz:25461/Jennifer/Year!/34490
 #EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="ID (Investigation Discovery) East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="Live Channels",ID (Investigation Discovery) East
-http://thevdm.xyz:25461/Jennifer/Year!/39789
+http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscoveryPacific.us" tvg-name="ID (Investigation Discovery) West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="Live Channels",ID (Investigation Discovery) West
 http://supersonictv.live:8080/242306/210404/22111
 #EXTINF:-1 tvg-id="IonTV.us" tvg-name="ION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Ion_logo.svg" group-title="Live Channels",ION
-https://lnc-ion.tubi.video/playlist.m3u8
+http://fl2.moveonjoy.com/ION_TV/index.m3u8
 #EXTINF:-1 tvg-id="IonMystery.us" tvg-name="ION Mystery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/1200px-ION_Mystery_logo.svg.png" group-title="Live Channels",ION Mystery
 https://livetv-fa.tubi.video/ion-mystery/playlist.m3u8
 #EXTINF:-1 tvg-id="IonPlus.us" tvg-name="ION Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/1200px-ION_Plus_logo.svg.png" group-title="Live Channels",ION Plus
@@ -364,7 +364,7 @@ https://cdn.igocast.com/channel12_hls/channel12_master.m3u8
 #EXTINF:-1 tvg-id="Laff.us" tvg-name="Laff TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png" group-title="Live Channels",Laff TV
 http://72.46.118.193/Laff/index.m3u8
 #EXTINF:-1 tvg-id="Lifetime.us" tvg-name="Lifetime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg" group-title="Live Channels",Lifetime East
-http://thevdm.xyz:25461/Jennifer/Year!/39794
+http://fl2.moveonjoy.com/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="LifetimePacific.us" tvg-name="Lifetime West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg" group-title="Live Channels",Lifetime West
 http://ufospeeds.com:2095/73622931496/7122224796/188
 #EXTINF:-1 tvg-id="LifetimeMoviesNetwork.us" tvg-name="Lifetime Movies Network" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/Lifetime-Movies-White.png" group-title="Live Channels",Lifetime Movies Network
@@ -378,13 +378,11 @@ http://ufospeeds.com:2095/73622931496/7122224796/25
 #EXTINF:-1 tvg-id="LonghornNetwork.us" tvg-name="Longhorn Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Longhorn_Network_logo.svg/1280px-Longhorn_Network_logo.svg.png" group-title="Live Channels",Longhorn Network
 http://thevdm.xyz:25461/Jennifer/Year!/20087
 #EXTINF:-1 tvg-id="MeTV.us" tvg-name="MeTV East" tvg-logo="https://www.metv.com/images/metv_logo.png" group-title="Live Channels",MeTV East
-http://thevdm.xyz:25461/Jennifer/Year!/39798
-#EXTINF:-1 tvg-id="MeTVPacific.us" tvg-name="MeTV West" tvg-logo="https://www.metv.com/images/metv_logo.png" group-title="Live Channels",MeTV West
-http://supersonictv.live:8080/242306/210404/83346
+http://fl2.moveonjoy.com/ME_TV/index.m3u8
 #EXTINF:-1 tvg-id="MilitaryHistory.us" tvg-name="Military History" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Military_History_2015.svg/revision/latest/scale-to-width-down/250?cb=20210604115718" group-title="Live Channels",Military History
 https://6oclock.xyz:8443/GY5ab4se80/hP2xh5C63e/25023
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="Live Channels",MLB Network
-http://thevdm.xyz:25461/Jennifer/Year!/37828
+http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="MLBStrikeZone.us" tvg-name="MLB Strike Zone" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/MLB_Network_Strike_Zone.png/revision/latest?cb=20221211002759" group-title="Live Channels",MLB Strike Zone
 http://thevdm.xyz:25461/Jennifer/Year!/30943
 #EXTINF:-1 tvg-id="MoreMax.us" tvg-name="MoreMAX East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/MoreMax_2011.svg/revision/latest?cb=20231008031957" group-title="Live Channels",MoreMAX East
@@ -392,13 +390,13 @@ http://thevdm.xyz:25461/Jennifer/Year!/34464
 #EXTINF:-1 tvg-id="MoreMAXPacific.us" tvg-name="MoreMAX West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/MoreMax_2011.svg/revision/latest?cb=20231008031957" group-title="Live Channels",MoreMAX West
 http://thevdm.xyz:25461/Jennifer/Year!/52164
 #EXTINF:-1 tvg-id="MOTORTREND.us" tvg-name="MotorTrend" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Motor_Trend.svg/revision/latest?cb=20180410190357" group-title="Live Channels",MotorTrend
-http://thevdm.xyz:25461/Jennifer/Year!/39799
+http://fl2.moveonjoy.com/MOTOR_TREND/index.m3u8
 #EXTINF:-1 tvg-id="MovieMax.us" tvg-name="MovieMAX" tvg-logo="https://www.gntnigeria.com/certifications/moviemax/MovieMax_Latin_Atlansia.png" group-title="Live Channels",MovieMAX
 http://thevdm.xyz:25461/Jennifer/Year!/34466
 #EXTINF:-1 tvg-id="MoviePlex.us" tvg-name="MoviePlex" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Movieplex_logo.svg/2560px-Movieplex_logo.svg.png" group-title="Live Channels",MoviePlex
 http://thevdm.xyz:25461/Jennifer/Year!/34492
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC" tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/newscms/2021_35/3502557/msnbc-logo.png" group-title="Live Channels",MSNBC
-http://thevdm.xyz:25461/Jennifer/Year!/39800
+http://fl2.moveonjoy.com/MSNBC/index.m3u8
 #EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="Live Channels",MTV East
 https://fl2.moveonjoy.com/MTV/index.m3u8
 #EXTINF:-1 tvg-id="MTVPacific.us" tvg-name="MTV West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="Live Channels",MTV West
@@ -434,7 +432,7 @@ http://supersonictv.live:8080/242306/210404/22124
 #EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-name="National Geographic Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/640px-National_Geographic_Wild_logo.svg.png" group-title="Live Channels",National Geographic Wild
 http://thevdm.xyz:25461/Jennifer/Year!/44098
 #EXTINF:-1 tvg-id="NBAtv.us" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Live Channels",NBA TV
-http://thevdm.xyz:25461/Jennifer/Year!/44099
+http://fl2.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:-1 tvg-id="NBCWMAQ.us" tvg-name="NBC East (Chicago)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/NBC_logo_2022_%28vertical%29.svg" group-title="Live Channels",NBC East (Chicago)
 http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="NBCKNBC.us" tvg-name="NBC West (Los Angeles)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/NBC_logo_2022_%28vertical%29.svg" group-title="Live Channels",NBC West (Los Angeles)
@@ -462,13 +460,13 @@ http://thevdm.xyz:25461/Jennifer/Year!/39813
 #EXTINF:-1 tvg-id="Newsmax2.us" tvg-name="Newsmax 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/2560px-Newsmax_logo.svg.png" group-title="Live Channels",Newsmax 2
 https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="NEWSNATION.us" tvg-name="NewsNation" tvg-logo="https://www.newsnationnow.com/wp-content/themes/newsnation/client/static/newsnation-app-landing/images/newsnation-hero-logo.png" group-title="Live Channels",NewsNation
-http://thevdm.xyz:25461/Jennifer/Year!/39866
+http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network" tvg-logo="https://cdn2.downdetector.com/static/uploads/c/300/31114/NFL_Network_logo.png" group-title="Live Channels",NFL Network
-http://thevdm.xyz:25461/Jennifer/Year!/76903
+http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="NFLRedZone.us" tvg-name="NFL RedZone" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/NFL_RedZone.svg/revision/latest?cb=20230828151712" group-title="Live Channels",NFL RedZone
 http://thevdm.xyz:25461/Jennifer/Year!/76904
 #EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="NHL Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/NHL_Network_2012.svg" group-title="Live Channels",NHL Network
-http://thevdm.xyz:25461/Jennifer/Year!/44114
+http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/NICK2023.png" group-title="Live Channels",Nickelodeon East
 http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonPacific.us" tvg-name="Nickelodeon West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/NICK2023.png" group-title="Live Channels",Nickelodeon West
@@ -482,7 +480,7 @@ http://thevdm.xyz:25461/Jennifer/Year!/20875
 #EXTINF:-1 tvg-id="NickJrPlutoTV.us" tvg-name="NickJr PlutoTV" tvg-logo="https://static.wikia.nocookie.net/c7185340-7b20-463b-b5a4-7a7aa4c90122" group-title="Live Channels",NickJr PlutoTV
 https://dai.google.com/linear/hls/event/_Ath2237RR2QfYlKfSa9hQ/master.m3u8
 #EXTINF:-1 tvg-id="NickMusic.us" tvg-name="NickMusic USA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/NickMusic_Splat.svg/revision/latest/scale-to-width-down/250?cb=20240129184250" group-title="Live Channels",NickMusic USA
-http://thevdm.xyz:25461/Jennifer/Year!/20878
+http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
 #EXTINF:-1 tvg-id="NickMusic.nl" tvg-name="NickMusic Dutch" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/8/8d/NickMusic_%28Purple%29.svg/revision/latest?cb=20220804155651" group-title="Live Channels",NickMusic Dutch
 http://supersonictv.live:8080/242306/210404/84455
 #EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="NickToons" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/8/8d/Nicktoons_US_2023.png/revision/latest/scale-to-width-down/1200?cb=20231203212939" group-title="Live Channels",NickToons East
@@ -494,11 +492,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6452c814939a590008567a
 #EXTINF:-1 tvg-id="olympicchannel.us" tvg-name="Olympic Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Live Channels",Olympic Channel
 http://thevdm.xyz:25461/Jennifer/Year!/20113
 #EXTINF:-1 tvg-id="OWN.us" tvg-name="Oprah Winfrey Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/OWN_Canada_2015_logo.png" group-title="Live Channels",Oprah Winfrey Network (OWN) East
-http://thevdm.xyz:25461/Jennifer/Year!/39816
+http://fl2.moveonjoy.com/OWN/index.m3u8
 #EXTINF:-1 tvg-id="OWNPacific.us" tvg-name="Oprah Winfrey Network West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/OWN_Canada_2015_logo.png" group-title="Live Channels",Oprah Winfrey Network (OWN) West
 http://ufospeeds.com:2095/73622931496/7122224796/140
 #EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Outdoor_Channel_logo_2017.svg" group-title="Live Channels",Outdoor Channel
-http://thevdm.xyz:25461/Jennifer/Year!/20114
+http://fl2.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="OuterMAX.us" tvg-name="OuterMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/OuterMax_Logo.svg/2560px-OuterMax_Logo.svg.png" group-title="Live Channels",OuterMAX
 http://thevdm.xyz:25461/Jennifer/Year!/52166
 #EXTINF:-1 tvg-id="Oxygen.us" tvg-name="Oxygen East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/1200px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="Live Channels",Oxygen East
@@ -508,7 +506,7 @@ http://thevdm.xyz:25461/Jennifer/Year!/39818
 #EXTINF:-1 tvg-id="Pac12Network.us" tvg-name="Pac-12 Network" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/Pac-12-Network-White.png" group-title="Live Channels",Pac-12 Network
 http://thevdm.xyz:25461/Jennifer/Year!/44131
 #EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="Live Channels",Paramount Network East
-http://170.254.18.106/PARAMOUNT/index.m3u8
+http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="ParamountNetworkPacific.us" tvg-name="Paramount Network West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="Live Channels",Paramount Network West
 http://ufospeeds.com:2095/73622931496/7122224796/141
 #EXTINF:-1 tvg-id="Pasiones.us" tvg-name="Pasiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="Live Channels",Pasiones
@@ -540,13 +538,13 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
 #EXTINF:-1 tvg-id="QVC3.us" tvg-name="QVC3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/QVC_Logo.svg/615px-QVC_Logo.svg.png" group-title="Live Channels",QVC3
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
 #EXTINF:-1 tvg-id="ReelzChannel.us" tvg-name="ReelzChannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Reelz_Channel.svg/795px-Reelz_Channel.svg.png" group-title="Live Channels",ReelzChannel
-https://bcovlive-a.akamaihd.net/rc21a8bc6455344c699a06e9220fe2748/us-west-2/5245389775001/playlist.m3u8
+http://fl2.moveonjoy.com/REELZ/index.m3u8
 #EXTINF:-1 tvg-id="RetroPlex.us" tvg-name="RetroPlex East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Retroplex_Stacked.svg/revision/latest?cb=20160512192053" group-title="Live Channels",RetroPlex East
 http://thevdm.xyz:25461/Jennifer/Year!/34494
 #EXTINF:-1 tvg-id="RetroPlexPacific.us" tvg-name="RetroPlex West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Retroplex_Stacked.svg/revision/latest?cb=20160512192053" group-title="Live Channels",RetroPlex West
 http://supersonictv.live:8080/242306/210404/47747
 #EXTINF:-1 tvg-id="Revolt.us" tvg-name="Revolt" tvg-logo="https://photos.prnewswire.com/prnfull/20150320/183424LOGO" group-title="Live Channels",Revolt
-http://thevdm.xyz:25461/Jennifer/Year!/44143
+http://fl2.moveonjoy.com/REVOLT/index.m3u8
 #EXTINF:-1 tvg-id="rootsportsnorthwest.us" tvg-name="Root Sports Northwest" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8b/Root_Sports_logo.svg" group-title="Live Channels",Root Sports Northwest
 http://thevdm.xyz:25461/Jennifer/Year!/37834
 #EXTINF:-1 tvg-id="ScienceChannel.us" tvg-name="Science" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/DiscoveryScience_Logo_Screen_Reverse.png?auto=format&q=60&crop=faces%2C%20edges&ixlib=react-9.5.1-beta.1" group-title="Live Channels",Science
@@ -556,15 +554,15 @@ https://d3ra88okaj5j4j.cloudfront.net/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/in
 #EXTINF:-1 tvg-id="SECNetwork.us" tvg-name="SEC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/1200px-SEC_Network_logo.svg.png" group-title="Live Channels",SEC Network
 http://fl2.moveonjoy.com/SEC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="Showtime.us" tvg-name="Showtime East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Showtime-Logo.svg" group-title="Live Channels",Showtime East
-http://thevdm.xyz:25461/Jennifer/Year!/52188
+http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
 #EXTINF:-1 tvg-id="ShowtimePacific.us" tvg-name="Showtime West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Showtime-Logo.svg" group-title="Live Channels",Showtime West
 http://thevdm.xyz:25461/Jennifer/Year!/52189
 #EXTINF:-1 tvg-id="Showtime2.us" tvg-name="Showtime 2 East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Showtime_2.svg" group-title="Live Channels",Showtime 2 East
-http://thevdm.xyz:25461/Jennifer/Year!/52190
+http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
 #EXTINF:-1 tvg-id="Showtime2Pacific.us" tvg-name="Showtime 2 West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Showtime_2.svg" group-title="Live Channels",Showtime 2 West
 http://thevdm.xyz:25461/Jennifer/Year!/52191
 #EXTINF:-1 tvg-id="ShowtimeExtreme.us" tvg-name="Showtime Extreme East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Showtime_Extreme_2001_%28Horizontal%29.svg/revision/latest?cb=20201220204707" group-title="Live Channels",Showtime Extreme East
-http://thevdm.xyz:25461/Jennifer/Year!/52194
+http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
 #EXTINF:-1 tvg-id="ShowtimeExtremePacific.us" tvg-name="Showtime Extreme West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Showtime_Extreme_2001_%28Horizontal%29.svg/revision/latest?cb=20201220204707" group-title="Live Channels",Showtime Extreme West
 http://thevdm.xyz:25461/Jennifer/Year!/52195
 #EXTINF:-1 tvg-id="ShowtimeFamilyZone.us" tvg-name="Showtime Family Zone East" tvg-logo="https://www.pngkey.com/png/full/0-1892_showtime-family-zone-logo.png" group-title="Live Channels",Showtime Family Zone East
@@ -572,7 +570,7 @@ http://thevdm.xyz:25461/Jennifer/Year!/52196
 #EXTINF:-1 tvg-id="ShowtimeFamilyZonePacific.us" tvg-name="Showtime Family Zone West" tvg-logo="https://www.pngkey.com/png/full/0-1892_showtime-family-zone-logo.png" group-title="Live Channels",Showtime Family Zone West
 http://thevdm.xyz:25461/Jennifer/Year!/52197
 #EXTINF:-1 tvg-id="ShowtimeNext.us" tvg-name="Showtime Next East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Showtime_Next_II.svg/revision/latest/scale-to-width-down/300?cb=20201219223426" group-title="Live Channels",Showtime Next East
-http://thevdm.xyz:25461/Jennifer/Year!/52198
+http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 #EXTINF:-1 tvg-id="ShowtimeNextPacific.us" tvg-name="Showtime Next West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Showtime_Next_II.svg/revision/latest/scale-to-width-down/300?cb=20201219223426" group-title="Live Channels",Showtime Next West
 http://thevdm.xyz:25461/Jennifer/Year!/52199
 #EXTINF:-1 tvg-id="ShowtimeShowcase.us" tvg-name="Showtime Showcase East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Showtime_Showcase.svg/1280px-Showtime_Showcase.svg.png" group-title="Live Channels",Showtime Showcase East
@@ -580,7 +578,7 @@ http://thevdm.xyz:25461/Jennifer/Year!/52200
 #EXTINF:-1 tvg-id="ShowtimeShowcasePacific.us" tvg-name="Showtime Showcase West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Showtime_Showcase.svg/1280px-Showtime_Showcase.svg.png" group-title="Live Channels",Showtime Showcase West
 http://thevdm.xyz:25461/Jennifer/Year!/52201
 #EXTINF:-1 tvg-id="ShowtimeWomen.us" tvg-name="Showtime Women East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Showtime_Women_%282022-%29.svg/revision/latest/scale-to-width-down/300?cb=20230126015042" group-title="Live Channels",Showtime Women East
-http://thevdm.xyz:25461/Jennifer/Year!/52202
+http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 #EXTINF:-1 tvg-id="ShowtimeWomenPacific.us" tvg-name="Showtime Women West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Showtime_Women_%282022-%29.svg/revision/latest/scale-to-width-down/300?cb=20230126015042" group-title="Live Channels",Showtime Women West
 http://thevdm.xyz:25461/Jennifer/Year!/52203
 #EXTINF:-1 tvg-id="SHOxBET.us" tvg-name="SHOxBET East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/SHO-BET-2023.svg/revision/latest/scale-to-width-down/300?cb=20230125211658" group-title="Live Channels",SHOxBET East
@@ -598,9 +596,9 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="spectrumsportsnetla.us" tvg-name="Sportsnet LA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Spectrum_Sportsnet_LA.svg" group-title="Live Channels",Sportsnet LA
 http://thevdm.xyz:25461/Jennifer/Year!/37835
 #EXTINF:-1 tvg-id="Stadium.us" tvg-name="Stadium" tvg-logo="https://seeklogo.com/images/S/stadium-logo-E51B33CA35-seeklogo.com.png" group-title="Live Channels",Stadium
-https://dai.google.com/linear/hls/event/jx8m4hcSR0aoACx8hqxGCQ/master.m3u8
+http://fl2.moveonjoy.com/STADIUM/index.m3u8
 #EXTINF:-1 tvg-id="Starz.us" tvg-name="Starz East" tvg-logo="https://www.starz.com/assets/images/icons/starz-logo-glint.svg" group-title="Live Channels",Starz East
-http://thevdm.xyz:25461/Jennifer/Year!/52204
+http://fl2.moveonjoy.com/STARZ/index.m3u8
 #EXTINF:-1 tvg-id="StarzPacific.us" tvg-name="Starz West" tvg-logo="https://www.starz.com/assets/images/icons/starz-logo-glint.svg" group-title="Live Channels",Starz West
 http://thevdm.xyz:25461/Jennifer/Year!/34540
 #EXTINF:-1 tvg-id="StarzCinema.us" tvg-name="Starz Cinema East" tvg-logo="https://iili.io/bIfER1.md.png" group-title="Live Channels",Starz Cinema East
@@ -608,19 +606,19 @@ http://thevdm.xyz:25461/Jennifer/Year!/52206
 #EXTINF:-1 tvg-id="StarzCinemaPacific.us" tvg-name="Starz Cinema West" tvg-logo="https://iili.io/bIfER1.md.png" group-title="Live Channels",Starz Cinema West
 http://thevdm.xyz:25461/Jennifer/Year!/52207
 #EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="Starz Comedy East" tvg-logo="https://iili.io/bIfMDg.md.png" group-title="Live Channels",Starz Comedy East
-http://thevdm.xyz:25461/Jennifer/Year!/52208
+http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
 #EXTINF:-1 tvg-id="StarzComedyPacific.us" tvg-name="Starz Comedy West" tvg-logo="https://iili.io/bIfMDg.md.png" group-title="Live Channels",Starz Comedy West
 http://thevdm.xyz:25461/Jennifer/Year!/52209
 #EXTINF:-1 tvg-id="StarzEdge.us" tvg-name="Starz Edge East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Starz_Edge_Logo_2022.svg" group-title="Live Channels",Starz Edge East
-http://thevdm.xyz:25461/Jennifer/Year!/52210
+http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
 #EXTINF:-1 tvg-id="StarzEdgePacific.us" tvg-name="Starz Edge West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Starz_Edge_Logo_2022.svg" group-title="Live Channels",Starz Edge West
 http://thevdm.xyz:25461/Jennifer/Year!/52211
 #EXTINF:-1 tvg-id="StarzEncore.us" tvg-name="Starz Encore East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/2560px-Starz_Encore_Logo_2022.svg.png" group-title="Live Channels",Starz Encore East
-http://thevdm.xyz:25461/Jennifer/Year!/34526
+http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
 #EXTINF:-1 tvg-id="StarzEncorePacific.us" tvg-name="Starz Encore West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/2560px-Starz_Encore_Logo_2022.svg.png" group-title="Live Channels",Starz Encore West
 http://thevdm.xyz:25461/Jennifer/Year!/34533
 #EXTINF:-1 tvg-id="StarzEncoreAction.us" tvg-name="Starz Encore Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Starz_Encore_Action_Logo_2022.svg/2560px-Starz_Encore_Action_Logo_2022.svg.png" group-title="Live Channels",Starz Encore Action
-http://thevdm.xyz:25461/Jennifer/Year!/52218
+http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 #EXTINF:-1 tvg-id="StarzEncoreBlack.us" tvg-name="Starz Encore Black" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Starz_Encore_Black_Logo_2022.svg/2560px-Starz_Encore_Black_Logo_2022.svg.png" group-title="Live Channels",Starz Encore Black
 http://thevdm.xyz:25461/Jennifer/Year!/52219
 #EXTINF:-1 tvg-id="StarzEncoreClassic.us" tvg-name="Starz Encore Classic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Starz_Encore_Classic_Logo_2022.svg/2560px-Starz_Encore_Classic_Logo_2022.svg.png" group-title="Live Channels",Starz Encore Classic
@@ -632,7 +630,7 @@ http://thevdm.xyz:25461/Jennifer/Year!/52222
 #EXTINF:-1 tvg-id="StarzEncoreSuspense.us" tvg-name="Starz Encore Suspense" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Starz_Encore_Suspense_Logo_2022.svg/2560px-Starz_Encore_Suspense_Logo_2022.svg.png" group-title="Live Channels",Starz Encore Suspense
 http://thevdm.xyz:25461/Jennifer/Year!/52223
 #EXTINF:-1 tvg-id="StarzEncoreWesterns.us" tvg-name="Starz Encore Westerns" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Starz_Encore_Westerns_Logo_2022.svg/2560px-Starz_Encore_Westerns_Logo_2022.svg.png" group-title="Live Channels",Starz Encore Westerns
-http://thevdm.xyz:25461/Jennifer/Year!/52224
+http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
 #EXTINF:-1 tvg-id="StarzInBlack.us" tvg-name="Starz in Black East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Starz_in_Black_Logo_2022.svg/2560px-Starz_in_Black_Logo_2022.svg.png" group-title="Live Channels",Starz in Black East
 http://thevdm.xyz:25461/Jennifer/Year!/52212
 #EXTINF:-1 tvg-id="StarzInBlackPacific.us" tvg-name="Starz in Black West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Starz_in_Black_Logo_2022.svg/2560px-Starz_in_Black_Logo_2022.svg.png" group-title="Live Channels",Starz in Black West
@@ -642,7 +640,7 @@ http://thevdm.xyz:25461/Jennifer/Year!/52214
 #EXTINF:-1 tvg-id="StarzKidsPacific.us" tvg-name="Starz Kids & Family West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Starz_Kids_%26_Family_Logo_2022.svg" group-title="Live Channels",Starz Kids & Family West
 http://thevdm.xyz:25461/Jennifer/Year!/52215
 #EXTINF:-1 tvg-id="SundanceTV.us" tvg-name="SundanceTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/1200px-SundanceTV_2014.svg.png" group-title="Live Channels",SundanceTV
-https://bcovlive-a.akamaihd.net/8a4f317bd8d549ebabf2222a000f5701/us-west-2/6240731308001/playlist.m3u8
+http://fl2.moveonjoy.com/SUNDANCE/index.m3u8
 #EXTINF:-1 tvg-id="Syfy.us" tvg-name="SYFY East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Syfy_2017_vertical_logo_2.svg/revision/latest?cb=20210104112713" group-title="Live Channels",SYFY East
 http://fl2.moveonjoy.com/SYFY/index.m3u8
 #EXTINF:-1 tvg-id="SyfyPacific.us" tvg-name="SYFY West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Syfy_2017_vertical_logo_2.svg/revision/latest?cb=20210104112713" group-title="Live Channels",SYFY West
@@ -676,11 +674,11 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1 tvg-id="Teleritmo.mx" tvg-name="Teleritmo" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/9/97/Teleritmo_2015.png/revision/latest?cb=20210627003145" group-title="Live Channels",Teleritmo
 http://supersonictv.live:8080/242306/210404/61847
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/01/2000px-Tennis_Channel_logo.svg_.png" group-title="Live Channels",Tennis Channel
-http://thevdm.xyz:25461/Jennifer/Year!/44185
+http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="TennisChannelPlus.us" tvg-name="Tennis Channel Plus" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/01/2000px-Tennis_Channel_logo.svg_.png" group-title="Live Channels",Tennis Channel Plus
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f.m3u8
 #EXTINF:-1 tvg-id="TLC.us" tvg-name="TLC East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="Live Channels",TLC (The Learning Channel) East
-http://thevdm.xyz:25461/Jennifer/Year!/39846
+http://fl2.moveonjoy.com/TLC/index.m3u8
 #EXTINF:-1 tvg-id="TLCPacific.us" tvg-name="TLC West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="Live Channels",TLC (The Learning Channel) West
 http://supersonictv.live:8080/242306/210404/22158
 #EXTINF:-1 tvg-id="ThrillerMAX.us" tvg-name="ThrillerMAX East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/ThrillerMax_Logo.svg/2560px-ThrillerMax_Logo.svg.png" group-title="Live Channels",ThrillerMAX East
@@ -700,7 +698,7 @@ http://thevdm.xyz:25461/Jennifer/Year!/39850
 #EXTINF:-1 tvg-id="TravelChannelPacific.us" tvg-name="Travel Channel West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.svg.png" group-title="Live Channels",Travel Channel West
 http://thevdm.xyz:25461/Jennifer/Year!/39851
 #EXTINF:-1 tvg-id="truTV.us" tvg-name="truTV East" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/truTV-White-Small.png.webp" group-title="Live Channels",truTV East
-https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/truTVEast.us.m3u8
+http://fl2.moveonjoy.com/TRU_TV/index.m3u8
 #EXTINF:-1 tvg-id="truTVPacific.us" tvg-name="truTV West" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/truTV-White-Small.png.webp" group-title="Live Channels",truTV West
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/truTVWest.us.m3u8
 #EXTINF:-1 tvg-id="TUDN.us" tvg-name="TUDN" tvg-logo="https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" group-title="Live Channels",TUDN
@@ -710,7 +708,7 @@ http://thevdm.xyz:25461/Jennifer/Year!/39855
 #EXTINF:-1 tvg-id="TVLandPacific.us" tvg-name="TVLand West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TV_Land_2015_logo.svg" group-title="Live Channels",TVLand West
 http://thevdm.xyz:25461/Jennifer/Year!/39856
 #EXTINF:-1 tvg-id="TVOne.us" tvg-name="TVOne" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV-One-logo-2016.png/640px-TV-One-logo-2016.png" group-title="Live Channels",TVOne
-http://thevdm.xyz:25461/Jennifer/Year!/39857
+http://fl2.moveonjoy.com/TV_ONE/index.m3u8
 #EXTINF:-1 tvg-id="UniMas.us" tvg-name="UniMas East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/200px-Logo_UniM%C3%A1s.svg.png" group-title="Live Channels",UniMas East
 https://unidfp-nlds164.global.ssl.fastly.net/nlds/univisionnow/unimas_east2/as/live/unimas_east2_hd_pc.m3u8?t1=
 #EXTINF:-1 tvg-id="UniMasKFTR.us" tvg-name="UniMas West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/200px-Logo_UniM%C3%A1s.svg.png" group-title="Live Channels",UniMas West
@@ -736,19 +734,19 @@ http://thevdm.xyz:25461/Jennifer/Year!/39859
 #EXTINF:-1 tvg-id="USANetworkPacific.us" tvg-name="USA Network West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg" group-title="Live Channels",USA Network West
 http://thevdm.xyz:25461/Jennifer/Year!/44205
 #EXTINF:-1 tvg-id="VH1.us" tvg-name="VH1 East" tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/640px-VH1_logonew.svg.png&w=640&q=50" group-title="Live Channels",VH1 East
-http://170.254.18.106/VH1/index.m3u8
+http://fl2.moveonjoy.com/VH1/index.m3u8
 #EXTINF:-1 tvg-id="VH1Pacific.us" tvg-name="VH1 West" tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/640px-VH1_logonew.svg.png&w=640&q=50" group-title="Live Channels",VH1 West
 http://thevdm.xyz:25461/Jennifer/Year!/39862
 #EXTINF:-1 tvg-id="Vice.us" tvg-name="Vice" tvg-logo="https://assets-global.website-files.com/6508f2cbcbf0a0248497feca/652f00047d9c66508fc2eaa1_5%20vice-logo-transparent.png" group-title="Live Channels",Vice
-http://thevdm.xyz:25461/Jennifer/Year!/44208
+http://fl2.moveonjoy.com/VICELAND/index.m3u8
 #EXTINF:-1 tvg-id="TheWeatherChannel.us" tvg-name="Weather Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" group-title="Live Channels",Weather Channel
-http://thevdm.xyz:25461/Jennifer/Year!/44189
+http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="WeTV.us" tvg-name="WeTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/WE_tvred.svg/revision/latest?cb=20210606211640" group-title="Live Channels",WeTV
 http://170.254.18.106/WE_TV/index.m3u8
 #EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE Network" tvg-logo="https://static.diceplatform.com/prod/AUTOx350/dce.wwe/settings/network_logo_new.png?ts=1552562839" group-title="Live Channels",WWE Network
 http://thevdm.xyz:25461/Jennifer/Year!/20161
 #EXTINF:-1 tvg-id="YESNetwork.us" tvg-name="YES Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/1200px-YES_Network_logo.svg.png" group-title="Live Channels",YES Network
-http://thevdm.xyz:25461/Jennifer/Year!/37840
+http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="ZonaTUDN.us" tvg-name="Zona TUDN" tvg-logo="https://iili.io/J2wureR.md.png" group-title="Live Channels",Zona TUDN
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 #EXTINF:-1 tvg-id="0" tvg-name="A Bug's Life (1998)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNThmZGY4NzgtMTM4OC00NzNkLWEwNmEtMjdhMGY5YTc1NDE4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" group-title="Movies",A Bug's Life (1998) (DisneyXD) [TV-G]
