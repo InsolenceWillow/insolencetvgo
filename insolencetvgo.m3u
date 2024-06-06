@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://supersonictv.live:8080/xmltv.php?username=242306&password=210404,http://ufospeeds.com:2095/xmltv.php?username=73622931496&password=7122224796,http://thevdm.xyz:25461/xmltv.php?username=Jennifer&password=Year!,http://6oclock.xyz/xmltv.php?username=GY5ab4se80&password=hP2xh5C63e,http://hdhd.tk/xmltv.php?username=Ford&password=Ford"
+#EXTM3U url-tvg="http://ufospeeds.com:2095/xmltv.php?username=73622931496&password=7122224796,http://thevdm.xyz:25461/xmltv.php?username=Jennifer&password=Year!,http://6oclock.xyz/xmltv.php?username=GY5ab4se80&password=hP2xh5C63e,http://hdhd.tk/xmltv.php?username=Ford&password=Ford"
 #EXTINF:-1 tvg-id="3ABNKids.us" tvg-name="3ABN Kids" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/a1/03/93/a103938e-888f-31ed-c85d-0ed2ab8d6d55/source/512x512bb.png" group-title="Live Channels",3ABN Kids
 https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
 #EXTINF:-1 tvg-id="5StarMax.us" tvg-name="5 Starmax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/5StarMax_Logo.svg/1280px-5StarMax_Logo.svg.png" group-title="Live Channels",5 Starmax
@@ -521,7 +521,7 @@ https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-id="PBSKOCE.us" tvg-name="PBS West (Los Angeles)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/1200px-PBS_logo.svg.png" group-title="Live Channels",PBS West (Los Angeles)
 http://supersonictv.live:8080/242306/210404/78431
-#EXTINF:-1 tvg-id="WPCH.us" tvg-name="Peachtree TV (WPCH)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/WPCH-TV_logo.svg/220px-WPCH-TV_logo.svg.png" group-title="Live Channels",Peachtree TV (WPCH)
+#EXTINF:-1 tvg-id="Peachtree.ca" tvg-name="Peachtree TV (WPCH)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/WPCH-TV_logo.svg/220px-WPCH-TV_logo.svg.png" group-title="Live Channels",Peachtree TV (WPCH)
 http://thevdm.xyz:25461/Jennifer/Year!/94142
 #EXTINF:-1 tvg-id="PixL.us" tvg-name="PixL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Pixl.png/revision/latest?cb=20210408045829" group-title="Live Channels",PixL
 http://thevdm.xyz:25461/Jennifer/Year!/39823
