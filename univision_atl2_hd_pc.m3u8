@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-STREAM-INF:BANDWIDTH=800000
+https://unidfp-nlds161.global.ssl.fastly.net/nlds/univisionnow/univision_atl2/as/live/univision_atl2_hd_800_pc.m3u8?hdnea=st=1717638923~exp=1717725323~acl=*~hmac=ced9f3d2059c61de47c2c206fe0b2b67dd154f268e8676cdf6d2c41003e1bbca&fdvr=dvr
+#EXT-X-STREAM-INF:BANDWIDTH=4500000
+https://unidfp-nlds161.global.ssl.fastly.net/nlds/univisionnow/univision_atl2/as/live/univision_atl2_hd_4500_pc.m3u8?hdnea=st=1717638923~exp=1717725323~acl=*~hmac=ced9f3d2059c61de47c2c206fe0b2b67dd154f268e8676cdf6d2c41003e1bbca&fdvr=dvr
+#EXT-X-STREAM-INF:BANDWIDTH=3000000
+https://unidfp-nlds161.global.ssl.fastly.net/nlds/univisionnow/univision_atl2/as/live/univision_atl2_hd_3000_pc.m3u8?hdnea=st=1717638923~exp=1717725323~acl=*~hmac=ced9f3d2059c61de47c2c206fe0b2b67dd154f268e8676cdf6d2c41003e1bbca&fdvr=dvr
+#EXT-X-STREAM-INF:BANDWIDTH=1600000
+https://unidfp-nlds161.global.ssl.fastly.net/nlds/univisionnow/univision_atl2/as/live/univision_atl2_hd_1600_pc.m3u8?hdnea=st=1717638923~exp=1717725323~acl=*~hmac=ced9f3d2059c61de47c2c206fe0b2b67dd154f268e8676cdf6d2c41003e1bbca&fdvr=dvr
+#EXT-X-STREAM-INF:BANDWIDTH=1200000
+https://unidfp-nlds161.global.ssl.fastly.net/nlds/univisionnow/univision_atl2/as/live/univision_atl2_hd_1200_pc.m3u8?hdnea=st=1717638923~exp=1717725323~acl=*~hmac=ced9f3d2059c61de47c2c206fe0b2b67dd154f268e8676cdf6d2c41003e1bbca&fdvr=dvr
+#EXT-X-STREAM-INF:BANDWIDTH=400000
+https://unidfp-nlds161.global.ssl.fastly.net/nlds/univisionnow/univision_atl2/as/live/univision_atl2_hd_400_pc.m3u8?hdnea=st=1717638923~exp=1717725323~acl=*~hmac=ced9f3d2059c61de47c2c206fe0b2b67dd154f268e8676cdf6d2c41003e1bbca&fdvr=dvr
