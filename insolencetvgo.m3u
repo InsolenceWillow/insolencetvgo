@@ -1,4 +1,10 @@
 #EXTM3U url-tvg="http://ufospeeds.com:2095/xmltv.php?username=73622931496&password=7122224796,http://thevdm.xyz:25461/xmltv.php?username=Jennifer&password=Year!,http://6oclock.xyz/xmltv.php?username=GY5ab4se80&password=hP2xh5C63e,http://hdhd.tk/xmltv.php?username=Ford&password=Ford"
+#EXTINF:-1 tvg-id="0" tvg-name="0" tvg-logo="@+$:*3" group-title="Live Channels",IMPORTANT INFORMATION
+https://small.fileditchstuff.me/s11/EWmLXPkMncFhDONTEkqC.mp4
+#EXTINF:-1 tvg-id="0" tvg-name="0" tvg-logo="@+$:*3" group-title="Movies",IMPORTANT INFORMATION
+https://small.fileditchstuff.me/s11/EWmLXPkMncFhDONTEkqC.mp4
+#EXTINF:-1 tvg-id="0" tvg-name="0" tvg-logo="@+$:*3" group-title="Past Events",IMPORTANT INFORMATION
+https://small.fileditchstuff.me/s11/EWmLXPkMncFhDONTEkqC.mp4
 #EXTINF:-1 tvg-id="3ABNKids.us" tvg-name="3ABN Kids" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/a1/03/93/a103938e-888f-31ed-c85d-0ed2ab8d6d55/source/512x512bb.png" group-title="Live Channels",3ABN Kids
 https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
 #EXTINF:-1 tvg-id="5StarMax.us" tvg-name="5 Starmax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/5StarMax_Logo.svg/1280px-5StarMax_Logo.svg.png" group-title="Live Channels",5 Starmax
@@ -779,5 +785,3 @@ https://big.fileditchstuff.me/b35/tnzqAPFJDProdEziso.MOV
 https://big.fileditchstuff.me/b34/WTuFwQvfgJpUOOqOtqMS.mp4
 #EXTINF:-1 tvg-id="0" tvg-name="Super Bowl LVIII (2/11/2024)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Super_Bowl_LVIII_logo.svg/1200px-Super_Bowl_LVIII_logo.svg.png" group-title="Past Events",Super Bowl LVIII (2/11/2024) (Nickelodeon)
 https://ia801307.us.archive.org/31/items/nickelodeon-super-bowl-lviii-from-bikini-bottom-san-francisco-49ers-vs.-kansas-city-chiefs/Nickelodeon%20Super%20Bowl%20LVIII%20From%20Bikini%20Bottom%20San%20Francisco%2049ers%20vs.%20Kansas%20City%20Chiefs.mp4
-#EXTINF:-1 tvg-id="0" tvg-name="" tvg-logo="" group-title="",Test
-https://snackje.com/wp-content/uploads/2023/10/Feastables-MrBeast-Bar-Deez-Nutz-60g.jpeg
