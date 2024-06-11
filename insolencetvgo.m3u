@@ -1,9 +1,5 @@
 #EXTM3U url-tvg="http://ufospeeds.com:2095/xmltv.php?username=73622931496&password=7122224796,http://thevdm.xyz:25461/xmltv.php?username=Jennifer&password=Year!,http://6oclock.xyz/xmltv.php?username=GY5ab4se80&password=hP2xh5C63e,http://hdhd.tk/xmltv.php?username=Ford&password=Ford"
-#EXTINF:-1 tvg-id="0" tvg-name="0" tvg-logo="@+$:*3" group-title="Live Channels",*IMPORTANT INFORMATION*
-https://small.fileditchstuff.me/s11/EWmLXPkMncFhDONTEkqC.mp4
-#EXTINF:-1 tvg-id="0" tvg-name="0" tvg-logo="@+$:*3" group-title="Movies",**IMPORTANT INFORMATION**
-https://small.fileditchstuff.me/s11/EWmLXPkMncFhDONTEkqC.mp4
-#EXTINF:-1 tvg-id="0" tvg-name="0" tvg-logo="@+$:*3" group-title="Past Events",***IMPORTANT INFORMATION***
+#EXTINF:-1 tvg-id="0" tvg-name="0" tvg-logo="@+$:*3" group-title="IMPORTANT INFOMATION",IMPORTANT INFORMATION
 https://small.fileditchstuff.me/s11/EWmLXPkMncFhDONTEkqC.mp4
 #EXTINF:-1 tvg-id="3ABNKids.us" tvg-name="3ABN Kids" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/a1/03/93/a103938e-888f-31ed-c85d-0ed2ab8d6d55/source/512x512bb.png" group-title="Live Channels",3ABN Kids
 https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
