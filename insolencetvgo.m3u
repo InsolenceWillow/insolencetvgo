@@ -121,7 +121,7 @@ https://6oclock.xyz:8443/GY5ab4se80/hP2xh5C63e/27978
 http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkPacific.us" tvg-name="Cartoon Network West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Live Channels",Cartoon Network West
 http://supersonictv.live:8080/242306/210404/21794
-#EXTINF:-1 tvg-id="CBSWSBK.us" tvg-name="CBS East" tvg-logo="https://cordcutting.com/wp-content/uploads/2022/03/CBS-Logo.png" group-title="Live Channels",CBS East (New York)
+#EXTINF:-1 tvg-id="CBSWBZ.us" tvg-name="CBS East" tvg-logo="https://cordcutting.com/wp-content/uploads/2022/03/CBS-Logo.png" group-title="Live Channels",CBS East (Boston)
 http://fl1.moveonjoy.com/CBSEAST/index.m3u8
 #EXTINF:-1 tvg-id="CBSKCBS.us" tvg-name="CBS West" tvg-logo="https://cordcutting.com/wp-content/uploads/2022/03/CBS-Logo.png" group-title="Live Channels",CBS West (Los Angeles)
 http://thevdm.xyz:25461/Jennifer/Year!/39727
