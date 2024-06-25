@@ -381,6 +381,8 @@ http://ufospeeds.com:2095/73622931496/7122224796/25
 http://thevdm.xyz:25461/Jennifer/Year!/20087
 #EXTINF:-1 tvg-id="MeTV.us" tvg-name="MeTV East" tvg-logo="https://www.metv.com/images/metv_logo.png" group-title="Live Channels",MeTV
 http://fl2.moveonjoy.com/ME_TV/index.m3u8
+#EXTINF:-1 tvg-id="MeTVToons.us" tvg-name="MeTV Toons" tvg-logo="https://animesuperhero.com/wp-content/uploads/2024/05/MeTV-Toons.png" group-title="Live Channels",MeTV Toons
+https://prod-fastly-us-east-1.video.pscp.tv/Transcoding/v1/hls/NvPTmVKQknQiH808qxgi0i0RoXL2dwcnMieqARP1cCdjzHVDQVDhoP0cuXVPyCBV8tpNi8Z8x_08Vs6V9e2KzA/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/master_dynamic_playlist.m3u8?type=live
 #EXTINF:-1 tvg-id="MilitaryHistory.us" tvg-name="Military History" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Military_History_2015.svg/revision/latest/scale-to-width-down/250?cb=20210604115718" group-title="Live Channels",Military History
 https://6oclock.xyz:8443/GY5ab4se80/hP2xh5C63e/25023
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="Live Channels",MLB Network
