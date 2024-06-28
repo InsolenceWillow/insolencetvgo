@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-STREAM-INF:BANDWIDTH=5128000
+https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1928000
+https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_3_1928000.m3u8
