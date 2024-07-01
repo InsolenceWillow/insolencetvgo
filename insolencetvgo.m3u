@@ -208,7 +208,7 @@ http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-id="DisneyXDPacific.us" tvg-name="Disney XD West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/800px-Disney_XD_-_2015.svg.png" group-title="Live Channels",Disney XD West
 http://thevdm.xyz:25461/Jennifer/Year!/25184
 #EXTINF:-1 tvg-id="MagnoliaNetwork.us" tvg-name="DIY Network (Magnolia Network) HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/DIY_Network_logo.svg" group-title="Live Channels",DIY Network (Magnolia Network)
-http://thevdm.xyz:25461/Jennifer/Year!/44034
+http://fl2.moveonjoy.com/DIY/index.m3u8
 #EXTINF:-1 tvg-id="DogTV.us" tvg-name="DogTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/DOGTV_logo.svg" group-title="Live Channels",DogTV
 http://thevdm.xyz:25461/Jennifer/Year!/39752
 #EXTINF:-1 tvg-id="EEntertainmentTelevision.us" tvg-name="E! Entertainment Television East FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/E%21_Logo_2012.svg" group-title="Live Channels",E! Entertainment Television East
