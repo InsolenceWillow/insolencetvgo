@@ -222,7 +222,7 @@ http://thevdm.xyz:25461/Jennifer/Year!/52170
 #EXTINF:-1 tvg-id="MGM+Hits.us" tvg-name="Epix 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Epix2_logo.svg" group-title="Live Channels",Epix 2
 http://fl2.moveonjoy.com/EPIX_2/index.m3u8
 #EXTINF:-1 tvg-id="MGM+DriveIn.us" tvg-name="Epix Drive-In" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/Epix_Drive-In_logo.svg" group-title="Live Channels",Epix Drive-In
-http://thevdm.xyz:25461/Jennifer/Year!/34473
+http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 #EXTINF:-1 tvg-id="MGM+Marquee.us" tvg-name="Epix Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/Epix_Hits_logo.svg" group-title="Live Channels",Epix Hits 
 http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="Live Channels",ESPN
