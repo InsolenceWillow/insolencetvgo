@@ -1,0 +1,131 @@
+#EXTM3U url-tvg="http://thevdm.xyz:25461/xmltv.php?username=Jennifer&password=Year!"
+#EXTINF:-1 tvg-id="ABCWOLO.us" tvg-name="ABC_EAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg",ABC (WOLO)
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="ACC_NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/1024px-ACC_Network_ESPN_logo.svg.png",ACC Network
+http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1200px-AMC_logo_2019.svg.png",AMC
+http://170.254.18.106/AMC/index.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal_Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg",Animal Planet
+http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
+#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC_AMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/BBC_America_logo_2021.svg",BBC America
+http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
+#EXTINF:-1 tvg-id="BBCWorldNews.us" tvg-name="BBC_WORLD_NEWS" tvg-logo="https://c.files.bbci.co.uk/16B26/production/_96566929_bbc_wn_rgb.png",BBC World News
+http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="BEIN_SPORTS" tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=06-02-2024?w=3840&q=75",beIN Sports
+http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="BET.us" tvg-name="BET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/BET-2021Logo.svg",BET
+http://170.254.18.106/BET/index.m3u8
+#EXTINF:-1 tvg-id="BETGospel.us" tvg-name="BET_GOSPEL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/BET_Gospel_2022_%28Vertical%29.svg/revision/latest?cb=20230922065149",BET Gospel
+http://fl2.moveonjoy.com/BET_GOSPEL/index.m3u8
+#EXTINF:-1 tvg-id="BETHer.us" tvg-name="BET_HER" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/BET_Her_2021.png",BET Her East
+http://fl2.moveonjoy.com/BET_HER/index.m3u8
+#EXTINF:-1 tvg-id="BETSOUL.us" tvg-name="BET_SOUL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/BET_Soul_2021_%28Vertical%29.svg/revision/latest/scale-to-width-down/250?cb=20230923015343",BET Soul
+http://fl2.moveonjoy.com/BET_SOUL/index.m3u8
+#EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="BLOOMBERG" tvg-logo="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivUxvlPidC3M/v0/-1x-1.jpg",Bloomberg
+http://fl2.moveonjoy.com/BLOOMBERG/index.m3u8
+#EXTINF:-1 tvg-id="BounceTV.us" tvg-name="Bounce" tvg-logo="https://storage.googleapis.com/btvwp-uploads/2018/02/5bfb1301-bounce_adjusted1.png",Bounce
+http://72.46.118.193/Bounce/index.m3u8
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="BRAVO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/1200px-Bravo_2017_logo.svg.png",Bravo
+https://fl2.moveonjoy.com/BRAVO/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="CARTOON_NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
+http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="CBSWBZ.us" tvg-name="CBSEAST" tvg-logo="https://cordcutting.com/wp-content/uploads/2022/03/CBS-Logo.png",CBS (WBZ)
+http://fl2.moveonjoy.com/CBSEAST/index.m3u8
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="CBS_SPORTS_NETWORK" tvg-logo="https://static.wikia.nocookie.net/viacom4633/images/7/73/ACCD68D0-9B23-449F-A783-E8CF43EE2BD4.png/revision/latest?cb=20191208013647",CBS Sports Network
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="CineMAX.us" tvg-name="CINEMAX_EAST" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Cinemax_%282011%29_%28Alternative%29.svg/revision/latest?cb=20171227101540",Cinemax
+http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png",CNN
+http://fl2.moveonjoy.com/CNN/index.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="COMEDY_CENTRAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Comedy_Central_2018_%28Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20191213112155",Comedy Central
+http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="COOKING" tvg-logo="https://theme.zdassets.com/theme_assets/9513797/13b9e8f7ab03eaf955916952cb7de6790a655b50.png",Cooking Channel
+http://170.254.18.106/COOKING/index.m3u8
+http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+http://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
+http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
+http://fl2.moveonjoy.com/EPIX/index.m3u8
+http://fl2.moveonjoy.com/EPIX_2/index.m3u8
+http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
+http://fl1.moveonjoy.com/ESPN/index.m3u8
+http://fl2.moveonjoy.com/ESPN_2/index.m3u8
+http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
+http://fl2.moveonjoy.com/ESPN_U/index.m3u8
+http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
+http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
+http://fl2.moveonjoy.com/FOX_SOCCER_PLUS/index.m3u8
+http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
+http://fl2.moveonjoy.com/FUSE/index.m3u8
+http://fl2.moveonjoy.com/FX/index.m3u8
+http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
+http://fl2.moveonjoy.com/FXX/index.m3u8
+http://fl2.moveonjoy.com/FYI/index.m3u8
+http://fl2.moveonjoy.com/GET_TV/index.m3u8
+http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+http://fl2.moveonjoy.com/HBO/index.m3u8
+http://fl2.moveonjoy.com/HBO_2/index.m3u8
+http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
+http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
+http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
+http://fl2.moveonjoy.com/HGTV/index.m3u8
+http://fl2.moveonjoy.com/HLN/index.m3u8
+http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+http://fl2.moveonjoy.com/ION_TV/index.m3u8
+http://72.46.118.193/Laff/index.m3u8
+http://fl2.moveonjoy.com/LIFETIME/index.m3u8
+http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+http://fl2.moveonjoy.com/ME_TV/index.m3u8
+http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+MotorTrend: http://fl2.moveonjoy.com/MOTOR_TREND/index.m3u8
+MSNBC: http://fl2.moveonjoy.com/MSNBC/index.m3u8
+https://fl2.moveonjoy.com/MTV/index.m3u8
+https://fl2.moveonjoy.com/MTV_2/index.m3u8
+https://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
+https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+https://fl2.moveonjoy.com/MTV_U/index.m3u8
+http://fl2.moveonjoy.com/NBA_TV/index.m3u8
+http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
+http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
+http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
+http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
+http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+http://fl2.moveonjoy.com/NICK_JR/index.m3u8
+http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
+http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
+http://fl2.moveonjoy.com/OWN/index.m3u8
+http://fl2.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
+http://fl2.moveonjoy.com/OXYGEN/index.m3u8
+http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+http://fl2.moveonjoy.com/REELZ/index.m3u8
+http://fl2.moveonjoy.com/REVOLT/index.m3u8
+http://fl2.moveonjoy.com/SEC_NETWORK/index.m3u8
+http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
+http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+http://fl2.moveonjoy.com/STADIUM/index.m3u8
+http://fl2.moveonjoy.com/STARZ/index.m3u8
+http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
+http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
+http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
+http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
+http://fl2.moveonjoy.com/SUNDANCE/index.m3u8
+http://fl2.moveonjoy.com/SYFY/index.m3u8
+http://fl1.moveonjoy.com/TBS/index.m3u8
+http://fl1.moveonjoy.com/TCM/index.m3u8
+http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+http://fl2.moveonjoy.com/TLC/index.m3u8
+https://fl2.moveonjoy.com/TNT/index.m3u8
+http://fl2.moveonjoy.com/TRU_TV/index.m3u8
+http://fl2.moveonjoy.com/TV_ONE/index.m3u8
+http://fl2.moveonjoy.com/VH1/index.m3u8
+http://fl2.moveonjoy.com/VICELAND/index.m3u8
+http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
+http://170.254.18.106/WE_TV/index.m3u8
+http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
