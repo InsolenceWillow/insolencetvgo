@@ -88,7 +88,7 @@ http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
 #EXTINF:-1 tvg-id="beINSportsEnEspanol.us" tvg-name="beIN Sports En Espanol" tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=06-02-2024?w=3840&q=75" group-title="Live Channels",beIN Sports En Espanol
 http://thevdm.xyz:25461/Jennifer/Year!/19848
 #EXTINF:-1 tvg-id="BET.us" tvg-name="BET East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/BET-2021Logo.svg" group-title="Live Channels",BET East
-http://170.254.18.106/BET/index.m3u8
+http://fl2.moveonjoy.com/BET_EAST/index.m3u8
 #EXTINF:-1 tvg-id="BETPacific.us" tvg-name="BET West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/BET-2021Logo.svg" group-title="Live Channels",BET West
 http://thevdm.xyz:25461/Jennifer/Year!/39714
 #EXTINF:-1 tvg-id="BETGospel.us" tvg-name="BET Gospel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/BET_Gospel_2022_%28Vertical%29.svg/revision/latest?cb=20230922065149" group-title="Live Channels",BET Gospel
