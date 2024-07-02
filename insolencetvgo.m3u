@@ -156,7 +156,7 @@ https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/cnn
 #EXTINF:-1 tvg-id="CNNEnEspanol.us" tvg-name="CNN en Espanol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg" group-title="Live Channels",CNN en Espanol
 http://thevdm.xyz:25461/Jennifer/Year!/19860
 #EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Comedy_Central_2018_%28Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20191213112155" group-title="Live Channels",Comedy Central East
-http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
+http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralPacific.us" tvg-name="Comedy Central West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Comedy_Central_2018_%28Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20191213112155" group-title="Live Channels",Comedy Central West
 http://thevdm.xyz:25461/Jennifer/Year!/39736
 #EXTINF:-1 tvg-id="Comet.us" tvg-name="Comet East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/1200px-Comet_logo.svg.png" group-title="Live Channels",Comet East
