@@ -280,9 +280,9 @@ http://fl2.moveonjoy.com/FYI/index.m3u8
 #EXTINF:-1 tvg-id="FYIChannelPacific.us" tvg-name="FYI West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FYI%2C_logo.svg/1200px-FYI%2C_logo.svg.png" group-title="Live Channels",FYI West
 http://ufospeeds.com:2095/73622931496/7122224796/176
 #EXTINF:-1 tvg-id="Galavision.us" tvg-name="Galavision East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/640px-Galavision_Logo_2013.svg.png" group-title="Live Channels",Galavision East
-https://unidfp-nlds159.global.ssl.fastly.net/nlds/univisionnow/galavision_east/as/live/galavision_east_hd_pc.m3u8?t1=
+https://unidfp-nlds159.global.ssl.fastly.net/nlds/univisionnow/galavision_east/as/live/galavision_east_hd_pc.m3u8?t1=test_token
 #EXTINF:-1 tvg-id="GalavisionPacific.us" tvg-name="Galavision West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/640px-Galavision_Logo_2013.svg.png" group-title="Live Channels",Galavision West
-https://unidfp-nlds159.global.ssl.fastly.net/nlds/univisionnow/galavision_west/as/live/galavision_west_hd_pc.m3u8?t1=
+https://unidfp-nlds159.global.ssl.fastly.net/nlds/univisionnow/galavision_west/as/live/galavision_west_hd_pc.m3u8?t1=test_token
 #EXTINF:-1 tvg-id="GameShowNetwork.us" tvg-name="Game Show Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/1200px-Game_Show_Network_2018.svg.png" group-title="Live Channels",Game Show Network
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="getTV.us" tvg-name="getTV" tvg-logo="https://busterhouse.com/wp-content/uploads/2018/04/gettv.png" group-title="Live Channels",getTV
@@ -718,7 +718,7 @@ https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/tru
 #EXTINF:-1 tvg-id="truTVPacific.us" tvg-name="truTV West" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/truTV-White-Small.png.webp" group-title="Live Channels",truTV West
 https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/trutvwest.us.m3u8
 #EXTINF:-1 tvg-id="TUDN.us" tvg-name="TUDN" tvg-logo="https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" group-title="Live Channels",TUDN
-https://unidfp-nlds135.global.ssl.fastly.net/nlds/univisionnow/udn/as/live/udn_hd_pc.m3u8?t1=
+https://unidfp-nlds135.global.ssl.fastly.net/nlds/univisionnow/udn/as/live/udn_hd_pc.m3u8?t1=test_token
 #EXTINF:-1 tvg-id="TVLand.us" tvg-name="TVLand East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TV_Land_2015_logo.svg" group-title="Live Channels",TVLand East
 http://thevdm.xyz:25461/Jennifer/Year!/39855
 #EXTINF:-1 tvg-id="TVLandPacific.us" tvg-name="TVLand West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TV_Land_2015_logo.svg" group-title="Live Channels",TVLand West
@@ -726,21 +726,21 @@ http://thevdm.xyz:25461/Jennifer/Year!/39856
 #EXTINF:-1 tvg-id="TVOne.us" tvg-name="TVOne" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV-One-logo-2016.png/640px-TV-One-logo-2016.png" group-title="Live Channels",TVOne
 http://fl2.moveonjoy.com/TV_ONE/index.m3u8
 #EXTINF:-1 tvg-id="UniMas.us" tvg-name="UniMas East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/200px-Logo_UniM%C3%A1s.svg.png" group-title="Live Channels",UniMas East
-https://unidfp-nlds164.global.ssl.fastly.net/nlds/univisionnow/unimas_east2/as/live/unimas_east2_hd_pc.m3u8?t1=
+https://unidfp-nlds164.global.ssl.fastly.net/nlds/univisionnow/unimas_east2/as/live/unimas_east2_hd_pc.m3u8?t1=test_token
 #EXTINF:-1 tvg-id="UniMasKFTR.us" tvg-name="UniMas West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/200px-Logo_UniM%C3%A1s.svg.png" group-title="Live Channels",UniMas West
 http://thevdm.xyz:25461/Jennifer/Year!/69261
 #EXTINF:-1 tvg-id="UniversalKids.us" tvg-name="Universal Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Universal_Kids_2019_Logo.svg" group-title="Live Channels",Universal Kids
 http://thevdm.xyz:25461/Jennifer/Year!/20881
 #EXTINF:-1 tvg-id="Univision.us" tvg-name="Univision East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="Live Channels",Univision East
-https://unidfp-nlds155.global.ssl.fastly.net/nlds/univisionnow/univision_east2/as/live/univision_east2_hd_pc.m3u8?t1=
+https://unidfp-nlds155.global.ssl.fastly.net/nlds/univisionnow/univision_east2/as/live/univision_east2_hd_pc.m3u8?t1=test_token
 #EXTINF:-1 tvg-id="UnivisionKMEX.us" tvg-name="Univision West (Los Angeles)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="Live Channels",Univision West (Los Angeles)
 http://thevdm.xyz:25461/Jennifer/Year!/69259
 #EXTINF:-1 tvg-id="UnivisionWUVG.us" tvg-name="Univision 34 Atlanta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="Live Channels",Univision 34 Atlanta
-https://unidfp-nlds161.global.ssl.fastly.net/nlds/univisionnow/univision_atl2/as/live/univision_atl2_hd_pc.m3u8?t1=
+https://unidfp-nlds161.global.ssl.fastly.net/nlds/univisionnow/univision_atl2/as/live/univision_atl2_hd_pc.m3u8?t1=test_token
 #EXTINF:-1 tvg-id="UnivisionKXLN.us" tvg-name="Univision 45 Houston" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="Live Channels",Univision 45 Houston
-https://unidfp-nlds145.global.ssl.fastly.net/nlds/univisionnow/univision_hou2/as/live/univision_hou2_hd_pc.m3u8?t1=
+https://unidfp-nlds145.global.ssl.fastly.net/nlds/univisionnow/univision_hou2/as/live/univision_hou2_hd_pc.m3u8?t1=test_token
 #EXTINF:-1 tvg-id="UnivisionWGBO.us" tvg-name="Univision 66 Chicago" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="Live Channels",Univision 66 Chicago
-https://unidfp-nlds154.global.ssl.fastly.net/nlds/univisionnow/univision_chi2/as/live/univision_chi2_hd_pc.m3u8?t1=
+https://unidfp-nlds154.global.ssl.fastly.net/nlds/univisionnow/univision_chi2/as/live/univision_chi2_hd_pc.m3u8?t1=test_token
 #EXTINF:-1 tvg-id="UnivisionTlnovelas.us" tvg-name="Univision TlNovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Univision_tlnovelas_%282019%29.svg" group-title="Live Channels",Univision TlNovelas
 http://thevdm.xyz:25461/Jennifer/Year!/20033
 #EXTINF:-1 tvg-id="UP.us" tvg-name="UPtv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/UPtv_2018_logo.svg/revision/latest/scale-to-width-down/250?cb=20220921171605" group-title="Live Channels",UPtv
