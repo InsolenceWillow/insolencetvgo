@@ -172,7 +172,7 @@ https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8?delay=1
 #EXTINF:-1 tvg-id="CrimeandInvestigationNetwork.us" tvg-name="Crime & Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg" group-title="Live Channels",Crime & Investigation
 http://supersonictv.live:8080/242306/210404/22071
 #EXTINF:-1 tvg-id="CSPAN.us" tvg-name="C-SPAN" tvg-logo="https://cdn.cookielaw.org/logos/d22918b5-2a6a-4319-9b32-da9ae46d5aea/018de6d6-63c9-76c9-b943-a6dab502c30c/8606505d-18ba-4c6a-8619-883e3c2c5877/CSPAN_RGB_Navy_and_Cobalt.png" group-title="Live Channels",C-SPAN
-http://thevdm.xyz:25461/Jennifer/Year!/39723
+http://fl2.moveonjoy.com/C-SPAN/index.m3u8
 #EXTINF:-1 tvg-id="CSPAN2.us" tvg-name="C-SPAN 2" tvg-logo="https://cdn.worldvectorlogo.com/logos/c-span2.svg" group-title="Live Channels",C-SPAN 2
 http://thevdm.xyz:25461/Jennifer/Year!/39724
 #EXTINF:-1 tvg-id="CSPAN3.us" tvg-name="C-SPAN 3" tvg-logo="https://i0.wp.com/graphicpolicy.com/wp-content/uploads/2022/11/cspan3.png?fit=800%2C250&ssl=1" group-title="Live Channels",C-SPAN 3
@@ -184,7 +184,7 @@ http://thevdm.xyz:25461/Jennifer/Year!/85970
 #EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="Destination America HD" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/Destination-America-White.png.webp" group-title="Live Channels",Destination America
 http://thevdm.xyz:25461/Jennifer/Year!/44025
 #EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel East HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/2016_Discovery_logo.svg" group-title="Live Channels",Discovery Channel East
-http://thevdm.xyz:25461/Jennifer/Year!/44026
+http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannelPacific.us" tvg-name="Discovery Channel West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/2016_Discovery_logo.svg" group-title="Live Channels",Discovery Channel West
 http://thevdm.xyz:25461/Jennifer/Year!/39747
 #EXTINF:-1 tvg-id="DiscoveryChannelEnEspanol.us" tvg-name="Discovery Channel en Espanol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Discovery_en_Espa%C3%B1ol_%282020%29.svg/2560px-Discovery_en_Espa%C3%B1ol_%282020%29.svg.png" group-title="Live Channels",Discovery Channel en Espanol
