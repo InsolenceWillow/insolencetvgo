@@ -164,7 +164,7 @@ https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 #EXTINF:-1 tvg-id="CometPacific.us" tvg-name="Comet West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/1200px-Comet_logo.svg.png" group-title="Live Channels",Comet West
 https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?delay=10800
 #EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="Cooking Channel FHD" tvg-logo="https://theme.zdassets.com/theme_assets/9513797/13b9e8f7ab03eaf955916952cb7de6790a655b50.png" group-title="Live Channels",Cooking Channel
-http://170.254.18.106/COOKING/index.m3u8
+http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="CourtTV.us" tvg-name="Court TV East" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" group-title="Live Channels",Court TV East
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 #EXTINF:-1 tvg-id="CourtTVPacific.us" tvg-name="Court TV West" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" group-title="Live Channels",Court TV West
