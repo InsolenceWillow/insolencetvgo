@@ -46,7 +46,7 @@ body:
       options:
         - 'Not 24/7'
         - 'Geo-blocked'
-        - 'None'
+        - 'Limited Token'
 
   - type: input
     attributes:
