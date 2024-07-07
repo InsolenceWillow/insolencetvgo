@@ -1,4 +1,4 @@
-name: ➕ Add stream link
+name: Add Channel
 description: Request to add a new stream link into the playlist
 title: 'Add: '
 labels: ['streams:add']
@@ -8,7 +8,7 @@ body:
     attributes:
       label: Channel ID (required)
       description: Unique channel ID from [iptv-org.github.io](https://iptv-org.github.io/). If you can't find the channel you want in the list, please let us know through this [form](https://github.com/iptv-org/database/issues/new?assignees=&labels=channels%3Aadd&projects=&template=channels_add.yml&title=Add%3A+) before posting your request.
-      placeholder: 'BBCAmericaEast.us'
+      placeholder: 'Nickelodeon.us'
     validations:
       required: true
 
@@ -16,13 +16,13 @@ body:
     attributes:
       label: Channel Name
       description: "Full name of the channel. May contain any characters except: `,`, `[`, `]`."
-      placeholder: 'BBC America East'
+      placeholder: 'Nickelodeon East'
 
   - type: input
     attributes:
       label: Stream URL (required)
       description: Link to the stream
-      placeholder: 'https://example.com/playlist.m3u8'
+      placeholder: 'https://fl2.moveonjoy.com/NICKELODEON/index.m3u8'
     validations:
       required: true
 
@@ -31,9 +31,9 @@ body:
       label: Quality
       description: Maximum video resolution available on the link
       options:
-        - 2160p
-        - 1280p
+        - 1080p60
         - 1080p
+        - 720p60
         - 720p
         - 576p
         - 480p
@@ -46,6 +46,7 @@ body:
       options:
         - 'Not 24/7'
         - 'Geo-blocked'
+        - 'None'
 
   - type: input
     attributes:
@@ -60,7 +61,7 @@ body:
   - type: input
     attributes:
       label: HTTP Referrer
-      placeholder: 'https://example.com/'
+      placeholder: 'https://fl2.moveonjoy.com/'
 
   - type: textarea
     attributes:
