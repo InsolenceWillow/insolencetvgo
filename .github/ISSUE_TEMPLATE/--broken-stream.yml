@@ -1,4 +1,4 @@
-name: 🚧 Report broken stream
+name: Report Stream Problem
 description: Report a broken or unstable stream
 title: 'Broken: '
 labels: ['broken stream']
@@ -13,7 +13,7 @@ body:
     attributes:
       label: Broken Link
       description: Please specify the broken link from a playlist
-      placeholder: 'https://lnc-kdfw-fox-aws.tubi.video/index.m3u8'
+      placeholder: 'http://fl2.moveonjoy.com/NICKELODEON/index.m3u8'
     validations:
       required: true
 
