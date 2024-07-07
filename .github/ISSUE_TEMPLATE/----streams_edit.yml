@@ -1,4 +1,4 @@
-name: ✏️ Edit stream description
+name: Edit Stream
 description: Request to edit stream description
 title: 'Edit: '
 labels: ['streams:edit']
@@ -8,7 +8,7 @@ body:
     attributes:
       label: Stream URL (required)
       description: Link to the stream from a playlist
-      placeholder: 'https://lnc-kdfw-fox-aws.tubi.video/index.m3u8'
+      placeholder: 'http://fl2.moveonjoy.com/NICKELODEON/index.m3u8'
     validations:
       required: true
 
@@ -20,23 +20,27 @@ body:
   - type: input
     attributes:
       label: Channel ID 
-      description: Channel ID from [iptv-org.github.io](https://iptv-org.github.io/).
-      placeholder: 'BBCAmericaEast.us'
+      description: 
+      placeholder: 'Nickelodeon.us'
 
   - type: input
     attributes:
       label: Channel Name
       description: "Full name of the channel. May contain any characters except: `,`, `[`, `]`."
-      placeholder: 'BBC America East'
+      placeholder: 'Nickelodeon East'
 
   - type: dropdown
     attributes:
       label: Quality
       description: Maximum video resolution available on the link
       options:
+        - 2160p60
         - 2160p
+        - 1280p60
         - 1280p
+        - 1080p60
         - 1080p
+        - 720p60
         - 720p
         - 576p
         - 480p
@@ -49,6 +53,7 @@ body:
       options:
         - 'Not 24/7'
         - 'Geo-blocked'
+        - 'No Reason'
 
   - type: input
     attributes:
@@ -63,7 +68,7 @@ body:
   - type: input
     attributes:
       label: HTTP Referrer
-      placeholder: 'https://example.com/'
+      placeholder: 'http://fl2.moveonjoy.com/'
 
   - type: textarea
     attributes:
