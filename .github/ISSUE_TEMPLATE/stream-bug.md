@@ -2,7 +2,7 @@
 name: Stream Bug
 about: 'Something is wrong with a stream! '
 title: 'Bug: '
-labels: ''
+labels: bug
 assignees: ''
 
 ---
