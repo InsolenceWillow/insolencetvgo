@@ -182,7 +182,7 @@ http://38.22.17.37:6969/stream/asd/596/master.m3u8
 #EXTINF:-1 tvg-id="CWKTLA.us" tvg-name="CW (Los Angeles)" tvg-logo="https://cdn.cookielaw.org/logos/60ba8bee-28bd-45b9-bfaf-0bc25767ba53/8759a1c2-140a-4c40-9971-9507bd445f02/96f451bb-2555-4c61-a248-8b78334b4fbe/CW-logo-black.png" group-title="Live Channels",CW West (Los Angeles)
 http://38.22.17.37:6969/stream/asd/537/master.m3u8
 #EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="Destination America HD" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/Destination-America-White.png.webp" group-title="Live Channels",Destination America
-http://thevdm.xyz:25461/Jennifer/Year!/44025
+http://38.22.17.37:6969/stream/asd/262/master.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel East HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/2016_Discovery_logo.svg" group-title="Live Channels",Discovery Channel East
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannelPacific.us" tvg-name="Discovery Channel West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/2016_Discovery_logo.svg" group-title="Live Channels",Discovery Channel West
@@ -190,7 +190,7 @@ http://thevdm.xyz:25461/Jennifer/Year!/39747
 #EXTINF:-1 tvg-id="DiscoveryChannelEnEspanol.us" tvg-name="Discovery Channel en Espanol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Discovery_en_Espa%C3%B1ol_%282020%29.svg/2560px-Discovery_en_Espa%C3%B1ol_%282020%29.svg.png" group-title="Live Channels",Discovery Channel en Espanol
 http://supersonictv.live:8080/242306/210404/61934
 #EXTINF:-1 tvg-id="DiscoveryFamilia.us" tvg-name="Discovery Familia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Discovery_Familia_logo.svg/2560px-Discovery_Familia_logo.svg.png" group-title="Live Channels",Discovery Familia
-http://thevdm.xyz:25461/Jennifer/Year!/19868
+http://38.22.17.37:6969/stream/asd/266/master.m3u8
 #EXTINF:-1 tvg-id="DiscoveryFamilyChannel.us" tvg-name="Discovery Family" tvg-logo="https://static.wikia.nocookie.net/warner-bros-entertainment/images/d/dd/Discovery_Family_logo.png/revision/latest?cb=20220703140718" group-title="Live Channels",Discovery Family
 http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryLifeChannel.us" tvg-name="Discovery Life" tvg-logo="https://adma.tmsimg.com/assets/s16125_ll_h15_ac.png?w=360&h=270" group-title="Live Channels",Discovery Life
@@ -212,7 +212,7 @@ http://fl2.moveonjoy.com/DIY/index.m3u8
 #EXTINF:-1 tvg-id="DogTV.us" tvg-name="DogTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/DOGTV_logo.svg" group-title="Live Channels",DogTV
 http://thevdm.xyz:25461/Jennifer/Year!/39752
 #EXTINF:-1 tvg-id="EEntertainmentTelevision.us" tvg-name="E! Entertainment Television East FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/E%21_Logo_2012.svg" group-title="Live Channels",E! Entertainment Television East
-http://thevdm.xyz:25461/Jennifer/Year!/39754
+http://38.22.17.37:6969/stream/asd/270/master.m3u8
 #EXTINF:-1 tvg-id="EEntertainmentTelevisionPacific.us" tvg-name="E! Entertainment Television West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/E%21_Logo_2012.svg" group-title="Live Channels",E! Entertainment Television West
 http://thevdm.xyz:25461/Jennifer/Year!/39755
 #EXTINF:-1 tvg-id="MGM+.us" tvg-name="Epix East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Epix_Logo_2009.svg/2560px-Epix_Logo_2009.svg.png" group-title="Live Channels",Epix East
@@ -230,7 +230,7 @@ http://fl1.moveonjoy.com/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN2" tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png/revision/latest?cb=20121007054435" group-title="Live Channels",ESPN2
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
 #EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="ESPN Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="Live Channels",ESPN Deportes
-http://thevdm.xyz:25461/Jennifer/Year!/19888
+http://38.22.17.37:6969/stream/asd/277/master.m3u8
 #EXTINF:-1 tvg-id="ESPNEWS.us" tvg-name="ESPNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/2560px-ESPNews.svg.png" group-title="Live Channels",ESPNews
 http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN U" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1200px-ESPN_U_logo.svg.png" group-title="Live Channels",ESPN U
@@ -246,17 +246,17 @@ http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="FOXKTTV.us" tvg-name="FOX West (Los Angeles)" tvg-logo="https://static.wikia.nocookie.net/centralpark/images/5/55/FOX.png/revision/latest?cb=20200405065309" group-title="Live Channels",FOX West (Los Angeles)
 http://38.22.17.37:6969/stream/asd/489/master.m3u8
 #EXTINF:-1 tvg-id="FoxBusiness.us" tvg-name="FOX Business" tvg-logo="https://circlecareservices.com/wp-content/uploads/2024/04/Fox_Business.png" group-title="Live Channels",FOX Business
-http://thevdm.xyz:25461/Jennifer/Year!/39761
+http://38.22.17.37:6969/stream/asd/286/master.m3u8
 #EXTINF:-1 tvg-id="FoxDeportes.us" tvg-name="FOX Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/2560px-FOX_Deportes_logo.svg.png" group-title="Live Channels",FOX Deportes
-http://thevdm.xyz:25461/Jennifer/Year!/19894
+http://38.22.17.37:6969/stream/asd/291/master.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="FOX News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="Live Channels",FOX News Channel
 http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
 #EXTINF:-1 tvg-id="FoxSoccerPlus.us" tvg-name="FOX Soccer Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/1200px-Fox_Soccer_Plus_logo.svg.png" group-title="Live Channels",FOX Soccer Plus
 http://fl2.moveonjoy.com/FOX_SOCCER_PLUS/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="FS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Live Channels",FS1
-http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="FS2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="Live Channels",FS2
-http://thevdm.xyz:25461/Jennifer/Year!/20053
+http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
 #EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="FOX Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/1200px-Fox_Weather_logo.svg.png" group-title="Live Channels",FOX Weather
 https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1 tvg-id="Freeform.us" tvg-name="Freeform East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Freeform_2022.svg/2560px-Freeform_2022.svg.png" group-title="Live Channels",Freeform East
@@ -274,7 +274,7 @@ http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
 #EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/1200px-FXX_Logo.svg.png" group-title="Live Channels",FXX East
 http://fl2.moveonjoy.com/FXX/index.m3u8
 #EXTINF:-1 tvg-id="FXXPacific.us" tvg-name="FXX West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/1200px-FXX_Logo.svg.png" group-title="Live Channels",FXX West
-http://supersonictv.live:8080/242306/210404/22095
+http://38.22.17.37:6969/stream/asd/544/master.m3u8
 #EXTINF:-1 tvg-id="FYIChannel.us" tvg-name="FYI FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FYI%2C_logo.svg/1200px-FYI%2C_logo.svg.png" group-title="Live Channels",FYI East
 http://fl2.moveonjoy.com/FYI/index.m3u8
 #EXTINF:-1 tvg-id="FYIChannelPacific.us" tvg-name="FYI West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FYI%2C_logo.svg/1200px-FYI%2C_logo.svg.png" group-title="Live Channels",FYI West
