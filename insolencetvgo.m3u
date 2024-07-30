@@ -769,6 +769,8 @@ http://fl1.moveonjoy.com/WE_TV/index.m3u8
 http://thevdm.xyz:25461/Jennifer/Year!/20161
 #EXTINF:-1 tvg-id="YESNetwork.us" tvg-name="YES Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/1200px-YES_Network_logo.svg.png" group-title="Live Channels",YES Network
 http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="Yule Log 24/7" tvg-logo="https://img1.wsimg.com/isteam/ip/28085a00-592a-4de3-9aed-d2486da82b7f/Untitled%20presentation.jpg/:/rs=w:984,h:984" group-title="Live Channels",Yule Log 24/7 (InsolenceTVGo Exclusive)
+https://ythls.armelin.one/channel/UCaJs3QtwUWJ2u_sdQVBs4XA.m3u8
 #EXTINF:-1 tvg-id="ZonaTUDN.us" tvg-name="Zona TUDN" tvg-logo="https://iili.io/J2wureR.md.png" group-title="Live Channels",Zona TUDN
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 #EXTINF:-1 tvg-id="0" tvg-name="A Bug's Life (1998)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNThmZGY4NzgtMTM4OC00NzNkLWEwNmEtMjdhMGY5YTc1NDE4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" group-title="Movies",A Bug's Life (1998) (DisneyXD) [TV-G]
