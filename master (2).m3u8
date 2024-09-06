@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-STREAM-INF:BANDWIDTH=400000
+https://unidfp-nlds155.global.ssl.fastly.net/linear/hls/pa/event/MpRfxL7YRce-hMKhzSB7Ow/stream/754a5e22-8054-4b55-9576-875c4bf9d509:CHS/variant/6105cc75ae7671d8db54626682431383/bandwidth/400000.m3u8?hdnea=st=1725626821~exp=1725713221~acl=*~hmac=318c6ffe0fd9797afcfdc5b54185eee8e1c07fe1d8ded3bf2a4b434add690768&fsrc=player
+#EXT-X-STREAM-INF:BANDWIDTH=1200000
+https://unidfp-nlds155.global.ssl.fastly.net/linear/hls/pa/event/MpRfxL7YRce-hMKhzSB7Ow/stream/754a5e22-8054-4b55-9576-875c4bf9d509:CHS/variant/016262310c74f543bf679ba4045e601b/bandwidth/1200000.m3u8?hdnea=st=1725626821~exp=1725713221~acl=*~hmac=318c6ffe0fd9797afcfdc5b54185eee8e1c07fe1d8ded3bf2a4b434add690768&fsrc=player
+#EXT-X-STREAM-INF:BANDWIDTH=800000
+https://unidfp-nlds155.global.ssl.fastly.net/linear/hls/pa/event/MpRfxL7YRce-hMKhzSB7Ow/stream/754a5e22-8054-4b55-9576-875c4bf9d509:CHS/variant/f7964a1ca481682e21dd93b2ebc7acb4/bandwidth/800000.m3u8?hdnea=st=1725626821~exp=1725713221~acl=*~hmac=318c6ffe0fd9797afcfdc5b54185eee8e1c07fe1d8ded3bf2a4b434add690768&fsrc=player
+#EXT-X-STREAM-INF:BANDWIDTH=240000
+https://unidfp-nlds155.global.ssl.fastly.net/linear/hls/pa/event/MpRfxL7YRce-hMKhzSB7Ow/stream/754a5e22-8054-4b55-9576-875c4bf9d509:CHS/variant/271b54a9e9ee10b63e066a19f23d800d/bandwidth/240000.m3u8?hdnea=st=1725626821~exp=1725713221~acl=*~hmac=318c6ffe0fd9797afcfdc5b54185eee8e1c07fe1d8ded3bf2a4b434add690768&fsrc=player
+#EXT-X-STREAM-INF:BANDWIDTH=150000
+https://unidfp-nlds155.global.ssl.fastly.net/linear/hls/pa/event/MpRfxL7YRce-hMKhzSB7Ow/stream/754a5e22-8054-4b55-9576-875c4bf9d509:CHS/variant/742d73fca5a386391bb4b02e90e9b02a/bandwidth/150000.m3u8?hdnea=st=1725626821~exp=1725713221~acl=*~hmac=318c6ffe0fd9797afcfdc5b54185eee8e1c07fe1d8ded3bf2a4b434add690768&fsrc=player
