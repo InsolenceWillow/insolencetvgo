@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://defaultgen.com:3050/xmltv.php?username=R9YN4ecdXe&password=ZJs7z2yXSw,https://i.mjh.nz/PlutoTV/us.xml"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz,http://defaultgen.com:3050/xmltv.php?username=R9YN4ecdXe&password=ZJs7z2yXSw,https://i.mjh.nz/PlutoTV/us.xml"
 #EXTINF:-1 tvg-id="0" tvg-name="0" tvg-logo="" group-title="IMPORTANT INFOMATION",IMPORTANT INFORMATION
 https://small.fileditchstuff.me/s11/EWmLXPkMncFhDONTEkqC.mp4
 #EXTINF:-1 tvg-id="3ABNKids.us" tvg-name="3ABN Kids" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/a1/03/93/a103938e-888f-31ed-c85d-0ed2ab8d6d55/source/512x512bb.png" group-title="Live Channels",3ABN Kids
