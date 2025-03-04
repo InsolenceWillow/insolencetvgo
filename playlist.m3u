@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1,Bounce[720x480]
+http://72.46.118.193/Bounce/index.m3u8
+#EXTINF:-1,Grit[720x480]
+http://72.46.118.193/Grit/index.m3u8
+#EXTINF:-1,Laff[720x480]
+http://72.46.118.193/Laff/index.m3u8
+#EXTINF:-1,Defy[720x480]
+http://72.46.118.193/Defy/index.m3u8
+#EXTINF:-1,Court[720x480]
+http://72.46.118.193/Court/index.m3u8
+#EXTINF:-1,Newsy[720x480]
+http://72.46.118.193/Newsy/index.m3u8
+#EXTINF:-1,UTV[1920x1080]
+http://173.225.32.123/UTV-2362/index.m3u8
+#EXTINF:-1,ME TV[1922x1080]
+http://173.225.32.123/KPRY-MeTV-2347/index.m3u8
+#EXTINF:-1,COZI[1922x1080]
+http://173.225.32.123/Cozi-2358/index.m3u8
+#EXTINF:-1,LAKEFIELD[720x638]
+http://173.225.32.123/LAKEFIELD-2370/index.m3u8
+#EXTINF:-1,JACKSON[704x638]
+http://173.225.32.123/JACKSON-2371/index.m3u8
+#EXTINF:-1,Bravo[1024x576]
+http://170.254.18.106/BRAVO/index.m3u8
+
+You want me to put it into a custom link or you wanna do it?
