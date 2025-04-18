@@ -1,85 +1,19 @@
-# American Channels
-VH1 https://streamer1.nexgen.bz/VH1/index.m3u8
-TNT https://streamer1.nexgen.bz/TNT/index.m3u8
-HGTV https://streamer1.nexgen.bz/HGTV/index.m3u8
-Food Network https://streamer1.nexgen.bz/FOOD/index.m3u8
-MTV https://streamer1.nexgen.bz/MTV/index.m3u8
-USA Network https://streamer1.nexgen.bz/USA/index.m3u8
-TBS https://streamer1.nexgen.bz/TBS/index.m3u8
-Bravo https://streamer1.nexgen.bz/BRAVO/index.m3u8
-BET https://streamer1.nexgen.bz/BET/index.m3u8
-Nickelodeon https://tx2.nexgen.bz:4000/NICKELODEON/index.m3u8
-Paramount Network https://streamer1.nexgen.bz/PARAMOUNT/index.m3u8
-LifeTime Movie Network https://streamer1.nexgen.bz/LMN/index.m3u8
-FX - https://streamer1.nexgen.bz//FX/index.m3u8
-AMC - https://streamer1.nexgen.bz//AMC/index.m3u8
-ATN - https://streamer1.nexgen.bz//ATN/index.m3u8
-AXN - https://streamer1.nexgen.bz//AXN/index.m3u8
-BET - https://streamer1.nexgen.bz//BET/index.m3u8
-GET - https://streamer1.nexgen.bz//GET/index.m3u8
-GSN - https://streamer1.nexgen.bz//GSN/index.m3u8
-HMM - https://streamer1.nexgen.bz//HMM/index.m3u8
-HTV - https://streamer1.nexgen.bz//HTV/index.m3u8
-LMN - https://streamer1.nexgen.bz//LMN/index.m3u8
-MTV - https://streamer1.nexgen.bz//MTV/index.m3u8
-TBN - https://streamer1.nexgen.bz//TBN/index.m3u8
-TBS - https://streamer1.nexgen.bz//TBS/index.m3u8
-TCM - https://streamer1.nexgen.bz//TCM/index.m3u8
-TLC - https://streamer1.nexgen.bz//TLC/index.m3u8
-TNT - https://streamer1.nexgen.bz//TNT/index.m3u8
-USA - https://streamer1.nexgen.bz//USA/index.m3u8
-HBO2 - https://streamer1.nexgen.bz//HBO2/index.m3u8
-CINEMAX - https://streamer1.nexgen.bz//CINEMAX/index.m3u8
-VH1 - https://streamer1.nexgen.bz//VH1/index.m3u8
-HGTV - https://streamer1.nexgen.bz//HGTV/index.m3u8
-LIFETIME - https://streamer1.nexgen.bz//LIFETIME/index.m3u8
-DISCOVERY - https://streamer1.nexgen.bz//DISCOVERY/index.m3u8
-HISTORY - https://streamer1.nexgen.bz//HISTORY/index.m3u8
-FUSE - https://streamer1.nexgen.bz//FUSE/index.m3u8
-HALLMARK - https://streamer1.nexgen.bz//HALLMARK/index.m3u8
-BRAVO https://streamer1.nexgen.bz/BRAVO/index.m3u8
-TRUTV - https://streamer1.nexgen.bz//TRUTV/index.m3u8
-FOOD - https://streamer1.nexgen.bz//FOOD/index.m3u8
-SYFY - https://streamer1.nexgen.bz//SYFY/index.m3u8
-ATN - https://tx2.nexgen.bz:4000//ATN/index.m3u8
-AXN - https://tx2.nexgen.bz:4000//AXN/index.m3u8
-BET - https://tx2.nexgen.bz:4000//BET/index.m3u8
-CARTOON - https://tx2.nexgen.bz:4000//CARTOON/index.m3u8
-COOKING - https://tx2.nexgen.bz:4000//COOKING/index.m3u8
-HGTV - https://tx2.nexgen.bz:4000//HGTV/index.m3u8
-ESPN - https://tx2.nexgen.bz:4000//ESPN/index.m3u8
-LIFETIME - https://tx2.nexgen.bz:4000//LIFETIME/index.m3u8
-MTV - https://tx2.nexgen.bz:4000//MTV/index.m3u8
-BYU - https://tx2.nexgen.bz:4000//BYU/index.m3u8
-CBC - https://tx2.nexgen.bz:4000//CBC/index.m3u8
-NICKELODEON - https://tx2.nexgen.bz:4000//NICKELODEON/index.m3u8
-OUTDOOR - https://tx2.nexgen.bz:4000//OUTDOOR/index.m3u8
-VH1 - https://tx2.nexgen.bz:4000//VH1/index.m3u8
-TNT - https://tx2.nexgen.bz:4000//TNT/index.m3u8
-TBS - TBN - https://tx2.nexgen.bz:4000//TBN/index.m3u8
-TBS - https://tx2.nexgen.bz:4000//TBS/index.m3u8
-TCM - https://tx2.nexgen.bz:4000//TCM/index.m3u8
-TNT - https://tx2.nexgen.bz:4000//TNT/index.m3u8
-SYFY `but it may be USA`- https://tx2.nexgen.bz:4000//SYFY/index.m3u8
-FOX - https://tx2.nexgen.bz:4000//FOX/index.m3u8
-GET - https://tx2.nexgen.bz:4000//GET/index.m3u8
-HTV - https://tx2.nexgen.bz:4000//HTV/index.m3u8
-LMN - https://tx2.nexgen.bz:4000//LMN/index.m3u8
-MLB - https://tx2.nexgen.bz:4000//MLB/index.m3u8
-MTV - https://tx2.nexgen.bz:4000//MTV/index.m3u8
-NBA - https://tx2.nexgen.bz:4000//NBA/index.m3u8
-NFL - https://tx2.nexgen.bz:4000//NFL/index.m3u8
-WGN - https://tx2.nexgen.bz:4000//WGN/index.m3u8
-VH1 - https://tx2.nexgen.bz:4000//VH1/index.m3u8
-ESPN - https://tx2.nexgen.bz:4000//ESPN/index.m3u8
-ESPN2 - https://tx2.nexgen.bz:4000//ESPN2/index.m3u8
-PARAMOUNT - https://tx2.nexgen.bz:4000//PARAMOUNT/index.m3u8
-SYFY - https://tx2.nexgen.bz:4000//SYFY/index.m3u8
-CARTOON - https://tx2.nexgen.bz:4000//CARTOON/index.m3u8
-HGTV - https://tx2.nexgen.bz:4000//HGTV/index.m3u8
-HISTORY - https://tx2.nexgen.bz:4000//HISTORY/index.m3u8
-HGTV - https://tx2.nexgen.bz:4000//HGTV/index.m3u8
-HISTORY - https://tx2.nexgen.bz:4000//HISTORY/index.m3u8
-BOUNCE - https://tx2.nexgen.bz:4000//BOUNCE/index.m3u8
-ESPN2 - https://tx2.nexgen.bz:4000//ESPN2/index.m3u8
-WGN - https://tx2.nexgen.bz:4000//WGN/index.m3u8
+MTV's Hip-Hop 50th Anniversary Playlist (MTV USA, 11.08.2023)
+
+The Botorious B.I.G. feat. Mase & Puff Daddy - Mo Money Mo Problems
+Nicki Minaj - Super Bass
+Puff Daddy feat. Faith Evans & 112 - I'll Be Missing You
+De La Soul - Me Myself And I
+Missy Elliott - Get Ur Freak On
+Drake - Started From The Bottom
+Dr. Dre - Nuthin' But A 'G' Thang
+Nelly - Hot In Herre
+Megan Thee Stallion - Savage (Animated Video)
+Eric B. and Rakim - Don't Sweat The Techinque
+Outkast - Ms. Jackson
+Run-D.M.C. - It's Tricky
+Jay-Z feat. U.G.K. - Big Pimpin' (Milk Box Version)
+Busta Rhymes and Mariah Carey feat. Flipmode Squad - I Know What You Want
+The Fugees (Refugee Camp) - Killing Me Softly
+Nas - The World Is Yours
+Snoop Dogg feat. Pharrell - Drop It Like It's Hot
