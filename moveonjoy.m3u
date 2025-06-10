@@ -231,6 +231,8 @@ http://fl1.moveonjoy.com/SYFY/index.m3u8
 http://fl1.moveonjoy.com/TBS/index.m3u8
 #EXTINF:-1 tvg-id="TCM.us" tvg-name="TCM East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/TCM_2021.svg" group-title="Live Channels",TCM (Turner Classic Movies) East
 http://fl1.moveonjoy.com/TCM/index.m3u8
+#EXTINF:-1 tvg-id="TeenNick.us" tvg-name="TeenNick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/TeenNick_2023_Outlined_Logo.png" group-title="Live Channels",TeenNick
+http://fl1.moveonjoy.com/Teen_Nick/index.m3u8
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/01/2000px-Tennis_Channel_logo.svg_.png" group-title="Live Channels",Tennis Channel
 http://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="TLC.us" tvg-name="TLC East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="Live Channels",TLC (The Learning Channel) East
