@@ -22,7 +22,7 @@ https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/asw
 #EXTINF:-1 tvg-id="AandENetwork.us" tvg-name="A&E FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logo_AE_Germany.svg/1200px-Logo_AE_Germany.svg.png" group-title="Live Channels",A&E
 http://74.48.44.156:1234/stream/asd/205/master.m3u8
 #EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1200px-AMC_logo_2019.svg.png" group-title="Live Channels",AMC East
-http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+https://tvpass.org/live/AMCEast/hd
 #EXTINF:-1 tvg-id="AMCPacific.us" tvg-name="AMC West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1200px-AMC_logo_2019.svg.png" group-title="Live Channels",AMC West
 http://ufospeeds.com:2095/73622931496/7122224796/167
 #EXTINF:-1 tvg-id="AMCPlus.us" tvg-name="AMC Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/AMC%2B_logo.png" group-title="Live Channels",AMC Plus
